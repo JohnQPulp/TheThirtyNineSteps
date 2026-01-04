@@ -112,7 +112,7 @@ I took him into my bedroom and turned him loose. In half an hour’s time a figu
 
 I made him up a bed in my smoking-room and sought my own couch, more cheerful than I had been for the past month. Things did happen occasionally, even in this God-forgotten metropolis.
 
-------------------------------------------------------------------------
+—
 
 I woke next morning to hear my man, Paddock, making the deuce of a row at the smoking-room door.
 
@@ -288,9 +288,7 @@ About six in the evening I came out of the moorland to a white ribbon of road wh
 
 He was smoking a long clay pipe and studying the water with spectacled eyes. In his left hand was a small book with a finger marking the place. Slowly he repeated﻿—
 
-> “As when a Gryphon through the wilderness  
-> With winged step, o’er hill and moory dale  
-> Pursues the Arimaspian.”
+“As when a Gryphon through the wilderness With winged step, o’er hill and moory dale Pursues the Arimaspian.”
 
 He jumped round as my step rung on the keystone, and I saw a pleasant sunburnt boyish face.
 
@@ -342,7 +340,7 @@ He caught my elbow in his eagerness and drew me towards the house. “You can li
 
 As I entered the inn porch I heard from far off the beat of an engine. There silhouetted against the dusky West was my friend, the monoplane.
 
-------------------------------------------------------------------------
+—
 
 He gave me a room at the back of the house, with a fine outlook over the plateau, and he made me free of his own study, which was stacked with cheap editions of his favourite authors. I never saw the grandmother, so I guessed she was bedridden. An old woman called Margit brought me my meals, and the innkeeper was around me at all hours. I wanted some time to myself, so I invented a job for him. He had a motor-bicycle, and I sent him off next morning for the daily paper, which usually arrived with the post in the late afternoon. I told him to keep his eyes skinned, and make note of any strange figures he saw, keeping a special sharp lookout for motors and aeroplanes. Then I sat down in real earnest to Scudder’s notebook.
 
@@ -366,7 +364,7 @@ I made him tell me what they looked like. One was a dark-eyed thin fellow with b
 
 I took a bit of paper and wrote these words in German as if they were part of a letter﻿—
 
-> … “Black Stone. Scudder had got on to this, but he could not act for a fortnight. I doubt if I can do any good now, especially as Karolides is uncertain about his plans. But if Mr. T. advises I will do the best I﻿ ﻿…”
+… “Black Stone. Scudder had got on to this, but he could not act for a fortnight. I doubt if I can do any good now, especially as Karolides is uncertain about his plans. But if Mr. T. advises I will do the best I﻿ ﻿…”
 
 I manufactured it rather neatly, so that it looked like a loose page of a private letter.
 
@@ -424,7 +422,7 @@ Suddenly on my left I heard the hoot of another car, and realized to my horror t
 
 But there I was mistaken. My car slithered through the hedge like butter, and then gave a sickening plunge forward. I saw what was coming, leapt on the seat and would have jumped out. But a branch of hawthorn got me in the chest, lifted me up and held me, while a ton or two of expensive metal slipped below me, bucked and pitched, and then dropped with an almighty smash fifty feet to the bed of the stream.
 
-------------------------------------------------------------------------
+—
 
 Slowly that thorn let me go. I subsided first on the hedge, and then very gently on a bower of nettles. As I scrambled to my feet a hand took me by the arm, and a sympathetic and badly scared voice asked me if I were hurt.
 
@@ -1202,25 +1200,25 @@ All this was very loose guessing, and I don’t pretend it was ingenious or scie
 
 So I set out all my conclusions on a bit of Admiralty paper. They ran like this:
 
-> Fairly Certain
->
-> 1.  Place where there are several sets of stairs; one that matters distinguished by having thirty-nine steps.
->
-> 2.  Full tide at 10:17 p.m. Leaving shore only possible at full tide.
->
-> 3.  Steps not dock steps, and so place probably not harbour.
->
-> 4.  No regular night steamer at 10:17. Means of transport must be tramp (unlikely), yacht, or fishing-boat.
+Fairly Certain
+
+1.  Place where there are several sets of stairs; one that matters distinguished by having thirty-nine steps.
+
+2.  Full tide at 10:17 p.m. Leaving shore only possible at full tide.
+
+3.  Steps not dock steps, and so place probably not harbour.
+
+4.  No regular night steamer at 10:17. Means of transport must be tramp (unlikely), yacht, or fishing-boat.
 
 There my reasoning stopped. I made another list, which I headed “Guessed,” but I was just as sure of the one as the other.
 
-> Guessed
->
-> 1.  Place not harbour but open coast.
->
-> 2.  Boat small﻿—trawler, yacht, or launch.
->
-> 3.  Place somewhere on East Coast between Cromer and Dover.
+Guessed
+
+1.  Place not harbour but open coast.
+
+2.  Boat small﻿—trawler, yacht, or launch.
+
+3.  Place somewhere on East Coast between Cromer and Dover.
 
 It struck me as odd that I should be sitting at that desk with a Cabinet minister, a field marshal, two high government officials, and a French general watching me, while from the scribble of a dead man I was trying to drag a secret which meant life or death for us.
 
@@ -1402,7 +1400,7 @@ I accepted as if it had been an ordinary invitation at the club. The whole busin
 
 My partner was the young dark one. I play a fair hand at bridge, but I must have been rank bad that night. They saw that they had got me puzzled, and that put them more than ever at their ease. I kept looking at their faces, but they conveyed nothing to me. It was not that they looked different; they *were* different. I clung desperately to the words of Peter Pienaar.
 
-------------------------------------------------------------------------
+—
 
 Then something awoke me.
 
@@ -1456,6 +1454,6 @@ As the handcuffs clinked on his wrists I said my last word to him.
 
 “I hope Franz will bear his triumph well. I ought to tell you that the *Ariadne* for the last hour has been in our hands.”
 
-------------------------------------------------------------------------
+—
 
 Three weeks later, as all the world knows, we went to war. I joined the New Army the first week, and owing to my Matabele experience got a captain’s commission straight off. But I had done my best service, I think, before I put on khaki.
