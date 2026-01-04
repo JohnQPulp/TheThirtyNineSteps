@@ -1,0 +1,6 @@
+out.html
+*.swp
+*.jpeg
+*.png
+jpegs/*
+pngs/*
