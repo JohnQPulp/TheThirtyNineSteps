@@ -10,7 +10,7 @@ n:hannay=Richard Hannay;e:hannay=unhappy
 I had been three months in the Old Country, and was fed up with it.
 
 
-If anyone had told me a year ago that I would have been feeling like that I should have laughed at him; but there was the fact.
+If anyone had told me a year ago that I would have been feeling like that I should have laughed at him; but there was the fact.<e>TODO: awkward</e>
 
 
 The weather made me liverish, the talk of the ordinary Englishman made me sick.
@@ -97,7 +97,7 @@ I gave half-a-crown to a beggar because I saw him yawn; he was a fellow-sufferer
 At Oxford Circus I looked up into the spring sky and I made a vow.
 
 
-I would give the Old Country another day to fit me into something; if nothing happened, I would take the next boat for the Cape.
+I would give the Old Country another day to fit me into something; if nothing happened, I would take the next boat for the Cape.<e>TODO: dynamic protag</e>
 e:hannay=neutral
 
 My flat was the first floor in a new block behind Langham Place.
@@ -241,10 +241,7 @@ When I asked why, he said that the anarchist lot thought it would give them thei
 Everything would be in the melting-pot, and they looked to see a new world emerge.
 
 
-The capitalists would rake in the shekels, and make fortunes by buying up wreckage.
-
-
-Capital, he said, had no conscience and no fatherland. Besides, the Jew was behind it, and the Jew hated Russia worse than hell.
+The capitalists would rake in the shekels, and make fortunes by buying up wreckage. Capital, he said, had no conscience and no fatherland. Besides, the Jew was behind it, and the Jew hated Russia worse than hell.<e>TODO</e>
 
 
 “Do you wonder?” he cried. “For three hundred years they have been persecuted, and this is the return match for the pogroms.”
@@ -283,13 +280,13 @@ s=hannay;e:hannay=confused
 “*Mors janua vitae*,” he smiled.
 s=scudder;e:scudder=smirking
 
-(I recognized the quotation: it was about all the Latin I knew.)
+(I recognized the quotation: it was about all the Latin I knew.)<e>TODO</e>
 
 
-“I’m coming to that, but I’ve got to put you wise about a lot of things first. If you read your newspaper, I guess you know the name of Constantine Karolides?”
+“I’m coming to that, but I’ve got to put you wise about a lot of things first. If you read your newspaper, I guess you know the name of Constantine Karolides?”<e>TODO: convenient; context</e>
 s=scudder;e:scudder=neutral
 
-I sat up at that, for I had been reading about him that very afternoon.
+I sat up at that, for I had been reading about him that very afternoon.<e>TODO: author says the quiet part!</e>
 s=;e:hannay=surprised
 
 “He is the man that has wrecked all their games. He is the one big brain in the whole show, and he happens also to be an honest man. Therefore he has been marked down these twelve months past.”
@@ -322,7 +319,7 @@ s=hannay
 “No good. They might stuff your city with plainclothes detectives and double the police and Constantine would still be a doomed man.”
 s=scudder
 
-“My friends are not playing this game for candy. They want a big occasion for the taking off, with the eyes of all Europe on it. He’ll be murdered by an Austrian, and there’ll be plenty of evidence to show the connivance of the big folk in Vienna and Berlin.”
+“My friends are not playing this game for candy. They want a big occasion for the taking off, with the eyes of all Europe on it. He’ll be murdered by an Austrian, and there’ll be plenty of evidence to show the connivance of the big folk in Vienna and Berlin.”<e>TODO</e>
 
 
 “It will all be an infernal lie, of course, but the case will look black enough to the world. I’m not talking hot air, my friend.”
@@ -349,8 +346,11 @@ s=scudder;e:scudder=thinking
 “I completed my evidence ten days ago in Paris. I can’t tell you the details now, for it’s something of a history. When I was quite sure in my own mind I judged it my business to disappear, and I reached this city by a mighty queer circuit.”
 
 
-“I left Paris a dandified young French-American, and I sailed from Hamburg a Jew diamond merchant. In Norway I was an English student of Ibsen collecting materials for lectures, but when I left Bergen I was a cinema-man with special ski films.”
+“I left Paris a dandified young French-American, and I sailed from Hamburg a Jew diamond merchant.”<e>TODO</e>
+e:scudder=smirking
 
+“In Norway I was an English student of Ibsen collecting materials for lectures, but when I left Bergen I was a cinema-man with special ski films.”
+e:scudder=thinking
 
 “And I came here from Leith with a lot of pulpwood propositions in my pocket to put before the London newspapers. Till yesterday I thought I had muddied my trail some, and was feeling pretty happy. Then…”
 e:scudder=fearful
@@ -358,7 +358,7 @@ e:scudder=fearful
 The recollection seemed to upset him, and he gulped down some more whisky.
 s=
 
-“Then I saw a man standing in the street outside this block. I used to stay close in my room all day, and only slip out after dark for an hour or two.”
+“Then I saw a man standing in the street outside this block. I used to stay close in my room all day, and only slip out after dark for an hour or two.”<e>TODO: seven uses of "an hour or two"</e>
 s=scudder
 
 “I watched him for a bit from my window, and I thought I recognized him… He came in and spoke to the porter…”
@@ -445,10 +445,10 @@ s=hannay;e:hannay=neutral
 “I’ll lock you into this room and keep the key. Just one word, Mr. Scudder.”
 
 
-“I believe you’re straight, but if so be you are not I should warn you that I’m a handy man with a gun.”
+“I believe you’re straight, but if so be you are not I should warn you that I’m a handy man with a gun.”<e>TODO</e>
 
 
-“Sure,” he said, jumping up with some briskness. “I haven’t the privilege of your name, sir, but let me tell you that you’re a white man.”
+“Sure,” he said, jumping up with some briskness. “I haven’t the privilege of your name, sir, but let me tell you that you’re a white man.”<e>TODO</e>
 s=scudder;e:scudder=happy
 
 “I’ll thank you to lend me a razor.”
@@ -463,7 +463,7 @@ e:hannay=surprised
 He was shaved clean, his hair was parted in the middle, and he had cut his eyebrows.
 
 
-Further, he carried himself as if he had been drilled, and was the very model, even to the brown complexion, of some British officer who had had a long spell in India.
+Further, he carried himself as if he had been drilled, and was the very model, even to the brown complexion, of some British officer who had had a long spell in India.<e>TODO: implication?</e>
 
 
 He had a monocle, too, which he stuck in his eye, and every trace of the American had gone out of his speech.
@@ -481,7 +481,7 @@ s=scudder
 I made him up a bed in my smoking-room and sought my own couch, more cheerful than I had been for the past month.
 s=;e:hannay=happy
 
-Things did happen occasionally, even in this God-forgotten metropolis.
+Things did happen occasionally, even in this God-forgotten metropolis.<e>TODO</e>
 
 
 —
@@ -490,7 +490,7 @@ Things did happen occasionally, even in this God-forgotten metropolis.
 I woke next morning to hear my man, Paddock, making the deuce of a row at the smoking-room door.
 n:paddock=Paddock;e:paddock=angry;e:hannay=weary
 
-Paddock was a fellow I had done a good turn to out on the Selakwe, and I had inspanned him as my servant as soon as I got to England.
+Paddock was a fellow I had done a good turn to out on the Selakwe, and I had inspanned him as my servant as soon as I got to England.<e>TODO: inspan apparently a South Africanism</e>
 
 
 He had about as much gift of the gab as a hippopotamus, and was not a great hand at valeting, but I knew I could count on his loyalty.
@@ -652,7 +652,7 @@ Then I staggered to a cupboard, found the brandy and swallowed several mouthfuls
 Still I managed to pull myself together. I looked at my watch, and saw that it was half-past ten.
 e:hannay=weary
 
-An idea seized me, and I went over the flat with a small-tooth comb.
+An idea seized me, and I went over the flat with a small-tooth comb.<e>TODO</e>
 e:hannay=thinking
 
 There was nobody there, nor any trace of anybody, but I shuttered and bolted all the windows and put the chain on the door.
@@ -691,7 +691,7 @@ I had lied to Paddock about him, and the whole thing looked desperately fishy.
 If I made a clean breast of it and told the police everything he had told me, they would simply laugh at me.
 e:hannay=unhappy
 
-The odds were a thousand to one that I would be charged with the murder, and the circumstantial evidence was strong enough to hang me.
+The odds were a thousand to one that I would be charged with the murder, and the circumstantial evidence was strong enough to hang me.<e>TODO: one bayesian to another, recalibrate downwards</e>
 
 
 Few people knew me in England; I had no real pal who could come forward and swear to my character.
@@ -727,10 +727,10 @@ e:hannay=thinking
 I must vanish somehow, and keep vanished till the end of the second week in June.
 
 
-Then I must somehow find a way to get in touch with the government people and tell them what Scudder had told me.
+Then I must somehow find a way to get in touch with the government people and tell them what Scudder had told me.<e>TODO: "government people"</e>
 
 
-I wished to Heaven he had told me more, and that I had listened more carefully to the little he had told me.
+I wished to Heaven he had told me more, and that I had listened more carefully to the little he had told me.<e>TODO: just playing chess for *four* days?</e>
 e:hannay=unhappy
 
 I knew nothing but the barest facts. There was a big risk that, even if I weathered the other dangers, I would not be believed in the end.
@@ -787,7 +787,7 @@ Scudder would never have left them in that state, for he was the tidiest of mort
 Someone must have been searching for something—perhaps for the pocketbook.
 e:hannay=thinking
 
-I went round the flat and found that everything had been ransacked—the inside of books, drawers, cupboards, boxes, even the pockets of the clothes in my wardrobe, and the sideboard in the dining-room.
+I went round the flat and found that everything had been ransacked—the inside of books, drawers, cupboards, boxes, even the pockets of the clothes in my wardrobe, and the sideboard in the dining-room.<e>TODO: after his "hour or two" wait. Unless figurative. It is his catchphrase</e>
 
 
 There was no trace of the book. Most likely the enemy had found it, but they had not found it on Scudder’s body.
@@ -1015,7 +1015,7 @@ s=;e:sailor=unhappy
 I reminded myself that a week ago I had been finding the world dull.
 e:hannay=smirking
 
-## III. The Adventure of the Literary Innkeeper
+## III. The Adventure of the Literary Innkeeper<e>TODO: gear up for adventure</e>
 
 
 I had a solemn time travelling north that day.
@@ -1027,7 +1027,7 @@ t=hannay;e:hannay=unhappy
 I didn’t dare face the restaurant car, but I got a luncheon-basket at Leeds and shared it with the fat woman.
 t=
 
-Also I got the morning’s papers, with news about starters for the Derby and the beginning of the cricket season, and some paragraphs about how Balkan affairs were settling down and a British squadron was going to Kiel.
+Also I got the morning’s papers, with news about starters for the Derby and the beginning of the cricket season, and some paragraphs about how Balkan affairs were settling down and a British squadron was going to Kiel.<e>TODO: 1914</e>
 e:hannay=neutral
 
 When I had done with them I got out Scudder’s little black pocketbook and studied it.
@@ -1060,7 +1060,7 @@ e:hannay=neutral
 There was a man on the platform whose looks I didn’t like, but he never glanced at me, and when I caught sight of myself in the mirror of an automatic machine I didn’t wonder.
 e:hannay=wary
 
-With my brown face, my old tweeds, and my slouch, I was the very model of one of the hill farmers who were crowding into the third-class carriages.
+With my brown face, my old tweeds, and my slouch, I was the very model of one of the hill farmers who were crowding into the third-class carriages.<e>TODO: major general parody</e>
 e:hannay=smirking
 
 I travelled with half a dozen in an atmosphere of shag and clay pipes.
@@ -1084,7 +1084,7 @@ e:hannay=happy
 I got out at the next station, a little place whose name I scarcely noted, set right in the heart of a bog.
 
 
-It reminded me of one of those forgotten little stations in the Karroo.
+It reminded me of one of those forgotten little stations in the Karroo.<e>TODO: constant south africa reminders</e>
 e:hannay=thinking
 
 An old stationmaster was digging in his garden, and with his spade over his shoulder sauntered to the train, took charge of a parcel, and went back to his potatoes.
@@ -1105,7 +1105,7 @@ e:hannay=excited
 I felt just as I used to feel when I was starting for a big trek on a frosty morning on the high veld.
 
 
-If you believe me, I swung along that road whistling.
+If you believe me, I swung along that road whistling.<e>If I believe you?</e>
 
 
 There was no plan of campaign in my head, only just to go on and on in this blessed, honest-smelling hill country, for every mile put me in better humour with myself.
@@ -1165,7 +1165,7 @@ Nesting curlews and plovers were crying everywhere, and the links of green pastu
 All the slackness of the past months was slipping from my bones, and I stepped out like a four-year-old.
 e:hannay=excited
 
-By-and-by I came to a swell of moorland which dipped to the vale of a little river, and a mile away in the heather I saw the smoke of a train.
+By-and-by I came to a swell of moorland which dipped to the vale of a little river, and a mile away in the heather I saw the smoke of a train.<e>TODO: 17 instances of "heather" in this book</e>
 e:hannay=neutral
 
 The station, when I reached it, proved to be ideal for my purpose.
@@ -1201,7 +1201,7 @@ My man Paddock had given the alarm and had the milkman arrested.
 Poor devil, it looked as if the latter had earned his sovereign hardly; but for me he had been cheap at the price, for he seemed to have occupied the police for the better part of the day.
 e:hannay=unhappy
 
-In the latest news I found a further instalment of the story.
+In the latest news I found a further instalment of the story.<e>Stupid British spelling.</e>
 
 
 The milkman had been released, I read, and the true criminal, about whose identity the police were reticent, was believed to have got away from London by one of the northern lines.
@@ -1294,7 +1294,7 @@ e:hannay=wary
 Then from my shelter I peered back, and saw the guard and several passengers gathered round the open carriage door and staring in my direction.
 
 
-I could not have made a more public departure if I had left with a bugler and a brass band.
+I could not have made a more public departure if I had left with a bugler and a brass band.<e>TODO: funny visual</e>
 e:hannay=unhappy
 
 Happily the drunken herd provided a diversion. He and his dog, which was attached by a rope to his waist, suddenly cascaded out of the carriage, landed on their heads on the track, and rolled some way down the bank towards the water.
@@ -1420,7 +1420,7 @@ s=innkeeper;e:innkeeper=unhappy
 “Which was?”
 s=hannay
 
-He actually blushed. “I want to write books,” he said.
+He actually blushed. “I want to write books,” he said.<e>TODO: oh no</e>
 s=innkeeper
 
 “And what better chance could you ask?” I cried.
@@ -1435,7 +1435,7 @@ s=innkeeper;e:innkeeper=excited
 “Nothing comes here but motorcars full of fat women, who stop for lunch, and a fisherman or two in the spring, and the shooting tenants in August. There is not much material to be got out of that.”
 e:innkeeper=unhappy
 
-“I want to see life, to travel the world, and write things like Kipling and Conrad. But the most I’ve done yet is to get some verses printed in *Chambers’s Journal*.”
+“I want to see life, to travel the world, and write things like Kipling and Conrad. But the most I’ve done yet is to get some verses printed in *Chambers’s Journal*.”<e>TODO: 2 conrad gushers</e>
 
 
 I looked at the inn standing golden in the sunset against the brown hills.
@@ -1456,13 +1456,10 @@ s=;e:hannay=smirking
 It was true in essentials, too, though I altered the minor details.
 
 
-I made out that I was a mining magnate from Kimberley, who had had a lot of trouble with I.D.B. and had shown up a gang.
+I made out that I was a mining magnate from Kimberley, who had had a lot of trouble with I.D.B. and had shown up a gang. They had pursued me across the ocean, and had killed my best friend, and were now on my tracks.<e>"Altered the minor details."</e>
 
 
-They had pursued me across the ocean, and had killed my best friend, and were now on my tracks.
-
-
-I told the story well, though I say it who shouldn’t.
+I told the story well, though I say it who shouldn’t.<e>TODO: parse</e>
 
 
 I pictured a flight across the Kalahari to German Africa, the crackling, parching days, the wonderful blue-velvet nights.
@@ -1474,7 +1471,7 @@ I described an attack on my life on the voyage home, and I made a really horrid 
 “You’re looking for adventure,” I cried; “well, you’ve found it here. The devils are after me, and the police are after them. It’s a race that I mean to win.”
 s=hannay;e:hannay=excited
 
-“By God!” he whispered, drawing his breath in sharply, “it is all pure Rider Haggard and Conan Doyle.”
+“By God!” he whispered, drawing his breath in sharply, “it is all pure Rider Haggard and Conan Doyle.”<e>TODO: story set in the moors, so Hound of Baskervilles as reference, sure. But who the fuck is Rider Haggard and how does that get top billing over Wuthering Heights</e>
 s=innkeeper;e:innkeeper=excited
 
 “You believe me,” I said gratefully.
@@ -1483,7 +1480,7 @@ s=hannay;e:hannay=happy
 “Of course I do,” and he held out his hand.
 s=innkeeper
 
-“I believe everything out of the common. The only thing to distrust is the normal.”
+“I believe everything out of the common. The only thing to distrust is the normal.”<e>TODO</e>
 
 
 He was very young, but he was the man for my money.
@@ -1540,7 +1537,7 @@ But there was a long article, reprinted from *The Times*, about Karolides and th
 I got rid of the innkeeper for the afternoon, for I was getting very warm in my search for the cipher.
 e:hannay=thinking
 
-As I told you, it was a numerical cipher, and by an elaborate system of experiments I had pretty well discovered what were the nulls and stops.
+As I told you, it was a numerical cipher, and by an elaborate system of experiments I had pretty well discovered what were the nulls and stops.<e>TODO: expound?</e>
 
 
 The trouble was the key word, and when I thought of the odd million words he might have used I felt pretty hopeless.
@@ -1633,7 +1630,7 @@ s=hannay;e:hannay=neutral
 He set off like a docile child, while I worked at Scudder’s notes.
 s=;e:innkeeper=neutral;e:hannay=thinking
 
-When he came back we dined together, and in common decency I had to let him pump me.
+When he came back we dined together, and in common decency I had to let him pump me.<e>TODO</e>
 
 
 I gave him a lot of stuff about lion hunts and the Matabele War, thinking all the while what tame businesses these were compared to this I was now engaged in!
@@ -1666,7 +1663,7 @@ A minute or two later I heard their steps on the gravel outside the window.
 My plan had been to lie hid in my bedroom, and see what happened.
 e:hannay=thinking
 
-I had a notion that, if I could bring the police and my other more dangerous pursuers together, something might work out of it to my advantage.
+I had a notion that, if I could bring the police and my other more dangerous pursuers together, something might work out of it to my advantage.<e>TODO: "something might work out of it"</e>
 
 
 But now I had a better idea. I scribbled a line of thanks to my host, opened the window, and dropped quietly into a gooseberry bush.
@@ -1696,16 +1693,16 @@ e:hannay=thinking
 The little man had told me a pack of lies.
 e:hannay=angry
 
-All his yarns about the Balkans and the Jew-Anarchists and the Foreign Office Conference were eyewash, and so was Karolides.
+All his yarns about the Balkans and the Jew-Anarchists and the Foreign Office Conference were eyewash, and so was Karolides. And yet not quite, as you shall hear.<e>TODO: really hedging on the Jew question here</e>
 
 
-And yet not quite, as you shall hear. I had staked everything on my belief in his story, and had been let down; here was his book telling me a different tale, and instead of being once-bitten-twice-shy, I believed it absolutely.
+I had staked everything on my belief in his story, and had been let down; here was his book telling me a different tale, and instead of being once-bitten-twice-shy, I believed it absolutely.
 e:hannay=thinking
 
 Why, I don’t know. It rang desperately true, and the first yarn, if you understand me, had been in a queer way true also in spirit.
 
 
-The fifteenth day of June was going to be a day of destiny, a bigger destiny than the killing of a Dago.
+The fifteenth day of June was going to be a day of destiny, a bigger destiny than the killing of a Dago.<e>TODO: jeopardy</e>
 
 
 It was so big that I didn’t blame Scudder for keeping me out of the game and wanting to play a lone hand.
@@ -1723,7 +1720,7 @@ The whole story was in the notes—with gaps, you understand, which he would hav
 He stuck down his authorities, too, and had an odd trick of giving them all a numerical value and then striking a balance, which stood for the reliability of each stage in the yarn.
 
 
-The four names he had printed were authorities, and there was a man, Ducrosne, who got five out of a possible five; and another fellow, Ammersfoort, who got three.
+The four names he had printed were authorities, and there was a man, Ducrosne, who got five out of a possible five; and another fellow, Ammersfoort, who got three.<e>TODO</e>
 
 
 The bare bones of the tale were all that was in the book—these, and one queer phrase which occurred half a dozen times inside brackets.
@@ -1753,13 +1750,7 @@ His talk of Epirote guards that would skin their own grandmothers was all billy-
 The second thing was that this war was going to come as a mighty surprise to Britain.
 e:hannay=wary
 
-Karolides’ death would set the Balkans by the ears, and then Vienna would chip in with an ultimatum.
-
-
-Russia wouldn’t like that, and there would be high words.
-
-
-But Berlin would play the peacemaker, and pour oil on the waters, till suddenly she would find a good cause for a quarrel, pick it up, and in five hours let fly at us.
+Karolides’ death would set the Balkans by the ears, and then Vienna would chip in with an ultimatum. Russia wouldn’t like that, and there would be high words. But Berlin would play the peacemaker, and pour oil on the waters, till suddenly she would find a good cause for a quarrel, pick it up, and in five hours let fly at us.<e>TODO: almost as if</e>
 
 
 That was the idea, and a pretty good one too.
@@ -1948,7 +1939,7 @@ s=harry;e:harry=excited
 “By Gad, you’re the very man I’ve been praying for. Are you by any blessed chance a Free Trader?”
 
 
-“I am,” said I, without the foggiest notion of what he meant.
+“I am,” said I, without the foggiest notion of what he meant.<e>TODO: actual good joke</e>
 s=hannay;e:hannay=confused
 
 He patted my shoulder and hurried me into his car.
@@ -2014,8 +2005,14 @@ He was an orphan, and his uncle had brought him up—I’ve forgotten the uncle�
 He had gone round the world after leaving Cambridge, and then, being short of a job, his uncle had advised politics.
 
 
-I gathered that he had no preference in parties. “Good chaps in both,” he said cheerfully, “and plenty of blighters, too. I’m Liberal, because my family have always been Whigs.”
+I gathered that he had no preference in parties.
+
+
+“Good chaps in both,” he said cheerfully, “and plenty of blighters, too.”<e>TODO: lesson for partisans</e>
 s=harry
+
+“I’m Liberal, because my family have always been Whigs.”
+
 
 But if he was lukewarm politically he had strong views on other things.
 s=
@@ -2083,7 +2080,7 @@ e:hannay=smirking
 Yet in a queer way I liked the speech. You could see the niceness of the chap shining out behind the muck with which he had been spoon-fed.
 e:hannay=happy
 
-Also it took a load off my mind. I mightn’t be much of an orator, but I was a thousand percent better than Sir Harry.
+Also it took a load off my mind. I mightn’t be much of an orator, but I was a thousand percent better than Sir Harry.<e>TODO: no doubt with your command of such phrases as "1000% better". Can we actually *hear* the speech</e>
 
 
 I didn’t get on so badly when it came to my turn.
@@ -2173,7 +2170,7 @@ s=harry;e:harry=smirking
 I laughed. “Oh, as to that, my nerves are good enough.”
 s=hannay
 
-I took down a hunting-knife from a stand on the wall, and did the old Mashona trick of tossing it and catching it in my lips.
+I took down a hunting-knife from a stand on the wall, and did the old Mashona trick of tossing it and catching it in my lips.<e>TODO: don't forget now reader</e>
 s=
 
 That wants a pretty steady heart.
@@ -2242,7 +2239,7 @@ e:hannay=thinking
 ## V. The Adventure of the Spectacled Roadman
 
 
-I sat down on the very crest of the pass and took stock of my position.
+I sat down on the very crest of the pass and took stock of my position.<e>TODO: sensing a pattern</e>
 e:hannay=thinking
 
 Behind me was the road climbing through a long cleft in the hills, which was the upper glen of some notable river.
@@ -2257,7 +2254,7 @@ To left and right were round-shouldered green hills as smooth as pancakes, but t
 I was on the central boss of a huge upland country, and could see everything moving for miles.
 
 
-In the meadows below the road half a mile back a cottage smoked, but it was the only sign of human life.
+In the meadows below the road half a mile back a cottage smoked, but it was the only sign of human life.<e>TODO: Heathcliff, what are you doing out here?</e>
 
 
 Otherwise there was only the calling of plovers and the tinkling of little streams.
@@ -2314,7 +2311,7 @@ Nothing was stirring on the long white ribbon that threaded them.
 I have said there was not cover in the whole place to hide a rat.
 e:hannay=wary
 
-As the day advanced it was flooded with soft fresh light till it had the fragrant sunniness of the South African veld.
+As the day advanced it was flooded with soft fresh light till it had the fragrant sunniness of the South African veld.<e>TODO</e>
 
 
 At other times I would have liked the place, but now it seemed to suffocate me.
@@ -2323,7 +2320,7 @@ e:hannay=unhappy
 The free moorlands were prison walls, and the keen hill air was the breath of a dungeon.
 
 
-I tossed a coin—heads right, tails left—and it fell heads, so I turned to the north.
+I tossed a coin—heads right, tails left—and it fell heads, so I turned to the north.<e>TODO: our intrepid protag</e>
 e:hannay=neutral
 
 In a little I came to the brow of the ridge which was the containing wall of the pass.
@@ -2437,7 +2434,7 @@ s=turnbull
 “My freens ca’ me Ecky, and whiles Specky, for I wear glesses, being waik i’ the sicht. Just you speak the Surveyor fair, and ca’ him sir, and he’ll be fell pleased. I’ll be back or midday.”
 
 
-I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home; borrowed, too, the foul stump of a clay pipe as an extra property.
+I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home; borrowed, too, the foul stump of a clay pipe as an extra property.<e>TODO: spectacles borrowing?</e>
 s=
 
 He indicated my simple tasks, and without more ado set off at an amble bedwards.
@@ -2779,7 +2776,7 @@ s=hannay;e:hannay=smirking
 As I sat on the hillside, watching the taillight dwindle, I reflected on the various kinds of crime I had now sampled.
 s=;e:hannay=thinking
 
-Contrary to general belief, I was not a murderer, but I had become an unholy liar, a shameless impostor, and a highwayman with a marked taste for expensive motorcars.
+Contrary to general belief, I was not a murderer, but I had become an unholy liar, a shameless impostor, and a highwayman with a marked taste for expensive motorcars.<e>TODO: "contrary"</e>
 e:hannay=smirking
 
 ## VI. The Adventure of the Bald Archaeologist
@@ -3343,7 +3340,7 @@ There was a multitude of queer things there. I found an odd vesta or two in my t
 It was out in a second, but it showed me one thing.
 
 
-There was a little stock of electric torches on one shelf.
+There was a little stock of electric torches on one shelf.<e>Britain: 100+ years of not knowing the word "flashlight".</e>
 e:hannay=happy
 
 I picked up one, and found it was in working order.
@@ -3406,7 +3403,7 @@ Still I managed to rake up the pluck to set my teeth and choke back the horrid d
 I simply shut off my mind and pretended I was doing an experiment as simple as Guy Fawkes fireworks.
 
 
-I got a detonator, and fixed it to a couple of feet of fuse.
+I got a detonator, and fixed it to a couple of feet of fuse.<e>TODO: nice of the goons to throw him in the explosives room</e>
 
 
 Then I took a quarter of a lentonite brick, and buried it near the door below one of the sacks in a crack of the floor, fixing the detonator in it.
@@ -3694,7 +3691,7 @@ e:hannay=weary
 ## VII. The Dry-Fly Fisherman
 
 
-I sat down on a hilltop and took stock of my position.
+I sat down on a hilltop and took stock of my position.<e>TODO: god damnit why do all serials get stuck in these loops. it's The Jungle out there</e>
 e:hannay=weary
 
 I wasn’t feeling very happy, for my natural thankfulness at my escape was clouded by my severe bodily discomfort.
@@ -3856,7 +3853,7 @@ e:hannay=happy
 His wife was dead years ago, and since his daughter’s marriage he lived alone.
 
 
-For the better part of ten days he did all the rough nursing I needed.
+For the better part of ten days he did all the rough nursing I needed.<e>TODO: that's… a lot of offtime. serial publication change</e>
 
 
 I simply wanted to be left in peace while the fever took its course, and when my skin was cool again I found that the bout had more or less cured my shoulder.
@@ -3943,7 +3940,7 @@ I got some dinner in a humble Moffat public-house, and walked the two miles to t
 The night express for the south was not due till near midnight, and to fill up the time I went up on the hillside and fell asleep, for the walk had tired me.
 e:hannay=weary
 
-I all but slept too long, and had to run to the station and catch the train with two minutes to spare.
+I all but slept too long, and had to run to the station and catch the train with two minutes to spare.<e>TODO: our protag</e>
 e:hannay=excited
 
 The feel of the hard third-class cushions and the smell of stale tobacco cheered me up wonderfully.
@@ -4027,7 +4024,7 @@ I had forgotten all about my alias.
 “It’s a wise conspirator that knows his own name,” he observed, grinning broadly at a moorhen that emerged from the bridge’s shadow.
 s=bullivant;e:bullivant=happy
 
-I stood up and looked at him, at the square, cleft jaw and broad, lined brow and the firm folds of cheek, and began to think that here at last was an ally worth having.
+I stood up and looked at him, at the square, cleft jaw and broad, lined brow and the firm folds of cheek, and began to think that here at last was an ally worth having.<e>TODO: get fucked everyone else who helped</e>
 s=;e:hannay=thinking
 
 His whimsical blue eyes seemed to go very deep.
@@ -4060,7 +4057,7 @@ n:butler=Butler;e:butler=neutral
 “Come this way, sir,” he said, and he led me along a passage and up a back staircase to a pleasant bedroom looking towards the river.
 s=butler
 
-There I found a complete outfit laid out for me—dress clothes with all the fixings, a brown flannel suit, shirts, collars, ties, shaving things and hairbrushes, even a pair of patent shoes.
+There I found a complete outfit laid out for me—dress clothes with all the fixings, a brown flannel suit, shirts, collars, ties, shaving things and hairbrushes, even a pair of patent shoes.<e>TODO: so many clothing changes</e>
 
 
 “Sir Walter thought as how Mr. Reggie’s things would fit you, Sir,” said the butler.
@@ -4147,7 +4144,7 @@ s=;e:hannay=surprised
 I began at the very beginning.
 s=hannay;e:hannay=excited
 
-I told of my boredom in London, and the night I had come back to find Scudder gibbering on my doorstep.
+I told of my boredom in London, and the night I had come back to find Scudder gibbering on my doorstep.<e>TODO: weird unnecessary detail</e>
 
 
 I told him all Scudder had told me about Karolides and the Foreign Office conference, and that made him purse his lips and grin.
@@ -4255,7 +4252,7 @@ s=bullivant
 “If only I had more confidence in Scudder’s judgement. The trouble about him was that he was too romantic. He had the artistic temperament, and wanted a story to be better than God meant it to be.”
 
 
-“He had a lot of odd biases, too. Jews, for example, made him see red. Jews and the high finance.”
+“He had a lot of odd biases, too. Jews, for example, made him see red. Jews and the high finance.”<e>TODO: "odd biases"</e>
 
 
 “The Black Stone,” he repeated. “*Der Schwarzestein.* It’s like a penny novelette.”
@@ -4294,7 +4291,7 @@ s=;e:bullivant=unhappy
 “I apologize to the shade of Scudder,” he said.
 s=bullivant
 
-“Karolides was shot dead this evening at a few minutes after seven.”
+“Karolides was shot dead this evening at a few minutes after seven.”<e>TODO: confused yet?</e>
 e:bullivant=fearful;e:hannay=fearful
 
 ## VIII. The Coming of the Black Stone
@@ -4459,7 +4456,7 @@ s=;n:macgillivray=MacGillivray
 “Come and see me tomorrow, Hannay.”
 s=bullivant;e:bullivant=happy
 
-“I needn’t tell you to keep deadly quiet. If I were you I would go to bed, for you must have considerable arrears of sleep to overtake.”
+“I needn’t tell you to keep deadly quiet. If I were you I would go to bed, for you must have considerable arrears of sleep to overtake.”<e>TODO: don't you hate it when you have arrears of sleep</e>
 
 
 “You had better lie low, for if one of your Black Stone friends saw you there might be trouble.”
@@ -4501,7 +4498,7 @@ e:hannay=unhappy
 It was not likely that Cabinet ministers and Admiralty Lords and generals would admit me to their councils.
 
 
-I actually began to wish that I could run up against one of my three enemies.
+I actually began to wish that I could run up against one of my three enemies.<e>TODO: well nothing proactive has happened so far</e>
 e:hannay=angry
 
 That would lead to developments. I felt that I wanted enormously to have a vulgar scrap with those gentry, where I could hit out and flatten something.
@@ -4576,7 +4573,7 @@ But a delay at that moment seemed to me unendurable, and the sight of Marmie’s
 I let out with my left, and had the satisfaction of seeing him measure his length in the gutter.
 e:hannay=excited
 
-Then began an unholy row. They were all on me at once, and the policeman took me in the rear.
+Then began an unholy row. They were all on me at once, and the policeman took me in the rear.<e>TODO: heh heh</e>
 
 
 I got in one or two good blows, for I think, with fair play, I could have licked the lot of them, but the policeman pinned me behind, and one of them got his fingers on my throat.
@@ -4687,7 +4684,7 @@ e:hannay=surprised
 You couldn’t open a newspaper or a magazine without seeing that face—the grey beard cut like a spade, the firm fighting mouth, the blunt square nose, and the keen blue eyes.
 n:g3=First Sea Lord Alloa
 
-I recognized the First Sea Lord, the man, they say, that made the new British Navy.
+I recognized the First Sea Lord, the man, they say, that made the new British Navy.<e>TODO: wikipedia First Sea Lord</e>
 
 
 He passed my alcove and was ushered into a room at the back of the hall.
@@ -4828,10 +4825,10 @@ s=royer
 He bent his wise brows on the assembly.
 s=
 
-“I will tell you a tale,” he said.
+“I will tell you a tale,” he said. “It happened many years ago in Senegal.”<e>TODO: are you serious right now, frenchman</e>
 s=royer
 
-“It happened many years ago in Senegal. I was quartered in a remote station, and to pass the time used to go fishing for big barbel in the river. A little Arab mare used to carry my luncheon basket—one of the salted dun breed you got at Timbuktu in the old days.”
+“I was quartered in a remote station, and to pass the time used to go fishing for big barbel in the river. A little Arab mare used to carry my luncheon basket—one of the salted dun breed you got at Timbuktu in the old days.”
 
 
 “Well, one morning I had good sport, and the mare was unaccountably restless. I could hear her whinnying and squealing and stamping her feet, and I kept soothing her with my voice while my mind was intent on fish.”
@@ -4885,7 +4882,7 @@ s=winstanley;e:winstanley=thinking
 “That is not difficult,” the Frenchman replied. “A good spy is trained to have a photographic memory. Like your own Macaulay. You noticed he said nothing, but went through these papers again and again. I think we may assume that he has every detail stamped on his mind. When I was younger I could do the same trick.”
 s=royer;e:royer=neutral
 
-“Well, I suppose there is nothing for it but to change the plans,” said Sir Walter ruefully.
+“Well, I suppose there is nothing for it but to change the plans,” said Sir Walter ruefully.<e>TODO: https://en.wikipedia.org/wiki/Action_of_22_September_1914</e>
 s=bullivant;e:bullivant=unhappy
 
 Whittaker was looking very glum. “Did you tell Lord Alloa what has happened?” he asked.
@@ -5035,7 +5032,7 @@ All this was very loose guessing, and I don’t pretend it was ingenious or scie
 I wasn’t any kind of Sherlock Holmes. But I have always fancied I had a kind of instinct about questions like this.
 e:hannay=smirking
 
-I don’t know if I can explain myself, but I used to use my brains as far as they went, and after they came to a blank wall I guessed, and I usually found my guesses pretty right.
+I don’t know if I can explain myself, but I used to use my brains as far as they went, and after they came to a blank wall I guessed, and I usually found my guesses pretty right.<e>TODO: our protag</e>
 
 
 So I set out all my conclusions on a bit of Admiralty paper.
@@ -5689,11 +5686,8 @@ s=fat;e:fat=happy
 “By Jove, yes. Just think of it! What a story to tell at the club. Really, Mr. Hannay, I suppose I should be angry, to show my innocence, but it’s too funny! I almost forgive you the fright you gave me! You looked so glum, I thought I might have been walking in my sleep and killing people.”
 
 
-It couldn’t be acting, it was too confoundedly genuine. My heart went into my boots, and my first impulse was to apologize and clear out.
+It couldn’t be acting, it was too confoundedly genuine. My heart went into my boots, and my first impulse was to apologize and clear out. But I told myself I must see it through, even though I was to be the laughingstock of Britain.<e>TODO: the suspence is palpable here in the last chapter. Gee I wonder</e>
 s=;e:hannay=unhappy
-
-But I told myself I must see it through, even though I was to be the laughingstock of Britain.
-
 
 The light from the dinner-table candlesticks was not very good, and to cover my confusion I got up, walked to the door and switched on the electric light.
 
@@ -5803,7 +5797,7 @@ He didn’t pick it up at once, but sat back for a moment in his chair, with his
 It was the movement I remembered when I had stood before him in the moorland farm, with the pistols of his servants behind me.
 
 
-A little thing, lasting only a second, and the odds were a thousand to one that I might have had my eyes on my cards at the time and missed it.
+A little thing, lasting only a second, and the odds were a thousand to one that I might have had my eyes on my cards at the time and missed it.<e>TODO: Again, maybe re-read The Sequences if that's your final answer.</e>
 
 
 But I didn’t, and, in a flash, the air seemed to clear.
@@ -5863,7 +5857,10 @@ s=g3;e:g3=neutral
 “You’d better think about catching your train. Bob’s got to go to town tonight,” he added, turning to me.
 
 
-The voice rang now as false as hell. I looked at the clock, and it was nearly half-past ten.
+The voice rang now as false as hell.<e>TODO: "false as hell"</e>
+
+
+I looked at the clock, and it was nearly half-past ten.
 s=;e:hannay=thinking
 
 “I am afraid he must put off his journey,” I said.
@@ -5957,13 +5954,7 @@ As the handcuffs clinked on his wrists I said my last word to him.
 s=hannay;e:hannay=smirking
 
 —
+s=
 
-
-Three weeks later, as all the world knows, we went to war.
-s=hannay;e:hannay=neutral
-
-I joined the New Army the first week, and owing to my Matabele experience got a captain’s commission straight off.
-
-
-But I had done my best service, I think, before I put on khaki.
+Three weeks later, as all the world knows, we went to war. I joined the New Army the first week, and owing to my Matabele experience got a captain’s commission straight off. But I had done my best service, I think, before I put on khaki.<e>TODO: lmao THE END. A lot to unpack these final sentences:</e>
 e:hannay=happy
