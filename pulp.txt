@@ -190,7 +190,7 @@ s=
 I didn’t get hold of it at first, and I had to stop and ask him questions.
 e:hannay=confused
 
-But here is the gist of it:
+But here is the gist of it:—
 
 
 He was an American, from Kentucky, and after college, being pretty well off, he had started out to see the world.
@@ -352,7 +352,7 @@ s=scudder;e:scudder=thinking
 “I left Paris a dandified young French-American, and I sailed from Hamburg a Jew diamond merchant. In Norway I was an English student of Ibsen collecting materials for lectures, but when I left Bergen I was a cinema-man with special ski films.”
 
 
-“And I came here from Leith with a lot of pulpwood propositions in my pocket to put before the London newspapers. Till yesterday I thought I had muddied my trail some, and was feeling pretty happy. Then . . .”
+“And I came here from Leith with a lot of pulpwood propositions in my pocket to put before the London newspapers. Till yesterday I thought I had muddied my trail some, and was feeling pretty happy. Then…”
 e:scudder=fearful
 
 The recollection seemed to upset him, and he gulped down some more whisky.
@@ -361,7 +361,7 @@ s=
 “Then I saw a man standing in the street outside this block. I used to stay close in my room all day, and only slip out after dark for an hour or two.”
 s=scudder
 
-“I watched him for a bit from my window, and I thought I recognized him . . . He came in and spoke to the porter . . .”
+“I watched him for a bit from my window, and I thought I recognized him… He came in and spoke to the porter…”
 
 
 “When I came back from my walk last night I found a card in my letter-box. It bore the name of the man I want least to meet on God’s earth.”
@@ -406,7 +406,7 @@ e:scudder=thinking
 “I had had you in my mind all day, and there seemed nothing to do but to make an appeal to you.”
 
 
-“I watched from my window till I saw you come home, and then slipped down the stair to meet you . . . There, sir, I guess you know about as much as me of this business.”
+“I watched from my window till I saw you come home, and then slipped down the stair to meet you… There, sir, I guess you know about as much as me of this business.”
 e:scudder=neutral
 
 He sat blinking like an owl, fluttering with nerves and yet desperately determined. By this time I was pretty well convinced that he was going straight with me.
@@ -880,7 +880,7 @@ By this time it was getting on for six o’clock.
 I put a pipe in my pocket and filled my pouch from the tobacco jar on the table by the fireplace.
 
 
-As I poked into the tobacco my fingers touched something hard, and I drew out Scudder’s little black pocketbook . . .
+As I poked into the tobacco my fingers touched something hard, and I drew out Scudder’s little black pocketbook…
 e:hannay=surprised
 
 That seemed to me a good omen.
@@ -1015,9 +1015,7 @@ s=;e:sailor=unhappy
 I reminded myself that a week ago I had been finding the world dull.
 e:hannay=smirking
 
-
-## III.
-The Adventure of the Literary Innkeeper
+## III. The Adventure of the Literary Innkeeper
 
 
 I had a solemn time travelling north that day.
@@ -1347,7 +1345,7 @@ I have eyes like a hawk, but I could see nothing moving in the whole countryside
 Then I looked east beyond the ridge and saw a new kind of landscape—shallow green valleys with plentiful fir plantations and the faint lines of dust which spoke of high roads.
 
 
-Last of all I looked into the blue May sky, and there I saw that which set my pulses racing . . .
+Last of all I looked into the blue May sky, and there I saw that which set my pulses racing…
 e:hannay=fearful
 
 Low down in the south a monoplane was climbing into the heavens.
@@ -1605,7 +1603,7 @@ Neither was any kind of foreigner; on this my young friend was positive.
 I took a bit of paper and wrote these words in German as if they were part of a letter—
 
 
-… “Black Stone. Scudder had got on to this, but he could not act for a fortnight. I doubt if I can do any good now, especially as Karolides is uncertain about his plans. But if Mr. T. advises I will do the best I . . .”
+… “Black Stone. Scudder had got on to this, but he could not act for a fortnight. I doubt if I can do any good now, especially as Karolides is uncertain about his plans. But if Mr. T. advises I will do the best I…”
 t=hannay
 
 I manufactured it rather neatly, so that it looked like a loose page of a private letter.
@@ -2034,7 +2032,7 @@ He was an orphan, and his uncle had brought him up—I’ve forgotten the uncle�
 He had gone round the world after leaving Cambridge, and then, being short of a job, his uncle had advised politics.
 
 
-I gathered that he was a fine linguist, and had no preference in parties. “Good chaps in both,” he said cheerfully, “and plenty of blighters, too. I’m Liberal, because my family have always been Whigs.”
+I gathered that he had no preference in parties. “Good chaps in both,” he said cheerfully, “and plenty of blighters, too. I’m Liberal, because my family have always been Whigs.”
 s=harry
 
 But if he was lukewarm politically he had strong views on other things.
@@ -2259,7 +2257,6 @@ e:hannay=happy
 Here, at any rate, I could get early news of my enemies.
 e:hannay=thinking
 
-
 ## V. The Adventure of the Spectacled Roadman
 
 
@@ -2356,11 +2353,8 @@ I saw the high road for maybe ten miles, and far down it something that was movi
 Beyond the ridge I looked on a rolling green moor, which fell away into wooded glens.
 
 
-Now my life on the veld has given me the eyes of a kite, and I can see things for which most men need a telescope.
+Now my life on the veld has given me the eyes of a kite, and I can see things for which most men need a telescope… Away down the slope, a couple of miles away, several men were advancing, like a row of beaters at a shoot…
 e:hannay=thinking
-
-Away down the slope, a couple of miles away, several men were advancing, like a row of beaters at a shoot.
-
 
 I dropped out of sight behind the skyline.
 e:hannay=wary
@@ -2404,11 +2398,8 @@ He had just arrived, and was wearily flinging down his hammer.
 He looked at me with a fishy eye and yawned.
 n:turnbull=Roadman;e:turnbull=weary
 
-“Confoond the day I ever left the herdin’!”
+“Confoond the day I ever left the herdin’!” he said, as if to the world at large. “There I was my ain maister. Now I’m a slave to the Goavernment, tethered to the roadside, wi’ sair een, and a back like a suckle.”
 s=turnbull;e:turnbull=unhappy
-
-He said, as if to the world at large. “There I was my ain maister. Now I’m a slave to the Goavernment, tethered to the roadside, wi’ sair een, and a back like a suckle.”
-s=turnbull
 
 He took up the hammer, struck a stone, dropped the implement with an oath, and put both hands to his ears.
 s=;e:turnbull=angry
@@ -2464,11 +2455,8 @@ n:turnbull=Alexander Turnbull
 “My freens ca’ me Ecky, and whiles Specky, for I wear glesses, being waik i’ the sicht. Just you speak the Surveyor fair, and ca’ him sir, and he’ll be fell pleased. I’ll be back or midday.”
 
 
-I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home;
+I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home; borrowed, too, the foul stump of a clay pipe as an extra property.
 s=
-
-Borrowed, too, the foul stump of a clay pipe as an extra property.
-
 
 He indicated my simple tasks, and without more ado set off at an amble bedwards.
 e:hannay=smirking
@@ -2602,11 +2590,8 @@ e:wary_man=wary
 “Morning,” said the last. “That’s a fine easy job o’ yours.”
 s=wary_man;e:wary_man=smirking
 
-I had not looked up on their approach, and now, when accosted, I slowly and painfully straightened my back, after the manner of roadmen;
+I had not looked up on their approach, and now, when accosted, I slowly and painfully straightened my back, after the manner of roadmen; spat vigorously, after the manner of the low Scot; and regarded them steadily before replying.
 s=;e:hannay=weary
-
-Spat vigorously, after the manner of the low Scot; and regarded them steadily before replying.
-
 
 I confronted three pairs of eyes that missed nothing.
 e:hannay=wary
@@ -2633,10 +2618,10 @@ He picked it up, glanced at the superscription, and laid it down again.
 s=wary_man
 
 One of the others had been looking at my boots, and a word in German called the speaker’s attention to them.
-s=;e:lean_man=thinking
+s=;e:lean=thinking
 
 “You’ve a fine taste in boots,” he said. “These were never made by a country shoemaker.”
-s=lean_man
+s=lean
 
 “They were not,” I said readily. “They were made in London. I got them frae the gentleman that was here last year for the shootin’. What was his name now?”
 s=hannay;e:hannay=thinking
@@ -2814,7 +2799,6 @@ s=;e:hannay=thinking
 
 Contrary to general belief, I was not a murderer, but I had become an unholy liar, a shameless impostor, and a highwayman with a marked taste for expensive motorcars.
 e:hannay=smirking
-
 
 ## VI. The Adventure of the Bald Archaeologist
 
@@ -3155,7 +3139,7 @@ He knew my name, but he had never seen me before.
 And as the reflection darted across my mind I saw a slender chance.
 e:hannay=thinking
 
-“I don’t know what to mean,” I said roughly. “And who are you calling Richard Hannay? My name’s Ainslie.”
+“I don’t know what you mean,” I said roughly. “And who are you calling Richard Hannay? My name’s Ainslie.”
 s=hannay;e:hannay=scowling
 
 “So?” he said, still smiling. “But of course you have others. We won’t quarrel about a name.”
@@ -3233,7 +3217,7 @@ s=;e:hannay=angry
 “Stop fooling, damn you! I tell you my name’s Ainslie, and I never heard of anyone called Hannay in my born days.”
 s=hannay
 
-“I’d sooner have the police than you with your Hannays and your monkey-faced pistol tricks... No, guv’nor, I beg pardon, I don’t mean that. I’m much obliged to you for the grub, and I’ll thank you to let me go now the coast’s clear.”
+“I’d sooner have the police than you with your Hannays and your monkey-faced pistol tricks… No, guv’nor, I beg pardon, I don’t mean that. I’m much obliged to you for the grub, and I’ll thank you to let me go now the coast’s clear.”
 e:hannay=unhappy
 
 It was obvious that he was badly puzzled. You see he had never seen me, and my appearance must have altered considerably from my photographs, if he had got one of them.
@@ -3302,10 +3286,7 @@ Now, they had seen me as the roadman, and they would remember me, for I was in t
 What was a roadman doing twenty miles from his beat, pursued by the police?
 
 
-A question or two would put them on the track. Probably they had seen Mr. Turnbull, probably Marmie too;
-
-
-Most likely they could link me up with Sir Harry, and then the whole thing would be crystal clear.
+A question or two would put them on the track. Probably they had seen Mr. Turnbull, probably Marmie too; most likely they could link me up with Sir Harry, and then the whole thing would be crystal clear.
 
 
 What chance had I in this moorland house with three desperadoes and their armed servants?
@@ -3425,10 +3406,7 @@ I had only a vague notion, too, as to its power, for though I had used it I had 
 But it was a chance, the only possible chance. It was a mighty risk, but against it was an absolute black certainty.
 
 
-If I used it the odds were, as I reckoned, about five to one in favour of my blowing myself into the treetops;
-
-
-But if I didn’t I should very likely be occupying a six-foot hole in the garden by the evening.
+If I used it the odds were, as I reckoned, about five to one in favour of my blowing myself into the treetops; but if I didn’t I should very likely be occupying a six-foot hole in the garden by the evening.
 
 
 That was the way I had to look at it.
@@ -3473,7 +3451,7 @@ I ensconced myself just below the sill of the window, and lit the fuse.
 Then I waited for a moment or two. There was dead silence—only a shuffle of heavy boots in the passage, and the peaceful cluck of hens from the warm out-of-doors.
 
 
-I commended my soul to my Maker, and wondered where I would be in five seconds...
+I commended my soul to my Maker, and wondered where I would be in five seconds…
 
 
 A great wave of heat seemed to surge upwards from the floor, and hang for a blistering instant in the air.
@@ -3731,7 +3709,6 @@ e:hannay=happy
 But I did not stop till I had put half a dozen miles between me and that accursed dwelling.
 e:hannay=weary
 
-
 ## VII. The Dry-Fly Fisherman
 
 
@@ -3807,14 +3784,11 @@ s=;e:wife=neutral
 She would have bathed my shoulder, but it ached so badly that I would not let her touch it.
 
 
-I don’t know what she took me for—a repentant burglar, perhaps;
-
-
-For when I wanted to pay her for the milk and tendered a sovereign which was the smallest coin I had, she shook her head and said something about “giving it to them that had a right to it.”
-s=wife;e:wife=wary
+I don’t know what she took me for—a repentant burglar, perhaps; for when I wanted to pay her for the milk and tendered a sovereign which was the smallest coin I had, she shook her head and said something about “giving it to them that had a right to it.”
+e:wife=wary
 
 At this I protested so strongly that I think she believed me honest, for she took the money and gave me a warm new plaid for it, and an old hat of her man’s.
-s=hannay;e:wife=neutral
+e:wife=neutral
 
 She showed me how to wrap the plaid around my shoulders, and when I left that cottage I was the living image of the kind of Scotsman you see in the illustrations to Burns’s poems.
 s=;e:hannay=smirking
@@ -3858,13 +3832,7 @@ The mist lay close and thick, and from the cottage I could not see the high road
 Mr. Turnbull himself opened to me—sober and something more than sober.
 n:turnbull=Alexander Turnbull;e:turnbull=neutral
 
-He was primly dressed in an ancient but well-tended suit of black;
-
-
-He had been shaved not later than the night before; he wore a linen collar;
-
-
-And in his left hand he carried a pocket Bible. At first he did not recognize me.
+He was primly dressed in an ancient but well-tended suit of black; he had been shaved not later than the night before; he wore a linen collar; and in his left hand he carried a pocket Bible. At first he did not recognize me.
 e:turnbull=confused
 
 “Whae are ye that comes stravaigin’ here on the Sabbath mornin’?” he asked.
@@ -3915,10 +3883,7 @@ I simply wanted to be left in peace while the fever took its course, and when my
 But it was a baddish go, and though I was out of bed in five days, it took me some time to get my legs again.
 
 
-He went out each morning, leaving me milk for the day, and locking the door behind him;
-
-
-And came in in the evening to sit silent in the chimney corner. Not a soul came near the place.
+He went out each morning, leaving me milk for the day, and locking the door behind him; and came in in the evening to sit silent in the chimney corner. Not a soul came near the place.
 
 
 When I was getting better, he never bothered me with a question.
@@ -4233,7 +4198,7 @@ e:bullivant=happy
 But the old man in the moorland house solemnized him. Again I had to describe every detail of his appearance.
 e:bullivant=thinking
 
-“Bland and bald-headed and hooded his eyes like a bird... He sounds a sinister wildfowl! And you dynamited his hermitage, after he had saved you from the police. Spirited piece of work, that!”
+“Bland and bald-headed and hooded his eyes like a bird… He sounds a sinister wildfowl! And you dynamited his hermitage, after he had saved you from the police. Spirited piece of work, that!”
 s=bullivant;e:bullivant=smirking
 
 Presently I reached the end of my wanderings. He got up slowly, and looked down at me from the hearthrug.
@@ -4349,7 +4314,6 @@ s=bullivant
 
 “Karolides was shot dead this evening at a few minutes after seven.”
 e:bullivant=fearful;e:hannay=fearful
-
 
 ## VIII. The Coming of the Black Stone
 
@@ -4759,7 +4723,7 @@ I was still perfectly convinced that I was wanted, but when or how I had no noti
 I kept looking at my watch, and as the time crept on to half-past ten I began to think that the conference must soon end.
 
 
-In a quarter of an hour Royer should be speeding along the road to Portsmouth...
+In a quarter of an hour Royer should be speeding along the road to Portsmouth…
 
 
 Then I heard a bell ring, and the butler appeared.
@@ -4799,7 +4763,7 @@ We were connected at once, and I heard a servant’s voice.
 s=hannay
 
 “His Lordship returned half an hour ago,” said the voice, “and has gone to bed. He is not very well tonight. Will you leave a message, sir?”
-s=servant
+n:servant=Servant;s=servant
 
 I rang off and almost tumbled into a chair. My part in this business was not yet ended.
 s=;e:hannay=fearful
@@ -4837,11 +4801,8 @@ s=hannay
 “Lord Alloa,” Sir Walter said, reddening with anger.
 s=bullivant;e:bullivant=angry
 
-“It was not,” I cried;
+“It was not,” I cried; “it was his living image, but it was not Lord Alloa. It was someone who recognized me, someone I have seen in the last month.”
 s=hannay;e:hannay=excited
-
-“It was his living image, but it was not Lord Alloa. It was someone who recognized me, someone I have seen in the last month.”
-
 
 “He had scarcely left the doorstep when I rang up Lord Alloa’s house and was told he had come in half an hour before and had gone to bed.”
 
@@ -4851,7 +4812,6 @@ s=
 
 “The Black Stone,” I cried, and I sat down in the chair so recently vacated and looked round at five badly scared gentlemen.
 s=hannay;e:hannay=serious
-
 
 ## IX. The Thirty-Nine Steps
 
@@ -4901,7 +4861,7 @@ s=royer
 He paused and looked round.
 e:royer=serious
 
-“It was the smell that gave me warning. I turned my head and found myself looking at a lion three feet off... An old man-eater, that was the terror of the village... What was left of the mare, a mass of blood and bones and hide, was behind him.”
+“It was the smell that gave me warning. I turned my head and found myself looking at a lion three feet off… An old man-eater, that was the terror of the village… What was left of the mare, a mass of blood and bones and hide, was behind him.”
 s=royer
 
 “What happened?” I asked. I was enough of a hunter to know a true yarn when I heard it.
@@ -5105,16 +5065,16 @@ They ran like this:
 Fairly Certain
 
 
-1. Place where there are several sets of stairs; one that matters distinguished by having thirty-nine steps.
+1.  Place where there are several sets of stairs; one that matters distinguished by having thirty-nine steps.
 
 
-2. Full tide at 10:17 p.m. Leaving shore only possible at full tide.
+2.  Full tide at 10:17 p.m. Leaving shore only possible at full tide.
 
 
-3. Steps not dock steps, and so place probably not harbour.
+3.  Steps not dock steps, and so place probably not harbour.
 
 
-4. No regular night steamer at 10:17. Means of transport must be tramp (unlikely), yacht, or fishing-boat.
+4.  No regular night steamer at 10:17. Means of transport must be tramp (unlikely), yacht, or fishing-boat.
 
 
 There my reasoning stopped. I made another list, which I headed “Guessed,” but I was just as sure of the one as the other.
@@ -5123,13 +5083,13 @@ There my reasoning stopped. I made another list, which I headed “Guessed,” b
 Guessed
 
 
-1. Place not harbour but open coast.
+1.  Place not harbour but open coast.
 
 
-2. Boat small—trawler, yacht, or launch.
+2.  Boat small—trawler, yacht, or launch.
 
 
-3. Place somewhere on East Coast between Cromer and Dover.
+3.  Place somewhere on East Coast between Cromer and Dover.
 
 
 It struck me as odd that I should be sitting at that desk with a Cabinet minister, a field marshal, two high government officials, and a French general watching me, while from the scribble of a dead man I was trying to drag a secret which meant life or death for us.
@@ -5233,7 +5193,6 @@ s=royer;e:royer=happy
 
 By half-past three I was tearing past the moonlit hedgerows of Kent, with MacGillivray’s best man on the seat beside me.
 s=;e:hannay=excited
-
 
 ## X. Various Parties Converging on the Sea
 
@@ -5370,7 +5329,7 @@ About four o’clock, when we had fished enough, I made the boatman row us round
 Scaife said she must be a fast boat for her build, and that she was pretty heavily engined.
 
 
-Her name was the Ariadne, as I discovered from the cap of one of the men who was polishing brasswork.
+Her name was the *Ariadne*, as I discovered from the cap of one of the men who was polishing brasswork.
 
 
 I spoke to him, and got an answer in the soft dialect of Essex.
@@ -5430,10 +5389,7 @@ I found a place farther up the hill, in the garden of an empty house.
 From there I had a full view of the court, on which two figures were having a game of tennis.
 
 
-One was the old man, whom I had already seen;
-
-
-The other was a younger fellow, wearing some club colours in the scarf round his middle.
+One was the old man, whom I had already seen; the other was a younger fellow, wearing some club colours in the scarf round his middle.
 n:plump=Plump Man
 
 They played with tremendous zest, like two city gents who wanted hard exercise to open their pores.
@@ -5454,10 +5410,7 @@ It was easy enough to connect those folk with the knife that pinned Scudder to t
 But here were two guileless citizens taking their innocuous exercise, and soon about to go indoors to a humdrum dinner, where they would talk of market prices and the last cricket scores and the gossip of their native Surbiton.
 
 
-I had been making a net to catch vultures and falcons, and lo and behold!
-
-
-Two plump thrushes had blundered into it.
+I had been making a net to catch vultures and falcons, and lo and behold! two plump thrushes had blundered into it.
 
 
 Presently a third figure arrived, a young man on a bicycle, with a bag of golf-clubs slung on his back.
@@ -5484,19 +5437,13 @@ s=
 They all went into the house, and left me feeling a precious idiot.
 e:hannay=unhappy
 
-I had been barking up the wrong tree this time. These men might be acting;
-
-
-But if they were, where was their audience? They didn’t know I was sitting thirty yards off in a rhododendron.
+I had been barking up the wrong tree this time. These men might be acting; but if they were, where was their audience? They didn’t know I was sitting thirty yards off in a rhododendron.
 
 
 It was simply impossible to believe that these three hearty fellows were anything but what they seemed—three ordinary, game-playing, suburban Englishmen, wearisome, if you like, but sordidly innocent.
 
 
-And yet there were three of them; and one was old, and one was plump, and one was lean and dark;
-
-
-And their house chimed in with Scudder’s notes; and half a mile off was lying a steam yacht with at least one German officer.
+And yet there were three of them; and one was old, and one was plump, and one was lean and dark; and their house chimed in with Scudder’s notes; and half a mile off was lying a steam yacht with at least one German officer.
 
 
 I thought of Karolides lying dead and all Europe trembling on the edge of earthquake, and the men I had left behind me in London who were waiting anxiously for the events of the next hours.
@@ -5541,10 +5488,7 @@ If a man could get into perfectly different surroundings from those in which he 
 And he used to tell a story of how he once borrowed a black coat and went to church and shared the same hymnbook with the man that was looking for him.
 
 
-If that man had seen him in decent company before he would have recognized him;
-
-
-But he had only seen him snuffing the lights in a public-house with a revolver.
+If that man had seen him in decent company before he would have recognized him; but he had only seen him snuffing the lights in a public-house with a revolver.
 
 
 The recollection of Peter’s talk gave me the first real comfort that I had had that day.
@@ -5553,13 +5497,13 @@ e:hannay=happy
 Peter had been a wise old bird, and these fellows I was after were about the pick of the aviary.
 
 
-What if they were playing Peter’s game? A fool tries to look different: a clever man looks the same and is different.
+What if they were playing Peter’s game? A fool tries to look different: a clever man looks the same and *is* different.
 
 
 Again, there was that other maxim of Peter’s which had helped me when I had been a roadman.
 
 
-“If you are playing a part, you will never keep it up unless you convince yourself that you are it.”
+“If you are playing a part, you will never keep it up unless you convince yourself that you are *it*.”
 
 
 That would explain the game of tennis. Those chaps didn’t need to act, they just turned a handle and passed into another life, which came as naturally to them as the first.
@@ -5580,7 +5524,7 @@ I went round the deserted golf-course, and then to a point on the cliffs farther
 On the little trim newly-made roads I met people in flannels coming back from tennis and the beach, and a coastguard from the wireless station, and donkeys and pierrots padding homewards.
 
 
-Out at sea in the blue dusk I saw lights appear on the Ariadne and on the destroyer away to the south, and beyond the Cock sands the bigger lights of steamers making for the Thames.
+Out at sea in the blue dusk I saw lights appear on the *Ariadne* and on the destroyer away to the south, and beyond the Cock sands the bigger lights of steamers making for the Thames.
 
 
 The whole scene was so peaceful and ordinary that I got more dashed in spirits every second.
@@ -5658,10 +5602,7 @@ But when I found myself in that neat hall the place mastered me.
 There were the golf-clubs and tennis-rackets, the straw hats and caps, the rows of gloves, the sheaf of walking-sticks, which you will find in ten thousand British homes.
 
 
-A stack of neatly folded coats and waterproofs covered the top of an old oak chest;
-
-
-There was a grandfather clock ticking; and some polished brass warming-pans on the walls, and a barometer, and a print of Chiltern winning the St. Leger.
+A stack of neatly folded coats and waterproofs covered the top of an old oak chest; there was a grandfather clock ticking; and some polished brass warming-pans on the walls, and a barometer, and a print of Chiltern winning the St. Leger.
 
 
 The place was as orthodox as an Anglican church. When the maid asked me for my name I gave it automatically, and was shown into the smoking-room, on the right side of the hall.
@@ -5856,10 +5797,10 @@ My partner was the young dark one. I play a fair hand at bridge, but I must have
 They saw that they had got me puzzled, and that put them more than ever at their ease.
 
 
-I kept looking at their faces, but they conveyed nothing to me. It was not that they looked different;
+I kept looking at their faces, but they conveyed nothing to me. It was not that they looked different; they *were* different. I clung desperately to the words of Peter Pienaar.
 
 
-They were different. I clung desperately to the words of Peter Pienaar.
+—
 
 
 Then something awoke me.
@@ -5901,10 +5842,7 @@ The plump man’s features seemed to dislimn, and form again, as I looked at the
 He hadn’t a face, only a hundred masks that he could assume when he pleased.
 
 
-That chap must have been a superb actor. Perhaps he had been Lord Alloa of the night before; perhaps not;
-
-
-It didn’t matter. I wondered if he was the fellow who had first tracked Scudder, and left his card on him.
+That chap must have been a superb actor. Perhaps he had been Lord Alloa of the night before; perhaps not; it didn’t matter. I wondered if he was the fellow who had first tracked Scudder, and left his card on him.
 
 
 Scudder had said he lisped, and I could imagine how the adoption of a lisp might add terror.
@@ -5979,7 +5917,7 @@ In an instant the lights were out.
 A pair of strong arms gripped me round the waist, covering the pockets in which a man might be expected to carry a pistol.
 
 
-“Schnell, Franz,” cried a voice, “Das Boot, das Boot!” As it spoke I saw two of my fellows emerge on the moonlit lawn.
+“*Schnell, Franz*,” cried a voice, “*Das Boot, das Boot!*” As it spoke I saw two of my fellows emerge on the moonlit lawn.
 s=appleton
 
 The young dark man leapt for the window, was through it, and over the low fence before a hand could touch him.
@@ -6009,7 +5947,7 @@ Someone switched on the light.
 The old man was looking at me with blazing eyes.
 e:appleton=angry
 
-“He is safe,” he cried. “You cannot follow in time... He is gone... He has triumphed... Der Schwarzestein ist in der Siegeskrone.”
+“He is safe,” he cried. “You cannot follow in time… He is gone… He has triumphed… *Der Schwarzestein ist in der Siegeskrone.*”
 s=appleton
 
 There was more in those eyes than any common triumph.
@@ -6027,7 +5965,7 @@ This man was more than a spy; in his foul way he had been a patriot.
 As the handcuffs clinked on his wrists I said my last word to him.
 
 
-“I hope Franz will bear his triumph well. I ought to tell you that the Ariadne for the last hour has been in our hands.”
+“I hope Franz will bear his triumph well. I ought to tell you that the *Ariadne* for the last hour has been in our hands.”
 s=hannay;e:hannay=smirking
 
 —
