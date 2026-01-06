@@ -1,16 +1,18 @@
 *The Thirty-Nine Steps* by John Buchan
+n:author=;b=title;t=author
 
+<e>Some important context before we begin: this book was published serially in 1915, so while World War I is raging. No introductory context was given for the original publication (<a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">The June 5th  Issue of All-Story Weekly</a>), so as a reader, you're dropped in without it being clear what exactly the date is meant to be. You're just meant to intuit, as would be obvious to someone reading in 1915, that it clearly takes places sometime before the outbreak of the war, but not too far before (since all the descriptions are "modern").</e>
 
 ## I. The Man Who Died
-
+t=;b=card
 
 I returned from the city about three o’clock on that May afternoon pretty well disgusted with life.
-n:hannay=Richard Hannay;e:hannay=unhappy
+n:hannay=Richard Hannay;e:hannay=unhappy;b=flat-ext
 
 I had been three months in the Old Country, and was fed up with it.
 
 
-If anyone had told me a year ago that I would have been feeling like that I should have laughed at him; but there was the fact.<e>TODO: awkward</e>
+If anyone had told me a year ago that I would have been feeling like that I should have laughed at him; but there was the fact.<e>That is a real awkward third sentence of the book.</e>
 
 
 The weather made me liverish, the talk of the ordinary Englishman made me sick.
@@ -20,22 +22,22 @@ I couldn’t get enough exercise, and the amusements of London seemed as flat as
 
 
 “Richard Hannay,” I kept telling myself, “you have got into the wrong ditch, my friend, and you had better climb out.”
-t=hannay
+s=hannay
 
 It made me bite my lips to think of the plans I had been building up those last years in Bulawayo.
-t=;e:hannay=unhappy
+s=;e:hannay=unhappy;b=mapA
 
 I had got my pile—not one of the big ones, but good enough for me; and I had figured out all kinds of ways of enjoying myself.
 
 
 My father had brought me out from Scotland at the age of six, and I had never been home since; so England was a sort of *Arabian Nights* to me, and I counted on stopping there for the rest of my days.
-
+b=mapB
 
 But from the first I was disappointed with it.
 
 
 In about a week I was tired of seeing sights, and in less than a month I had had enough of restaurants and theatres and race-meetings.
-e:hannay=weary
+e:hannay=weary;b=london
 
 I had no real pal to go about with, which probably explains things.
 
@@ -50,19 +52,16 @@ A lot of Imperialist ladies asked me to tea to meet schoolmasters from New Zeala
 
 
 Here was I, thirty-seven years old, sound in wind and limb, with enough money to have a good time, yawning my head off all day.
-e:hannay=weary
+e:hannay=weary;b=think;c=hannay
 
 I had just about settled to clear out and get back to the veld, for I was the best-bored man in the United Kingdom.
 
 
 That afternoon I had been worrying my brokers about investments to give my mind something to work on, and on my way home I turned into my club—rather a pothouse, which took in Colonial members.
+c=;b=london
 
-
-I had a long drink, and read the evening papers.
-e:hannay=neutral
-
-They were full of the row in the Near East, and there was an article about Karolides, the Greek Premier.
-
+I had a long drink, and read the evening papers. They were full of the row in the Near East, and there was an article about Karolides, the Greek Premier.
+b=mapE;e:hannay=neutral
 
 I rather fancied the chap. From all accounts he seemed the one big man in the show; and he played a straight game too, which was more than could be said for most of them.
 e:hannay=thinking
@@ -77,7 +76,7 @@ It struck me that Albania was the sort of place that might keep a man from yawni
 
 
 About six o’clock I went home, dressed, dined at the Café Royal, and turned into a music-hall.
-
+b=london
 
 It was a silly show, all capering women and monkey-faced men, and I did not stay long.
 e:hannay=weary
@@ -86,7 +85,7 @@ The night was fine and clear as I walked back to the flat I had hired near Portl
 
 
 The crowd surged past me on the pavements, busy and chattering, and I envied the people for having something to do.
-e:hannay=unhappy
+e:hannay=unhappy;b=london-street
 
 These shopgirls and clerks and dandies and policemen had some interest in life that kept them going.
 
@@ -95,16 +94,16 @@ I gave half-a-crown to a beggar because I saw him yawn; he was a fellow-sufferer
 
 
 At Oxford Circus I looked up into the spring sky and I made a vow.
+b=london
 
-
-I would give the Old Country another day to fit me into something; if nothing happened, I would take the next boat for the Cape.<e>TODO: dynamic protag</e>
+I would give the Old Country another day to fit me into something; if nothing happened, I would take the next boat for the Cape.<e>Not exactly the most intrepid character introduction in literature — our protagonist planning on moving countries out of <i>boredom</i>. But it's… unique.</e>
 e:hannay=neutral
 
-My flat was the first floor in a new block behind Langham Place.
-
+My flat was the first floor in a new block behind Langham Place.<e>And by "first floor" Buchan means the 2nd floor, because Brits are idiots.</e>
+b=flat-ext
 
 There was a common staircase, with a porter and a liftman at the entrance, but there was no restaurant or anything of that sort, and each flat was quite shut off from the others.
-
+b=flat-lobby
 
 I hate servants on the premises, so I had a fellow to look after me who came in by the day.
 
@@ -113,10 +112,10 @@ He arrived before eight o’clock every morning and used to depart at seven, for
 
 
 I was just fitting my key into the door when I noticed a man at my elbow.
-n:scudder=?;e:hannay=surprised
+n:scudder=?;e:hannay=surprised;b=flat-hall
 
 I had not seen him approach, and the sudden appearance made me start.
-
+c=scudder;e:scudder=fearful
 
 He was a slim man, with a short brown beard and small, gimlety blue eyes.
 
@@ -131,13 +130,13 @@ He was steadying his voice with an effort, and his hand was pawing my arm.
 s=
 
 I got my door open and motioned him in.
-
+c=
 
 No sooner was he over the threshold than he made a dash for my back room, where I used to smoke and write my letters.
-
+b=flat
 
 Then he bolted back.
-
+c=,scudder
 
 “Is the door locked?” he asked feverishly, and he fastened the chain with his own hand.
 s=scudder;e:scudder=wary
@@ -149,13 +148,13 @@ e:scudder=neutral
 e:scudder=wary
 
 “I’ll listen to you,” I said. “That’s all I’ll promise.”
-s=hannay;e:hannay=wary
+s=hannay;e:hannay=wary;c=hannay,scudder
 
 I was getting worried by the antics of this nervous little chap.
 s=
 
 There was a tray of drinks on a table beside him, from which he filled himself a stiff whisky-and-soda.
-
+c=
 
 He drank it off in three gulps, and cracked the glass as he set it down.
 e:scudder=fearful
@@ -185,7 +184,7 @@ e:scudder=wary
 s=hannay;e:hannay=neutral
 
 He seemed to brace himself for a great effort, and then started on the queerest rigmarole.
-s=
+s=;b=think
 
 I didn’t get hold of it at first, and I had to stop and ask him questions.
 e:hannay=confused
@@ -194,10 +193,10 @@ But here is the gist of it:—
 
 
 He was an American, from Kentucky, and after college, being pretty well off, he had started out to see the world.
-
+c=scudder
 
 He wrote a bit, and acted as war correspondent for a Chicago paper, and spent a year or two in southeastern Europe.
-
+c=
 
 I gathered that he was a fine linguist, and had got to know pretty well the society in those parts.
 
@@ -217,8 +216,8 @@ He got a little further down than he wanted.
 I am giving you what he told me as well as I could make it out.
 
 
-Away behind all the governments and the armies there was a big subterranean movement going on, engineered by very dangerous people.
-
+Away behind all the governments and the armies there was a big subterranean movement going on, engineered by very dangerous people.<e>Here we go!</e>
+b=mapE
 
 He had come on it by accident; it fascinated him; he went further, and then he got caught.
 
@@ -241,20 +240,20 @@ When I asked why, he said that the anarchist lot thought it would give them thei
 Everything would be in the melting-pot, and they looked to see a new world emerge.
 
 
-The capitalists would rake in the shekels, and make fortunes by buying up wreckage. Capital, he said, had no conscience and no fatherland. Besides, the Jew was behind it, and the Jew hated Russia worse than hell.<e>TODO</e>
+The capitalists would rake in the shekels, and make fortunes by buying up wreckage. Capital, he said, had no conscience and no fatherland. Besides, the Jew was behind it, and the Jew hated Russia worse than hell.<e>We're on record pace with this book.</e>
 
 
 “Do you wonder?” he cried. “For three hundred years they have been persecuted, and this is the return match for the pogroms.”
-s=scudder;e:scudder=angry
+s=scudder;e:scudder=angry;b=flat
 
 “The Jew is everywhere, but you have to go far down the backstairs to find him. Take any big Teutonic business concern. If you have dealings with it the first man you meet is Prince von und zu Something, an elegant young man who talks Eton-and-Harrow English.”
 
 
 “But he cuts no ice. If your business is big, you get behind him and find a prognathous Westphalian with a retreating brow and the manners of a hog. He is the German business man that gives your English papers the shakes.”
-
+e:scudder=thinking
 
 “But if you’re on the biggest kind of job and are bound to get to the real boss, ten to one you are brought up against a little white-faced Jew in a bath-chair with an eye like a rattlesnake.”
-
+e:scudder=angry
 
 “Yes, sir, he is the man who is ruling the world just now, and he has his knife in the Empire of the Tzar, because his aunt was outraged and his father flogged in some one-horse location on the Volga.”
 e:scudder=thinking
@@ -280,14 +279,17 @@ s=hannay;e:hannay=confused
 “*Mors janua vitae*,” he smiled.
 s=scudder;e:scudder=smirking
 
-(I recognized the quotation: it was about all the Latin I knew.)<e>TODO</e>
+(I recognized the quotation: it was about all the Latin I knew.)<e>It means "death is the gateway to life" — thanks for not including the translation yourself, Buchan. Dick.</e>
 
 
-“I’m coming to that, but I’ve got to put you wise about a lot of things first. If you read your newspaper, I guess you know the name of Constantine Karolides?”<e>TODO: convenient; context</e>
+“I’m coming to that, but I’ve got to put you wise about a lot of things first. If you read your newspaper, I guess you know the name of Constantine Karolides?”<e>How remarkably convenient that Hannay was just thinking about him earlier.</e>
 s=scudder;e:scudder=neutral
 
-I sat up at that, for I had been reading about him that very afternoon.<e>TODO: author says the quiet part!</e>
+I sat up at that, for I had been reading about him that very afternoon.<e>Buchan says the quiet part out loud!</e>
 s=;e:hannay=surprised
+
+<e>But anyway, timeout here for a second, because this whole book premise as presented so far is even weirder than you might think.<br>See, this Premier Constantine Karolides character isn't a real person. Instead, the real Premier (Prime Minister) of Greece at the time was Eleftherios Venizelos. The description of Karolides as cozying up with Entente and therefore being viewed as an enemy by the Central Powers lines up the politics of Venizelos perfectly. This would all be known to the readership of 1915.<br>So the first baffling decision by Buchan then is that we're apparently in some sort of quasi-alternate history where the <i>only</i> difference from our timeline is that Greece's Prime Minister is a functionally equivalent stand-in, just with a different name. But that particular different name — <i>Constantine</i> Karolides — brings us to baffling decision #2, which is that Venizelos's main political rival was the Greek King, supporter of the Central Power (and brother-in-law of the Kaiser Wilhelm II), named… Constantine I. Which means Buchan either accidentally chose the most confusing name possible, or he intentionally chose Constantine as a way to blend the real-life Premier and King together into a single new composite character. But that second interpretation doesn't really make sense, since again, the character is just Venizelos with a different.<br>But the upshot of all this is: even though the real-life Venizelos resigned from office in February 1915, before this book was published, we're meant to be left in suspence as to fate of his stand-in character Karolides.</e>
+
 
 “He is the man that has wrecked all their games. He is the one big brain in the whole show, and he happens also to be an honest man. Therefore he has been marked down these twelve months past.”
 s=scudder
@@ -298,7 +300,7 @@ e:scudder=thinking
 He had another drink, and I mixed it for him myself, for I was getting interested in the beggar.
 s=;e:hannay=neutral
 
-“They can’t get him in his own land, for he has a bodyguard of Epirotes that would skin their grandmothers. But on the 15th day of June he is coming to this city.”
+“They can’t get him in his own land, for he has a bodyguard of Epirotes that would skin their grandmothers. But on the 15th day of June he is coming to this city.”<e>Another quick context interlude. There was previous mention of "the Balkan War", which didn't start until October 1912, so if whatever the current year is isn't yet June, it can't be 1912 or earlier. But it still needs to be before WWI, which Britain entered on August 4th, 1914; this coming after the assassination of Franz Ferdinand on June 28th. So 1914 is still possible, as is 1913 — those are the only two years it could be.</e>
 s=scudder
 
 “The British Foreign Office has taken to having International tea-parties, and the biggest of them is due on that date. Now Karolides is reckoned the principal guest, and if my friends have their way he will never return to his admiring countrymen.”
