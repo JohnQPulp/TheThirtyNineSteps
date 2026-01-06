@@ -482,7 +482,7 @@ s=scudder;e:scudder=scowling
 e:scudder=smirking
 
 I made him up a bed in my smoking-room and sought my own couch, more cheerful than I had been for the past month.
-s=;e:hannay=happy;c=;b=flat-room
+s=;e:hannay=happy;c=;b=flat-smoking-room
 
 Things did happen occasionally, even in this God-forgotten metropolis.<e>Nothing—</e>
 
@@ -635,13 +635,13 @@ I had a cigar in my mouth, I remember, as I pushed open the smoking-room door.
 b=flat
 
 The lights were not lit, which struck me as odd. I wondered if Scudder had turned in already.
-e:hannay=confused;b=think
+e:hannay=confused;b=flat-smoking-room-murder-mod-dark
 
 I snapped the switch, but there was nobody there. Then I saw something in the far corner which made me drop my cigar and fall into a cold sweat.
 e:hannay=fearful
 
 My guest was lying sprawled on his back. There was a long knife through his heart which skewered him to the floor.<e>Wow it's like a real visual novel now!</e>
-b=flat-room-murder
+b=flat-smoking-room-murder
 
 ## II. The Milkman Sets Out on His Travels
 r=card
@@ -653,37 +653,37 @@ That lasted for maybe five minutes, and was succeeded by a fit of the horrors.
 
 
 The poor staring white face on the floor was more than I could bear, and I managed to get a tablecloth and cover it.
-e:hannay=unhappy
+e:hannay=unhappy;b=flat-smoking-room-murder-mod-cloth
 
 Then I staggered to a cupboard, found the brandy and swallowed several mouthfuls. I had seen men die violently before; indeed I had killed a few myself in the Matabele War; but this cold-blooded indoor business was different.
-
+b=flat
 
 Still I managed to pull myself together. I looked at my watch, and saw that it was half-past ten.
 e:hannay=weary
 
-An idea seized me, and I went over the flat with a small-tooth comb.<e>TODO</e>
+An idea seized me, and I went over the flat with a small-tooth comb.<e>They hadn't quite nailed down the phrase in 1915.</e>
 e:hannay=thinking
 
 There was nobody there, nor any trace of anybody, but I shuttered and bolted all the windows and put the chain on the door.
-
+b=think
 
 By this time my wits were coming back to me, and I could think again.
-e:hannay=neutral
+e:hannay=neutral;b=flat
 
 It took me about an hour to figure the thing out, and I did not hurry, for, unless the murderer came back, I had till about six o’clock in the morning for my cogitations.
-
+b=think
 
 I was in the soup—that was pretty clear. Any shadow of a doubt I might have had about the truth of Scudder’s tale was now gone.
 e:hannay=wary
 
 The proof of it was lying under the tablecloth.
-
+b=flat-smoking-room-murder-mod-cloth
 
 The men who knew that he knew what he knew had found him, and had taken the best way to make certain of his silence.
 
 
 Yes; but he had been in my rooms four days, and his enemies must have reckoned that he had confided in me.
-
+b=flat
 
 So I would be the next to go. It might be that very night, or next day, or the day after, but my number was up all right.
 e:hannay=fearful
@@ -692,7 +692,7 @@ Then suddenly I thought of another probability. Supposing I went out now and cal
 e:hannay=thinking
 
 What kind of a story was I to tell about Scudder?
-
+b=flat-smoking-room-murder-mod-cloth
 
 I had lied to Paddock about him, and the whole thing looked desperately fishy.
 
@@ -700,11 +700,11 @@ I had lied to Paddock about him, and the whole thing looked desperately fishy.
 If I made a clean breast of it and told the police everything he had told me, they would simply laugh at me.
 e:hannay=unhappy
 
-The odds were a thousand to one that I would be charged with the murder, and the circumstantial evidence was strong enough to hang me.<e>TODO: one bayesian to another, recalibrate downwards</e>
+The odds were a thousand to one that I would be charged with the murder, and the circumstantial evidence was strong enough to hang me.<e>Everyone in this book loves giving the odds. They're all Bayesians, and crappy ones at that, but I repeat myself (ho ho ho!).</e>
 
 
 Few people knew me in England; I had no real pal who could come forward and swear to my character.
-
+b=london
 
 Perhaps that was what those secret enemies were playing for.
 e:hannay=thinking
@@ -712,14 +712,11 @@ e:hannay=thinking
 They were clever enough for anything, and an English prison was as good a way of getting rid of me till after June 15th as a knife in my chest.
 
 
-Besides, if I told the whole story, and by any miracle was believed, I would be playing their game.
+Besides, if I told the whole story, and by any miracle was believed, I would be playing their game. Karolides would stay at home, which was what they wanted.<e>So you're just going along with that too, huh.</e>
 
 
-Karolides would stay at home, which was what they wanted.
-
-
-Somehow or other the sight of Scudder’s dead face had made me a passionate believer in his scheme.
-e:hannay=neutral
+Somehow or other the sight of Scudder’s dead face had made me a passionate believer in his scheme.<e>"Somehow".</e>
+e:hannay=neutral;b=flat-smoking-room-murder-mod-cloth
 
 He was gone, but he had taken me into his confidence, and I was pretty well bound to carry on his work.
 
@@ -731,15 +728,15 @@ I am an ordinary sort of fellow, not braver than other people, but I hate to see
 
 
 It took me an hour or two to think this out, and by that time I had come to a decision.
-e:hannay=thinking
+e:hannay=thinking;b=flat
 
 I must vanish somehow, and keep vanished till the end of the second week in June.
 
 
-Then I must somehow find a way to get in touch with the government people and tell them what Scudder had told me.<e>TODO: "government people"</e>
+Then I must somehow find a way to get in touch with the government people and tell them what Scudder had told me.<e>"The government people".</e>
 
 
-I wished to Heaven he had told me more, and that I had listened more carefully to the little he had told me.<e>TODO: just playing chess for *four* days?</e>
+I wished to Heaven he had told me more, and that I had listened more carefully to the little he had told me.<e>Four whole days alone with this guy.</e>
 e:hannay=unhappy
 
 I knew nothing but the barest facts. There was a big risk that, even if I weathered the other dangers, I would not be believed in the end.
@@ -755,7 +752,7 @@ It was now the 24th day of May, and that meant twenty days of hiding before I co
 
 
 I reckoned that two sets of people would be looking for me—Scudder’s enemies to put me out of existence, and the police, who would want me for Scudder’s murder.
-
+b=flat-smoking-room-murder-mod-cloth
 
 It was going to be a giddy hunt, and it was queer how the prospect comforted me.
 e:hannay=excited
@@ -770,7 +767,7 @@ My next thought was whether Scudder had any papers about him to give me a better
 e:hannay=thinking
 
 I drew back the tablecloth and searched his pockets, for I had no longer any shrinking from the body.
-
+b=flat-smoking-room-murder
 
 The face was wonderfully calm for a man who had been struck down in a moment.
 
@@ -796,14 +793,14 @@ Scudder would never have left them in that state, for he was the tidiest of mort
 Someone must have been searching for something—perhaps for the pocketbook.
 e:hannay=thinking
 
-I went round the flat and found that everything had been ransacked—the inside of books, drawers, cupboards, boxes, even the pockets of the clothes in my wardrobe, and the sideboard in the dining-room.<e>TODO: after his "hour or two" wait. Unless figurative. It is his catchphrase</e>
-
+I went round the flat and found that everything had been ransacked—the inside of books, drawers, cupboards, boxes, even the pockets of the clothes in my wardrobe, and the sideboard in the dining-room.<e>I guess that's why you don't search "with a small-tooth comb" if you're only now noticing all this.</e>
+b=flat
 
 There was no trace of the book. Most likely the enemy had found it, but they had not found it on Scudder’s body.
 
 
 Then I got out an atlas and looked at a big map of the British Isles.
-
+b=mapB
 
 My notion was to get off to some wild district, where my veldcraft would be of some use to me, for I would be like a trapped rat in a city.
 
@@ -811,29 +808,29 @@ My notion was to get off to some wild district, where my veldcraft would be of s
 I considered that Scotland would be best, for my people were Scotch and I could pass anywhere as an ordinary Scotsman.
 
 
-I had half an idea at first to be a German tourist, for my father had had German partners, and I had been brought up to speak the tongue pretty fluently, not to mention having put in three years prospecting for copper in German Damaraland.
+I had half an idea at first to be a German tourist, for my father had had German partners, and I had been brought up to speak the tongue pretty fluently, not to mention having put in three years prospecting for copper in German Damaraland.<e>Damaraland was a region in what's now the north-west of Namibia. (I had to look it up.)</e>
 
 
 But I calculated that it would be less conspicuous to be a Scot, and less in a line with what the police might know of my past.
 
 
 I fixed on Galloway as the best place to go.
-
+b=mapS
 
 It was the nearest wild part of Scotland, so far as I could figure it out, and from the look of the map was not over thick with population.
 
 
-A search in Bradshaw informed me that a train left St. Pancras at 7:10, which would land me at any Galloway station in the late afternoon.
+A search in Bradshaw informed me that a train left St. Pancras at 7:10, which would land me at any Galloway station in the late afternoon.<e>Referring to Bradshaw's Railway Guides. (This one's actually useful to know, since it comes up a lot: <a href="https://en.wikipedia.org/wiki/Bradshaw%27s_Guide#References_in_literature">https://en.wikipedia.org/wiki/Bradshaw%27s_Guide#References_in_literature</a>.)</e>
 
 
 That was well enough, but a more important matter was how I was to make my way to St. Pancras, for I was pretty certain that Scudder’s friends would be watching outside.
-e:hannay=wary
+e:hannay=wary;b=flat
 
-This puzzled me for a bit; then I had an inspiration, on which I went to bed and slept for two troubled hours.
+This puzzled me for a bit; then I had an inspiration, on which I went to bed and slept for two troubled hours.<e>And he was murdered in his sleep — The End.</e>
 e:hannay=thinking
 
 I got up at four and opened my bedroom shutters.
-e:hannay=weary
+e:hannay=weary;b=flat-room
 
 The faint light of a fine summer morning was flooding the skies, and the sparrows had begun to chatter.
 
@@ -851,7 +848,7 @@ I was not feeling in any particular funk; only disinclined to go looking for tro
 
 
 I hunted out a well-used tweed suit, a pair of strong nailed boots, and a flannel shirt with a collar.
-
+b=think
 
 Into my pockets I stuffed a spare shirt, a cloth cap, some handkerchiefs, and a toothbrush.
 
@@ -860,10 +857,10 @@ I had drawn a good sum in gold from the bank two days before, in case Scudder sh
 
 
 That was about all I wanted. Then I had a bath, and cut my moustache, which was long and drooping, into a short stubbly fringe.
-
+a:hannay=c1
 
 Now came the next step. Paddock used to arrive punctually at 7:30 and let himself in with a latchkey.
-e:hannay=thinking
+e:hannay=thinking;b=flat
 
 But about twenty minutes to seven, as I knew from bitter experience, the milkman turned up with a great clatter of cans, and deposited my share outside my door.
 
@@ -877,11 +874,8 @@ He was a young man about my own height, with an ill-nourished moustache, and he 
 On him I staked all my chances.
 
 
-I went into the darkened smoking-room where the rays of morning light were beginning to creep through the shutters.
-
-
-There I breakfasted off a whisky-and-soda and some biscuits from the cupboard.
-
+I went into the darkened smoking-room where the rays of morning light were beginning to creep through the shutters. There I breakfasted off a whisky-and-soda and some biscuits from the cupboard.<e><i>Biscuits</i> for breakfast <i>in the smoking-room</i>? Order has collapsed! (No but really, why is he breakfasting in the murder room?)</e>
+b=flat-smoking-room-murder-mod-cloth
 
 By this time it was getting on for six o’clock.
 
@@ -890,19 +884,19 @@ I put a pipe in my pocket and filled my pouch from the tobacco jar on the table 
 
 
 As I poked into the tobacco my fingers touched something hard, and I drew out Scudder’s little black pocketbook…
-e:hannay=surprised
+e:hannay=surprised;o=pocketbook
 
 That seemed to me a good omen.
 e:hannay=happy
 
 I lifted the cloth from the body and was amazed at the peace and dignity of the dead face.
-e:hannay=neutral
+e:hannay=neutral;o=;b=flat-smoking-room-murder
 
 “Goodbye, old chap,” I said; “I am going to do my best for you. Wish me well, wherever you are.”
 s=hannay
 
 Then I hung about in the hall waiting for the milkman.
-s=;e:hannay=wary
+s=;e:hannay=wary;b=flat
 
 That was the worst part of the business, for I was fairly choking to get out of doors.
 
@@ -917,22 +911,19 @@ At one minute after the quarter to seven I heard the rattle of the cans outside.
 e:hannay=excited
 
 I opened the front door, and there was my man, singling out my cans from a bunch he carried and whistling through his teeth.
-n:milkman=Milkman
+n:milkman=Milkman;b=flat-hall
 
 He jumped a bit at the sight of me.
-e:milkman=surprised
+e:milkman=surprised;c=milkman,
 
-“Come in here a moment,” I said.
-s=hannay
-
-“I want a word with you.”
-e:milkman=wary
+“Come in here a moment,” I said. “I want a word with you.”
+s=hannay;c=milkman,hannay
 
 And I led him into the dining-room.
-s=
+s=;b=flat;c=
 
 “I reckon you’re a bit of a sportsman,” I said, “and I want you to do me a service. Lend me your cap and overall for ten minutes, and here’s a sovereign for you.”
-s=hannay;e:hannay=smirking
+s=hannay;e:hannay=smirking;c=milkman,hannay
 
 His eyes opened at the sight of the gold, and he grinned broadly.
 s=;e:milkman=happy
@@ -950,13 +941,13 @@ s=hannay;e:hannay=neutral
 s=milkman;e:milkman=excited
 
 I stuck on his flat blue hat and his white overall, picked up the cans, banged my door, and went whistling downstairs.
-s=
+s=;c=;a:hannay=c2;b=think
 
 The porter at the foot told me to shut my jaw, which sounded as if my makeup was adequate.
-n:porter=Porter;s=porter;e:porter=angry
+n:porter=Porter;s=porter;e:porter=angry;b=flat-lobby
 
 At first I thought there was nobody in the street.
-s=;e:hannay=neutral
+s=;e:hannay=neutral;b=flat-ext
 
 Then I caught sight of a policeman a hundred yards down, and a loafer shuffling past on the other side.
 
@@ -971,10 +962,10 @@ I crossed the street, whistling gaily and imitating the jaunty swing of the milk
 e:hannay=neutral
 
 Then I took the first side street, and went up a left-hand turning which led past a bit of vacant ground.
-
+b=side-street
 
 There was no one in the little street, so I dropped the milk-cans inside the hoarding and sent the cap and overall after them.
-
+a:hannay=c1
 
 I had only just put on my cloth cap when a postman came round the corner.
 e:hannay=wary
@@ -986,10 +977,10 @@ At the moment the clock of a neighbouring church struck the hour of seven.
 
 
 There was not a second to spare. As soon as I got to Euston Road I took to my heels and ran.
-e:hannay=excited
+e:hannay=excited;b=think
 
 The clock at Euston Station showed five minutes past the hour.
-
+b=euston-station
 
 At St. Pancras I had no time to take a ticket, let alone that I had not settled upon my destination.
 
@@ -1001,13 +992,13 @@ Two station officials blocked the way, but I dodged them and clambered into the 
 e:hannay=wary
 
 Three minutes later, as we were roaring through the northern tunnels, an irate guard interviewed me.
-n:guard=Guard;e:guard=angry
+n:guard=Guard;e:guard=angry;b=think
 
 He wrote out for me a ticket to Newton-Stewart, a name which had suddenly come back to my memory, and he conducted me from the first-class compartment where I had ensconced myself to a third-class smoker, occupied by a sailor and a stout woman with a child.
 n:woman=Fat Woman;n:sailor=Sailor;e:guard=scowling
 
 He went off grumbling, and as I mopped my brow I observed to my companions in my broadest Scots that it was a sore job catching trains.
-s=hannay;e:hannay=weary
+s=hannay;e:hannay=weary;b=train
 
 I had already entered upon my part.
 s=
@@ -1024,8 +1015,8 @@ s=;e:sailor=unhappy
 I reminded myself that a week ago I had been finding the world dull.
 e:hannay=smirking
 
-## III. The Adventure of the Literary Innkeeper<e>TODO: gear up for adventure</e>
-
+## III. The Adventure of the Literary Innkeeper<e>A chapter title to really gear the reader up for adventure.</e>
+b=card
 
 I had a solemn time travelling north that day.
 e:hannay=neutral
