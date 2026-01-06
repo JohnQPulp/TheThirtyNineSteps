@@ -575,7 +575,7 @@ Then I could see that he began to get edgy again.
 e:scudder=wary
 
 He listened for little noises, and was always asking me if Paddock could be trusted.
-c=flat
+b=flat
 
 Once or twice he got very peevish, and apologized for it. I didn’t blame him.
 e:scudder=unhappy
@@ -1019,7 +1019,7 @@ e:hannay=smirking
 b=card
 
 I had a solemn time travelling north that day.
-e:hannay=neutral
+e:hannay=neutral;b=train
 
 It was fine May weather, with the hawthorn flowering on every hedge, and I asked myself why, when I was still a free man, I had stayed on in London and not got the good of this heavenly country.
 t=hannay;e:hannay=unhappy
@@ -1027,11 +1027,11 @@ t=hannay;e:hannay=unhappy
 I didn’t dare face the restaurant car, but I got a luncheon-basket at Leeds and shared it with the fat woman.
 t=
 
-Also I got the morning’s papers, with news about starters for the Derby and the beginning of the cricket season, and some paragraphs about how Balkan affairs were settling down and a British squadron was going to Kiel.<e>TODO: 1914</e>
+Also I got the morning’s papers, with news about starters for the Derby and the beginning of the cricket season, and some paragraphs about how Balkan affairs were settling down and a British squadron was going to Kiel.<e>This is a specific reference to the Royal's Navy's Kiel Week visit in 1914, which in real life was infamously interrupted by the news of Ferdinand's assassination. So this finally locks down the year as specifically being 1914, which makes me wonder why Buchan has been so cagey up until now.</e>
 e:hannay=neutral
 
 When I had done with them I got out Scudder’s little black pocketbook and studied it.
-e:hannay=thinking
+e:hannay=thinking;o=pocketboot
 
 It was pretty well filled with jottings, chiefly figures, though now and then a name was printed in. For example, I found the words “Hofgaard,” “Luneville,” and “Avocado” pretty often, and especially the word “Pavia.”
 
@@ -1052,7 +1052,7 @@ So I fastened on the printed words, for you can make a pretty good numerical cip
 
 
 I tried for hours, but none of the words answered.
-e:hannay=weary
+e:hannay=weary;b=think
 
 Then I fell asleep and woke at Dumfries just in time to bundle out and get into the slow Galloway train.
 e:hannay=neutral
@@ -1060,11 +1060,11 @@ e:hannay=neutral
 There was a man on the platform whose looks I didn’t like, but he never glanced at me, and when I caught sight of myself in the mirror of an automatic machine I didn’t wonder.
 e:hannay=wary
 
-With my brown face, my old tweeds, and my slouch, I was the very model of one of the hill farmers who were crowding into the third-class carriages.<e>TODO: major general parody</e>
+With my brown face, my old tweeds, and my slouch, I was the very model of one of the hill farmers who were crowding into the third-class carriages.<e><m>He is the very model of a third-class peasant laborer.</m></e>
 e:hannay=smirking
 
 I travelled with half a dozen in an atmosphere of shag and clay pipes.
-e:hannay=neutral
+e:hannay=neutral;b=train
 
 They had come from the weekly market, and their mouths were full of prices.
 
@@ -1079,22 +1079,22 @@ We rumbled slowly into a land of little wooded glens and then to a great wide mo
 
 
 About five o’clock the carriage had emptied, and I was left alone as I had hoped.
-e:hannay=happy
+e:hannay=happy;b=think
 
 I got out at the next station, a little place whose name I scarcely noted, set right in the heart of a bog.
+b=moor-station
 
-
-It reminded me of one of those forgotten little stations in the Karroo.<e>TODO: constant south africa reminders</e>
+It reminded me of one of those forgotten little stations in the Karroo.<e>The constant reminders!</e>
 e:hannay=thinking
 
 An old stationmaster was digging in his garden, and with his spade over his shoulder sauntered to the train, took charge of a parcel, and went back to his potatoes.
 n:stationmaster=Stationmaster;e:stationmaster=neutral;e:hannay=neutral
 
 A child of ten received my ticket, and I emerged on a white road that straggled over the brown moor.
-
+b=moor-road
 
 It was a gorgeous spring evening, with every hill showing as clear as a cut amethyst.
-e:hannay=happy
+e:hannay=happy;b=moor-wide
 
 The air had the queer, rooty smell of bogs, but it was as fresh as mid-ocean, and it had the strangest effect on my spirits.
 
@@ -1106,40 +1106,40 @@ I felt just as I used to feel when I was starting for a big trek on a frosty mor
 
 
 If you believe me, I swung along that road whistling.<e>If I believe you?</e>
-
+b=moor-road
 
 There was no plan of campaign in my head, only just to go on and on in this blessed, honest-smelling hill country, for every mile put me in better humour with myself.
 
 
 In a roadside planting I cut a walking-stick of hazel, and presently struck off the highway up a bypath which followed the glen of a brawling stream.
-
+b=moor-path
 
 I reckoned that I was still far ahead of any pursuit, and for that night might please myself.
 
 
 It was some hours since I had tasted food, and I was getting very hungry when I came to a herd’s cottage set in a nook beside a waterfall.
-e:hannay=weary
+e:hannay=weary;b=cottage-ext
 
 A brown-faced woman was standing by the door, and greeted me with the kindly shyness of moorland places.
 n:wife1=Woman w/ Perfect Breeding;e:wife1=happy
 
 When I asked for a night’s lodging she said I was welcome to the “bed in the loft,” and very soon she set before me a hearty meal of ham and eggs, scones, and thick sweet milk.
-e:hannay=happy
+e:hannay=happy;b=cottage
 
 At the darkening her man came in from the hills, a lean giant, who in one step covered as much ground as three paces of ordinary mortals.
 n:shepherd=Lean Giant w/ Perfect Breeding;e:shepherd=neutral
 
-They asked me no questions, for they had the perfect breeding of all dwellers in the wilds, but I could see they set me down as a kind of dealer, and I took some trouble to confirm their view.
+They asked me no questions, for they had the perfect breeding of all dwellers in the wilds, but I could see they set me down as a kind of dealer, and I took some trouble to confirm their view.<e>Oy, you wanna buy some <book>Dead Souls</book>?</e>
 
 
 I spoke a lot about cattle, of which my host knew little, and I picked up from him a good deal about the local Galloway markets, which I tucked away in my memory for future use.
 
 
 At ten I was nodding in my chair, and the “bed in the loft” received a weary man who never opened his eyes till five o’clock set the little homestead a-going once more.
-e:hannay=weary
+e:hannay=weary;b=dream
 
 They refused any payment, and by six I had breakfasted and was striding southwards again.
-e:hannay=happy
+e:hannay=happy;b=moor-path-2
 
 My notion was to return to the railway line a station or two farther on than the place where I had alighted yesterday and to double back.
 e:hannay=thinking
@@ -1157,7 +1157,7 @@ Indeed I was in better spirits than I had been for months.
 
 
 Over a long ridge of moorland I took my road, skirting the side of a high hill which the herd had called Cairnsmore of Fleet.
-
+b=moor-wide
 
 Nesting curlews and plovers were crying everywhere, and the links of green pasture by the streams were dotted with young lambs.
 
@@ -1165,11 +1165,11 @@ Nesting curlews and plovers were crying everywhere, and the links of green pastu
 All the slackness of the past months was slipping from my bones, and I stepped out like a four-year-old.
 e:hannay=excited
 
-By-and-by I came to a swell of moorland which dipped to the vale of a little river, and a mile away in the heather I saw the smoke of a train.<e>TODO: 17 instances of "heather" in this book</e>
-e:hannay=neutral
+By-and-by I came to a swell of moorland which dipped to the vale of a little river, and a mile away in the heather I saw the smoke of a train.<e>Seventeen instances of the word "heather" in this book. So good luck if you don't know what it means.</e>
+e:hannay=neutral;b=think
 
 The station, when I reached it, proved to be ideal for my purpose.
-
+b=moor-station-wide
 
 The moor surged up around it and left room only for the single line, the slender siding, a waiting-room, an office, the stationmaster’s cottage, and a tiny yard of gooseberries and sweet-william.
 
@@ -1177,14 +1177,11 @@ The moor surged up around it and left room only for the single line, the slender
 There seemed no road to it from anywhere, and to increase the desolation the waves of a tarn lapped on their grey granite beach half a mile away.
 
 
-I waited in the deep heather till I saw the smoke of an east-going train on the horizon.
-e:hannay=wary
-
-Then I approached the tiny booking-office and took a ticket for Dumfries.
-
+I waited in the deep heather till I saw the smoke of an east-going train on the horizon. Then I approached the tiny booking-office and took a ticket for Dumfries.
+e:hannay=wary;b=think
 
 The only occupants of the carriage were an old shepherd and his dog—a walleyed brute that I mistrusted.
-n:drunkard=Old Shepherd;e:drunkard=weary;e:hannay=neutral
+n:drunkard=Old Shepherd;e:drunkard=weary;e:hannay=neutral;b=train-mod-dog
 
 The man was asleep, and on the cushions beside him was that morning’s *Scotsman*.
 
@@ -1193,7 +1190,7 @@ Eagerly I seized on it, for I fancied it would tell me something.
 e:hannay=excited
 
 There were two columns about the Portland Place Murder, as it was called.
-
+b=think
 
 My man Paddock had given the alarm and had the milkman arrested.
 
@@ -1217,7 +1214,7 @@ There was nothing else in the paper, nothing about foreign politics or Karolides
 e:hannay=neutral
 
 I laid it down, and found that we were approaching the station at which I had got out yesterday.
-
+b=train-mod-dog
 
 The potato-digging stationmaster had been gingered up into some activity, for the west-going train was waiting to let us pass, and from it had descended three men who were asking him questions.
 e:hannay=wary
@@ -1232,16 +1229,16 @@ The old potato-digger seemed to have turned peevish, but the child who had colle
 
 
 All the party looked out across the moor where the white road departed.
-
+b=moor-road
 
 I hoped they were going to take up my tracks there.
 
 
 As we moved away from that station my companion woke up.
-e:drunkard=confused
+e:drunkard=confused;b=train-mod-dog
 
 He fixed me with a wandering glance, kicked his dog viciously, and inquired where he was.
-
+b=train-mod-dog-kicked
 
 Clearly he was very drunk.
 
@@ -1274,40 +1271,40 @@ My plan had been to get out at some station down the line, but the train suddenl
 e:hannay=thinking
 
 I looked out and saw that every carriage window was closed and no human figure appeared in the landscape.
-
+b=moor-wide
 
 So I opened the door, and dropped quickly into the tangle of hazels which edged the line.
-e:hannay=excited
+e:hannay=excited;b=think
 
 It would have been all right but for that infernal dog.
-e:hannay=angry
+e:hannay=angry;b=think-dog
 
 Under the impression that I was decamping with its master’s belongings, it started to bark, and all but got me by the trousers.
 
 
 This woke up the herd, who stood bawling at the carriage door in the belief that I had committed suicide.
-e:drunkard=surprised
+e:drunkard=surprised;b=think
 
 I crawled through the thicket, reached the edge of the stream, and in cover of the bushes put a hundred yards or so behind me.
 e:hannay=wary
 
 Then from my shelter I peered back, and saw the guard and several passengers gathered round the open carriage door and staring in my direction.
+b=moor-train-look
 
-
-I could not have made a more public departure if I had left with a bugler and a brass band.<e>TODO: funny visual</e>
+I could not have made a more public departure if I had left with a bugler and a brass band.
 e:hannay=unhappy
 
 Happily the drunken herd provided a diversion. He and his dog, which was attached by a rope to his waist, suddenly cascaded out of the carriage, landed on their heads on the track, and rolled some way down the bank towards the water.
-e:hannay=happy
+e:hannay=happy;b=moor-train-look-mod-dog
 
 In the rescue which followed the dog bit somebody, for I could hear the sound of hard swearing.
 
 
 Presently they had forgotten me, and when after a quarter of a mile’s crawl I ventured to look back, the train had started again and was vanishing in the cutting.
-e:hannay=neutral
+e:hannay=neutral;b=think
 
 I was in a wide semicircle of moorland, with the brown river as radius, and the high hills forming the northern circumference.
-
+b=moor-wide-2
 
 There was not a sign or sound of a human being, only the plashing water and the interminable crying of curlews.
 
@@ -1322,16 +1319,16 @@ I was certain that they would pursue me with a keenness and vigilance unknown to
 
 
 I looked back, but there was nothing in the landscape.
-e:hannay=wary
+e:hannay=wary;b=moor-path
 
 The sun glinted on the metals of the line and the wet stones in the stream, and you could not have found a more peaceful sight in the world.
 
 
 Nevertheless I started to run. Crouching low in the runnels of the bog, I ran till the sweat blinded my eyes.
-
+b=think
 
 The mood did not leave me till I had reached the rim of mountain and flung myself panting on a ridge high above the young waters of the brown river.
-e:hannay=weary
+e:hannay=weary;b=moor-wide-2
 
 From my vantage-ground I could scan the whole moor right away to the railway line and to the south of it where green fields took the place of heather.
 
@@ -1346,13 +1343,13 @@ Last of all I looked into the blue May sky, and there I saw that which set my pu
 e:hannay=fearful
 
 Low down in the south a monoplane was climbing into the heavens.
-
+b=monoplane
 
 I was as certain as if I had been told that that aeroplane was looking for me, and that it did not belong to the police.
 
 
 For an hour or two I watched it from a pit of heather.
-e:hannay=wary
+e:hannay=wary;b=moor-heather
 
 It flew low along the hilltops, and then in narrow circles over the valley up which I had come.
 
@@ -1367,13 +1364,13 @@ These heather hills were no sort of cover if my enemies were in the sky, and I m
 
 
 I looked with more satisfaction to the green country beyond the ridge, for there I should find woods and stone houses.
-
+b=moor-wide-2
 
 About six in the evening I came out of the moorland to a white ribbon of road which wound up the narrow vale of a lowland stream.
-e:hannay=neutral
+e:hannay=neutral;b=think
 
 As I followed it, fields gave place to bent, the glen became a plateau, and presently I had reached a kind of pass where a solitary house smoked in the twilight.
-
+b=inn-ext
 
 The road swung over a bridge, and leaning on the parapet was a young man.
 n:innkeeper=?;e:innkeeper=neutral
@@ -1387,7 +1384,7 @@ In his left hand was a small book with a finger marking the place.
 Slowly he repeated—
 
 
-“As when a Gryphon through the wilderness With winged step, o’er hill and moory dale Pursues the Arimaspian.”
+“As when a Gryphon through the wilderness<br>With winged step, o’er hill and moory dale<br>Pursues the Arimaspian.”<e>Rather on-the-nose choice of poetry, but when are they are never not in literature.</e>
 s=innkeeper;e:innkeeper=thinking
 
 He jumped round as my step rung on the keystone, and I saw a pleasant sunburnt boyish face.
@@ -1420,7 +1417,7 @@ s=innkeeper;e:innkeeper=unhappy
 “Which was?”
 s=hannay
 
-He actually blushed. “I want to write books,” he said.<e>TODO: oh no</e>
+He actually blushed. “I want to write books,” he said.<e>On not again. Not right after that hellish <book>Garp|Irving novel</book> where every single character was a writer.</e>
 s=innkeeper
 
 “And what better chance could you ask?” I cried.
@@ -1435,7 +1432,7 @@ s=innkeeper;e:innkeeper=excited
 “Nothing comes here but motorcars full of fat women, who stop for lunch, and a fisherman or two in the spring, and the shooting tenants in August. There is not much material to be got out of that.”
 e:innkeeper=unhappy
 
-“I want to see life, to travel the world, and write things like Kipling and Conrad. But the most I’ve done yet is to get some verses printed in *Chambers’s Journal*.”<e>TODO: 2 conrad gushers</e>
+“I want to see life, to travel the world, and write things like Kipling and Conrad. But the most I’ve done yet is to get some verses printed in *Chambers’s Journal*.”
 
 
 I looked at the inn standing golden in the sunset against the brown hills.
@@ -1444,14 +1441,14 @@ s=;e:hannay=thinking
 “I’ve knocked a bit about the world, and I wouldn’t despise such a hermitage. D’you think that adventure is found only in the tropics or among gentry in red shirts? Maybe you’re rubbing shoulders with it at this moment.”
 s=hannay
 
-“That’s what Kipling says,” he said, his eyes brightening, and he quoted some verse about “Romance bringing up the 9:15.”
+“That’s what Kipling says,” he said, his eyes brightening, and he quoted some verse about “Romance bringing up the 9:15.”<e>From Kipling's <a href="https://www.kiplingsociety.co.uk/poem/poems_king.htm">"The King"</a>, since Buchan's not going to explain the reference himself. (Thank God for modern search tools where we don't have to <i>memorize</i> poetry lines anymore.)</e>
 s=innkeeper;e:innkeeper=happy
 
 “Here’s a true tale for you then,” I cried, “and a month from now you can make a novel out of it.”
 s=hannay
 
 Sitting on the bridge in the soft May gloaming I pitched him a lovely yarn.
-s=;e:hannay=smirking
+s=;e:hannay=smirking;b=think
 
 It was true in essentials, too, though I altered the minor details.
 
@@ -1459,7 +1456,7 @@ It was true in essentials, too, though I altered the minor details.
 I made out that I was a mining magnate from Kimberley, who had had a lot of trouble with I.D.B. and had shown up a gang. They had pursued me across the ocean, and had killed my best friend, and were now on my tracks.<e>"Altered the minor details."</e>
 
 
-I told the story well, though I say it who shouldn’t.<e>TODO: parse</e>
+I told the story well, though I say it who shouldn’t.<e>This sentence does not parse for the modern eye.</e>
 
 
 I pictured a flight across the Kalahari to German Africa, the crackling, parching days, the wonderful blue-velvet nights.
@@ -1469,10 +1466,13 @@ I described an attack on my life on the voyage home, and I made a really horrid 
 
 
 “You’re looking for adventure,” I cried; “well, you’ve found it here. The devils are after me, and the police are after them. It’s a race that I mean to win.”
-s=hannay;e:hannay=excited
+s=hannay;e:hannay=excited;b=inn-ext
 
-“By God!” he whispered, drawing his breath in sharply, “it is all pure Rider Haggard and Conan Doyle.”<e>TODO: story set in the moors, so Hound of Baskervilles as reference, sure. But who the fuck is Rider Haggard and how does that get top billing over Wuthering Heights</e>
+“By God!” he whispered, drawing his breath in sharply, “it is all pure Rider Haggard and Conan Doyle.”<e>Okay, Conan Doyle sure, makes sense — <book>The Hound of the Baskervilles</book> ties in well with all the moor stuff. as reference, sure. But who the f&#9472; is "Rider Haggard" and how does he get top billing?</e>
 s=innkeeper;e:innkeeper=excited
+
+<e>Upon further research, that line may be a sort of ironic literary joke, since the fake story Hannay told was apparently a Rider Haggard plot archetype, and so the Innkeeper is calling him out on that without realizing it. But again, I've never heard of Haggard before so I can't fully vouch for that.</e>
+
 
 “You believe me,” I said gratefully.
 s=hannay;e:hannay=happy
@@ -1480,7 +1480,7 @@ s=hannay;e:hannay=happy
 “Of course I do,” and he held out his hand.
 s=innkeeper
 
-“I believe everything out of the common. The only thing to distrust is the normal.”<e>TODO</e>
+“I believe everything out of the common. The only thing to distrust is the normal.”<e>Ah the famous Holmes quote: "When you have eliminated the normal, everything else is true."</e>
 
 
 He was very young, but he was the man for my money.
@@ -1490,7 +1490,7 @@ s=
 s=hannay;e:hannay=neutral
 
 He caught my elbow in his eagerness and drew me towards the house.
-s=;e:innkeeper=excited
+s=;e:innkeeper=excited;b=think
 
 “You can lie as snug here as if you were in a moss-hole. I’ll see that nobody blabs, either. And you’ll give me some more material about your adventures?”
 s=innkeeper
@@ -1499,13 +1499,13 @@ As I entered the inn porch I heard from far off the beat of an engine.
 s=;e:hannay=wary
 
 There silhouetted against the dusky West was my friend, the monoplane.
-
+b=monoplane
 
 —
-
+b=card
 
 He gave me a room at the back of the house, with a fine outlook over the plateau, and he made me free of his own study, which was stacked with cheap editions of his favourite authors.
-e:hannay=happy
+e:hannay=happy;b=inn
 
 I never saw the grandmother, so I guessed she was bedridden.
 n:grandmother=Grandmother
@@ -1517,27 +1517,27 @@ I wanted some time to myself, so I invented a job for him.
 e:hannay=thinking
 
 He had a motor-bicycle, and I sent him off next morning for the daily paper, which usually arrived with the post in the late afternoon.
-
+b=think
 
 I told him to keep his eyes skinned, and make note of any strange figures he saw, keeping a special sharp lookout for motors and aeroplanes.
 
 
 Then I sat down in real earnest to Scudder’s notebook.
-
+b=inn
 
 He came back at midday with the *Scotsman*.
 e:hannay=neutral
 
 There was nothing in it, except some further evidence of Paddock and the milkman, and a repetition of yesterday’s statement that the murderer had gone North.
-
+b=think
 
 But there was a long article, reprinted from *The Times*, about Karolides and the state of affairs in the Balkans, though there was no mention of any visit to England.
 
 
 I got rid of the innkeeper for the afternoon, for I was getting very warm in my search for the cipher.
-e:hannay=thinking
+e:hannay=thinking;b=inn
 
-As I told you, it was a numerical cipher, and by an elaborate system of experiments I had pretty well discovered what were the nulls and stops.<e>TODO: expound?</e>
+As I told you, it was a numerical cipher, and by an elaborate system of experiments I had pretty well discovered what were the nulls and stops.<e>Please expound upon this "elaborate system of experiments".</e>
 
 
 The trouble was the key word, and when I thought of the odd million words he might have used I felt pretty hopeless.
@@ -1547,7 +1547,7 @@ But about three o’clock I had a sudden inspiration.
 e:hannay=excited
 
 The name Julia Czechenyi flashed across my memory.
-
+b=think
 
 Scudder had said it was the key to the Karolides business, and it occurred to me to try it on his cipher.
 
@@ -1555,17 +1555,14 @@ Scudder had said it was the key to the Karolides business, and it occurred to me
 It worked. The five letters of “Julia” gave me the position of the vowels.
 e:hannay=happy
 
-*A* was *J*, the tenth letter of the alphabet, and so represented by X in the cipher.
-
-
-*E* was XXI, and so on. “Czechenyi” gave me the numerals for the principal consonants.
+*A* was *J*, the tenth letter of the alphabet, and so represented by X in the cipher. *E* was XXI, and so on. “Czechenyi” gave me the numerals for the principal consonants.<e>Okay first of all, I'm annoyed that these "sets of figures" mentioned earlier were apparently just roman numerals this whole time. And second, and maybe I can't blame the character too harshly for not knowing about frequency analysis, but if the cipher was really just letter-to-letter (a substitution cipher), was remembering the name "Julia Czechenyi" really necessary?</e>
 
 
 I scribbled that scheme on a bit of paper and sat down to read Scudder’s pages.
 
 
 In half an hour I was reading with a whitish face and fingers that drummed on the table.
-e:hannay=wary
+e:hannay=wary;b=inn
 
 I glanced out of the window and saw a big touring-car coming up the glen towards the inn.
 
@@ -1577,19 +1574,19 @@ There seemed to be two of them, men in aquascutums and tweed caps.
 n:slim=Slim Man;n:fat=Fat Man
 
 Ten minutes later the innkeeper slipped into the room, his eyes bright with excitement.
-e:innkeeper=excited
+e:innkeeper=excited;c=innkeeper
 
 “There’s two chaps below looking for you,” he whispered. “They’re in the dining-room having whiskies-and-sodas.”
 s=innkeeper
 
 “They asked about you and said they had hoped to meet you here. Oh! and they described you jolly well, down to your boots and shirt.”
-
+e:innkeeper=happy
 
 “I told them you had been here last night and had gone off on a motor bicycle this morning, and one of the chaps swore like a navvy.”
-
+e:innkeeper=smirking
 
 I made him tell me what they looked like. One was a dark-eyed thin fellow with bushy eyebrows, the other was always smiling and lisped in his talk.
-s=;e:hannay=thinking
+s=;e:hannay=thinking;c=;b=think
 
 Neither was any kind of foreigner; on this my young friend was positive.
 
@@ -1604,46 +1601,49 @@ I manufactured it rather neatly, so that it looked like a loose page of a privat
 t=;e:hannay=smirking
 
 “Take this down and say it was found in my bedroom, and ask them to return it to me if they overtake me.”
-s=hannay
+s=hannay;b=inn;c=innkeeper
 
 Three minutes later I heard the car begin to move, and peeping from behind the curtain caught sight of the two figures.
-s=;e:hannay=wary
+s=;e:hannay=wary;c=
 
-One was slim, the other was sleek; that was the most I could make of my reconnaissance.<e>TODO</e>
+One was slim, the other was sleek; that was the most I could make of my reconnaissance.<e>Note that "sleek" didn't mean slim back in 1915 — it meant more like glossy or metaphorically slippery. So two lines from now when Buchan describes that same character as "the fat one", it's not meant to be a contradiction.</e>
 
 
-The innkeeper appeared in great excitement. “Your paper woke them up,” he said gleefully.
-s=innkeeper;e:innkeeper=happy
+The innkeeper appeared in great excitement.
+e:innkeeper=excited;c=innkeeper
+
+“Your paper woke them up,” he said gleefully.
+s=innkeeper;e:innkeeper=excited
 
 “The dark fellow went as white as death and cursed like blazes, and the fat one whistled and looked ugly. They paid for their drinks with half-a-sovereign and wouldn’t wait for change.”
-
+e:innkeeper=happy
 
 “Now I’ll tell you what I want you to do,” I said.
-s=hannay;e:hannay=neutral
+s=hannay;e:hannay=thinking;e:innkeeper=
 
 “Get on your bicycle and go off to Newton-Stewart to the Chief Constable. Describe the two men, and say you suspect them of having had something to do with the London murder.”
-
+e:hannay=
 
 “You can invent reasons. The two will come back, never fear. Not tonight, for they’ll follow me forty miles along the road, but first thing tomorrow morning. Tell the police to be here bright and early.”
-
+e:hannay=thinking
 
 He set off like a docile child, while I worked at Scudder’s notes.
-s=;e:innkeeper=neutral;e:hannay=thinking
+s=;e:innkeeper=neutral;e:hannay=thinking;c=
 
-When he came back we dined together, and in common decency I had to let him pump me.<e>TODO</e>
-
+When he came back we dined together, and in common decency I had to let him pump me.<e>Heh heh heh.</e>
+b=think
 
 I gave him a lot of stuff about lion hunts and the Matabele War, thinking all the while what tame businesses these were compared to this I was now engaged in!
 e:hannay=smirking
 
 When he went to bed I sat up and finished Scudder.
-e:hannay=thinking
+e:hannay=thinking;b=inn-room
 
 I smoked in a chair till daylight, for I could not sleep.
 e:hannay=weary
 
 About eight next morning I witnessed the arrival of two constables and a sergeant.
-e:hannay=wary
+e:hannay=wary;b=think
 
 They put their car in a coach-house under the innkeeper’s instructions, and entered the house.
 
@@ -1661,13 +1661,13 @@ A minute or two later I heard their steps on the gravel outside the window.
 
 
 My plan had been to lie hid in my bedroom, and see what happened.
-e:hannay=thinking
+b=inn-room;e:hannay=thinking
 
-I had a notion that, if I could bring the police and my other more dangerous pursuers together, something might work out of it to my advantage.<e>TODO: "something might work out of it"</e>
+I had a notion that, if I could bring the police and my other more dangerous pursuers together, something might work out of it to my advantage.<e>It's very funny to me how passive Hannay is in his own story — "something might work out of it" the man thinks.</e>
 
 
 But now I had a better idea. I scribbled a line of thanks to my host, opened the window, and dropped quietly into a gooseberry bush.
-e:hannay=excited
+e:hannay=excited;b=think
 
 Unobserved I crossed the dyke, crawled down the side of a tributary burn, and won the high road on the far side of the patch of trees.
 
@@ -1679,10 +1679,10 @@ I started her, jumped into the chauffeur’s seat, and stole gently out on to th
 
 
 Almost at once the road dipped so that I lost sight of the inn, but the wind seemed to bring me the sound of angry voices.
-
+b=zoom
 
 ## IV. The Adventure of the Radical Candidate
-
+b=card
 
 You may picture me driving that 40 hp car for all she was worth over the crisp moor roads on that shining May morning; glancing back at first over my shoulder, and looking anxiously to the next turning; then driving with a vague eye, just wide enough awake to keep on the highway.
 e:hannay=wary
