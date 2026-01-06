@@ -1016,7 +1016,7 @@ I reminded myself that a week ago I had been finding the world dull.
 e:hannay=smirking
 
 ## III. The Adventure of the Literary Innkeeper<e>A chapter title to really gear the reader up for adventure.</e>
-b=card
+r=card
 
 I had a solemn time travelling north that day.
 e:hannay=neutral;b=train
@@ -1031,7 +1031,7 @@ Also I got the morning’s papers, with news about starters for the Derby and th
 e:hannay=neutral
 
 When I had done with them I got out Scudder’s little black pocketbook and studied it.
-e:hannay=thinking;o=pocketboot
+e:hannay=thinking;o=pocketbook
 
 It was pretty well filled with jottings, chiefly figures, though now and then a name was printed in. For example, I found the words “Hofgaard,” “Luneville,” and “Avocado” pretty often, and especially the word “Pavia.”
 
@@ -1502,7 +1502,7 @@ There silhouetted against the dusky West was my friend, the monoplane.
 b=monoplane
 
 —
-b=card
+r=card
 
 He gave me a room at the back of the house, with a fine outlook over the plateau, and he made me free of his own study, which was stacked with cheap editions of his favourite authors.
 e:hannay=happy;b=inn
@@ -1682,10 +1682,10 @@ Almost at once the road dipped so that I lost sight of the inn, but the wind see
 b=zoom
 
 ## IV. The Adventure of the Radical Candidate
-b=card
+r=card
 
-You may picture me driving that 40 hp car for all she was worth over the crisp moor roads on that shining May morning; glancing back at first over my shoulder, and looking anxiously to the next turning; then driving with a vague eye, just wide enough awake to keep on the highway.
-e:hannay=wary
+You may picture me driving that 40 hp car for all she was worth over the crisp moor roads on that shining May morning; glancing back at first over my shoulder, and looking anxiously to the next turning; then driving with a vague eye, just wide enough awake to keep on the highway.<e>I may picture you? I will!</e>
+e:hannay=wary;b=car-wide
 
 For I was thinking desperately of what I had found in Scudder’s pocketbook.
 e:hannay=thinking
@@ -1693,7 +1693,7 @@ e:hannay=thinking
 The little man had told me a pack of lies.
 e:hannay=angry
 
-All his yarns about the Balkans and the Jew-Anarchists and the Foreign Office Conference were eyewash, and so was Karolides. And yet not quite, as you shall hear.<e>TODO: really hedging on the Jew question here</e>
+All his yarns about the Balkans and the Jew-Anarchists and the Foreign Office Conference were eyewash, and so was Karolides. And yet not quite, as you shall hear.<e>See, all the Jew-bashing was just a cover story. Now who's the real antisemite, reader?</e>
 
 
 I had staked everything on my belief in his story, and had been let down; here was his book telling me a different tale, and instead of being once-bitten-twice-shy, I believed it absolutely.
@@ -1702,7 +1702,7 @@ e:hannay=thinking
 Why, I don’t know. It rang desperately true, and the first yarn, if you understand me, had been in a queer way true also in spirit.
 
 
-The fifteenth day of June was going to be a day of destiny, a bigger destiny than the killing of a Dago.<e>TODO: jeopardy</e>
+The fifteenth day of June was going to be a day of destiny, a bigger destiny than the killing of a Dago.<e><a href="https://www.youtube.com/watch?v=bEghu90QJH4">Please refrain from using ethnic slurs.</a></e>
 
 
 It was so big that I didn’t blame Scudder for keeping me out of the game and wanting to play a lone hand.
@@ -1715,12 +1715,12 @@ I didn’t blame him. It was risks after all that he was chiefly greedy about.
 
 
 The whole story was in the notes—with gaps, you understand, which he would have filled up from his memory.
-
+o=pocketbook;b=think
 
 He stuck down his authorities, too, and had an odd trick of giving them all a numerical value and then striking a balance, which stood for the reliability of each stage in the yarn.
 
 
-The four names he had printed were authorities, and there was a man, Ducrosne, who got five out of a possible five; and another fellow, Ammersfoort, who got three.<e>TODO</e>
+The four names he had printed were authorities, and there was a man, Ducrosne, who got five out of a possible five; and another fellow, Ammersfoort, who got three.
 
 
 The bare bones of the tale were all that was in the book—these, and one queer phrase which occurred half a dozen times inside brackets.
@@ -1730,12 +1730,12 @@ The bare bones of the tale were all that was in the book—these, and one queer 
 
 
 I could make nothing of that.
-e:hannay=confused
+e:hannay=confused;o=;b=car-wide
 
 The first thing I learned was that it was no question of preventing a war.
 e:hannay=thinking
 
-That was coming, as sure as Christmas: had been arranged, said Scudder, ever since February 1912. Karolides was going to be the occasion.
+That was coming, as sure as Christmas: had been arranged, said Scudder, ever since February 1912. Karolides was going to be the occasion.<e>I believe the date is a reference to the <a href="https://en.wikipedia.org/wiki/Haldane_Mission">Haldane Mission</a>.</e>
 
 
 He was booked all right, and was to hand in his checks on June 14th, two weeks and four days from that May morning.
@@ -1750,7 +1750,7 @@ His talk of Epirote guards that would skin their own grandmothers was all billy-
 The second thing was that this war was going to come as a mighty surprise to Britain.
 e:hannay=wary
 
-Karolides’ death would set the Balkans by the ears, and then Vienna would chip in with an ultimatum. Russia wouldn’t like that, and there would be high words. But Berlin would play the peacemaker, and pour oil on the waters, till suddenly she would find a good cause for a quarrel, pick it up, and in five hours let fly at us.<e>TODO: almost as if</e>
+Karolides’ death would set the Balkans by the ears, and then Vienna would chip in with an ultimatum. Russia wouldn’t like that, and there would be high words. But Berlin would play the peacemaker, and pour oil on the waters, till suddenly she would find a good cause for a quarrel, pick it up, and in five hours let fly at us.<e>Wow, it's almost as if Buchan is writing with the benefit of hindsight. (But also, like, the way he describes it still being Vienna who gives the ultimatum doesn't make any sense in this alternate scenario where Karolides/Venizelos is killed instead of Franz Ferdinand.)</e>
 
 
 That was the idea, and a pretty good one too.
@@ -1760,7 +1760,7 @@ Honey and fair speeches, and then a stroke in the dark.
 
 
 While we were talking about the goodwill and good intentions of Germany our coast would be silently ringed with mines, and submarines would be waiting for every battleship.
-e:hannay=wary
+e:hannay=wary;b=mapB
 
 But all this depended upon the third thing, which was due to happen on June 15th.
 
@@ -1787,25 +1787,25 @@ And it was to be used, remember—used a week or two later, with great guns and 
 e:hannay=wary
 
 This was the story I had been deciphering in a back room of a country inn, overlooking a cabbage garden.
-e:hannay=thinking
+e:hannay=thinking;b=think
 
 This was the story that hummed in my brain as I swung in the big touring-car from glen to glen.
-
+b=car-wide
 
 My first impulse had been to write a letter to the Prime Minister, but a little reflection convinced me that that would be useless.
 
 
-Who would believe my tale? I must show a sign, some token in proof, and Heaven knew what that could be.
+Who would believe my tale? I must show a sign, some token in proof, and Heaven knew what that could be.<e>Okay but the whole reason you guys previously didn't want to warn the British government about the upcoming assassination is that it would play into Germany's hands, somehow. But if you know they're going to attack anyway, then why wouldn't you pen the letter? Either they don't believe you at first, Karolides is killed, and then they at least believe you afterwards about the secret German attack plans; or they do believe you at first, Karolides isn't killed, and then they're still prepared for the attack plans.</e>
 e:hannay=weary
 
-Above all, I must keep going myself, ready to act when things got riper, and that was going to be no light job with the police of the British Isles in full cry after me and the watchers of the Black Stone running silently and swiftly on my trail.
+Above all, I must keep going myself, ready to act when things got riper, and that was going to be no light job with the police of the British Isles in full cry after me and the watchers of the Black Stone running silently and swiftly on my trail.<e>Like I wouldn't go so far as to call this book pure propaganda, but it is pretty stupid in many ways.</e>
 e:hannay=wary
 
 I had no very clear purpose in my journey, but I steered east by the sun, for I remembered from the map that if I went north I would come into a region of coalpits and industrial towns.
 e:hannay=thinking
 
 Presently I was down from the moorlands and traversing the broad haugh of a river.
-e:hannay=neutral
+e:hannay=neutral;b=zoom
 
 For miles I ran alongside a park wall, and in a break of the trees I saw a great castle.
 
@@ -1817,7 +1817,7 @@ The land was so deep in peace that I could scarcely believe that somewhere behin
 e:hannay=thinking
 
 About midday I entered a long straggling village, and had a mind to stop and eat.
-e:hannay=neutral
+e:hannay=neutral;b=think
 
 Halfway down was the Post Office, and on the steps of it stood the postmistress and a policeman hard at work conning a telegram.
 n:policeman1=Policeman;e:policeman1=neutral;e:hannay=wary
@@ -1829,10 +1829,10 @@ I nearly was fool enough to obey. Then it flashed upon me that the wire had to d
 e:hannay=surprised
 
 I released the brakes just in time. As it was, the policeman made a claw at the hood, and only dropped off when he got my left in his eye.
-e:hannay=excited
+e:hannay=excited;b=zoom
 
 I saw that main roads were no place for me, and turned into the byways.
-e:hannay=wary
+e:hannay=wary;b=car-wide
 
 It wasn’t an easy job without a map, for there was the risk of getting on to a farm road and ending in a duck-pond or a stable-yard, and I couldn’t afford that kind of delay.
 e:hannay=thinking
@@ -1850,7 +1850,7 @@ The immediate thing to do was to get to the loneliest roads.
 e:hannay=thinking
 
 These I soon found when I struck up a tributary of the big river, and got into a glen with steep hills all about me, and a corkscrew road at the end which climbed over a pass.
-e:hannay=neutral
+e:hannay=neutral;b=think
 
 Here I met nobody, but it was taking me too far north, so I slewed east along a bad track and finally struck a big double-line railway.
 
@@ -1862,55 +1862,43 @@ The evening was now drawing in, and I was furiously hungry, for I had eaten noth
 e:hannay=weary
 
 Just then I heard a noise in the sky, and lo and behold there was that infernal aeroplane, flying low, about a dozen miles to the south and rapidly coming towards me.
-e:hannay=fearful
+e:hannay=fearful;b=monoplane
 
 I had the sense to remember that on a bare moor I was at the aeroplane’s mercy, and that my only chance was to get to the leafy cover of the valley.
 e:hannay=thinking
 
 Down the hill I went like blue lightning, screwing my head round, whenever I dared, to watch that damned flying machine.
-e:hannay=excited
+e:hannay=excited;b=zoom
 
 Soon I was on a road between hedges, and dipping to the deep-cut glen of a stream.
 
 
 Then came a bit of thick wood where I slackened speed.
-
+b=think
 
 Suddenly on my left I heard the hoot of another car, and realized to my horror that I was almost up on a couple of gateposts through which a private road debouched on the highway.
 e:hannay=surprised
 
-My horn gave an agonized roar, but it was too late.
-
-
-I clapped on my brakes, but my impetus was too great, and there before me a car was sliding athwart my course.
-
-
-In a second there would have been the deuce of a wreck.
-
+My horn gave an agonized roar, but it was too late. I clapped on my brakes, but my impetus was too great, and there before me a car was sliding athwart my course. In a second there would have been the deuce of a wreck.
+b=zoom
 
 I did the only thing possible, and ran slap into the hedge on the right, trusting to find something soft beyond.
 
 
-But there I was mistaken. My car slithered through the hedge like butter, and then gave a sickening plunge forward.
-
-
-I saw what was coming, leapt on the seat and would have jumped out.
-
-
-But a branch of hawthorn got me in the chest, lifted me up and held me, while a ton or two of expensive metal slipped below me, bucked and pitched, and then dropped with an almighty smash fifty feet to the bed of the stream.
-e:hannay=unhappy
+But there I was mistaken. My car slithered through the hedge like butter, and then gave a sickening plunge forward. I saw what was coming, leapt on the seat and would have jumped out. But a branch of hawthorn got me in the chest, lifted me up and held me, while a ton or two of expensive metal slipped below me, bucked and pitched, and then dropped with an almighty smash fifty feet to the bed of the stream.
+e:hannay=unhappy;b=action
 
 —
-
+r=card
 
 Slowly that thorn let me go. I subsided first on the hedge, and then very gently on a bower of nettles.
-e:hannay=weary
+e:hannay=weary;b=crash;a:hannay=tatters
 
 As I scrambled to my feet a hand took me by the arm, and a sympathetic and badly scared voice asked me if I were hurt.
 e:hannay=surprised
 
 I found myself looking at a tall young man in goggles and a leather ulster, who kept on blessing his soul and whinnying apologies.
-n:harry=?;e:harry=wary
+n:harry=?;e:harry=surprised;c=,harry
 
 For myself, once I got my wind back, I was rather glad than otherwise.
 e:hannay=smirking
@@ -1919,16 +1907,19 @@ This was one way of getting rid of the car.
 
 
 “My blame, sir,” I answered him.
-s=hannay
+s=hannay;e:hannay=weary;c=hannay,harry
 
 “It’s lucky that I did not add homicide to my follies. That’s the end of my Scotch motor tour, but it might have been the end of my life.”
+e:hannay=unhappy
 
+He plucked out a watch and studied it.
+s=;e:harry=confused
 
-He plucked out a watch and studied it. “You’re the right sort of fellow,” he said.
-s=harry;e:harry=happy
+“You’re the right sort of fellow,” he said.
+s=harry;e:harry=
 
 “I can spare a quarter of an hour, and my house is two minutes off. I’ll see you clothed and fed and snug in bed. Where’s your kit, by the way? Is it in the burn along with the car?”
-
+e:harry=happy
 
 “It’s in my pocket,” I said, brandishing a toothbrush. “I’m a Colonial and travel light.”
 s=hannay;e:hannay=smirking
@@ -1939,23 +1930,23 @@ s=harry;e:harry=excited
 “By Gad, you’re the very man I’ve been praying for. Are you by any blessed chance a Free Trader?”
 
 
-“I am,” said I, without the foggiest notion of what he meant.<e>TODO: actual good joke</e>
-s=hannay;e:hannay=confused
+“I am,” said I, without the foggiest notion of what he meant.<e>Actual good joke.</e>
+s=hannay;e:hannay=
 
 He patted my shoulder and hurried me into his car.
 s=;e:harry=happy
 
 Three minutes later we drew up before a comfortable-looking shooting box set among pine-trees, and he ushered me indoors.
-
+b=think
 
 He took me first to a bedroom and flung half a dozen of his suits before me, for my own had been pretty well reduced to rags.
 
 
 I selected a loose blue serge, which differed most conspicuously from my former garments, and borrowed a linen collar.
-e:hannay=happy
+e:hannay=happy;a:hannay=c3
 
 Then he haled me to the dining-room, where the remnants of a meal stood on the table, and announced that I had just five minutes to feed.
-
+b=dining-room
 
 “You can take a snack in your pocket, and we’ll have supper when we get back. I’ve got to be at the Masonic Hall at eight o’clock, or my agent will comb my hair.”
 s=harry;e:harry=wary
@@ -1964,10 +1955,10 @@ I had a cup of coffee and some cold ham, while he yarned away on the hearthrug.
 s=;e:hannay=neutral
 
 “You find me in the deuce of a mess, Mr.—by the by, you haven’t told me your name. Twisdon? Any relation of old Tommy Twisdon of the Sixtieth? No?”
-s=harry
+s=harry;e:hannay=wary
 
 “Well, you see I’m Liberal Candidate for this part of the world, and I had a meeting on tonight at Brattleburn—that’s my chief town, and an infernal Tory stronghold.”
-
+e:hannay=
 
 “I had got the Colonial ex-Premier fellow, Crumpleton, coming to speak for me tonight, and had the thing tremendously billed and the whole place ground-baited.”
 
@@ -1997,7 +1988,7 @@ At my words the cares of the ages slipped from his shoulders, and he was rapturo
 s=;e:harry=happy
 
 He lent me a big driving coat—and never troubled to ask why I had started on a motor tour without possessing an ulster—and, as we slipped down the dusty roads, poured into my ears the simple facts of his history.
-
+b=think
 
 He was an orphan, and his uncle had brought him up—I’ve forgotten the uncle’s name, but he was in the Cabinet, and you can read his speeches in the papers.
 
@@ -2008,7 +1999,7 @@ He had gone round the world after leaving Cambridge, and then, being short of a 
 I gathered that he had no preference in parties.
 
 
-“Good chaps in both,” he said cheerfully, “and plenty of blighters, too.”<e>TODO: lesson for partisans</e>
+“Good chaps in both,” he said cheerfully, “and plenty of blighters, too.”<e>A lesson for all you hopeless partisans out there. Don't forget what really matters in life (killing Krauts).</e>
 s=harry
 
 “I’m Liberal, because my family have always been Whigs.”
@@ -2045,7 +2036,7 @@ The next thing I knew we had drawn up outside a door in a street, and were being
 e:hannay=neutral
 
 The hall had about five hundred in it, women mostly, a lot of bald heads, and a dozen or two young men.
-n:minister=The Minister;e:minister=neutral
+n:minister=The Minister;e:minister=neutral;b=hall
 
 The chairman, a weaselly minister with a reddish nose, lamented Crumpleton’s absence, soliloquized on his influenza, and gave me a certificate as a “trusted leader of Australian thought.”
 
@@ -2059,14 +2050,14 @@ e:hannay=surprised
 He had about a bushel of notes from which he read, and when he let go of them he fell into one prolonged stutter.
 e:harry=confused
 
-Every now and then he remembered a phrase he had learned by heart, straightened his back, and gave it off like Henry Irving, and the next moment he was bent double and crooning over his papers.
+Every now and then he remembered a phrase he had learned by heart, straightened his back, and gave it off like Henry Irving, and the next moment he was bent double and crooning over his papers.<e>Referencing a famous theater actor of the day. (I had to look it up.)</e>
 
 
 It was the most appalling rot, too.
 
 
 He talked about the “German menace,” and said it was all a Tory invention to cheat the poor of their rights and keep back the great flood of social reform, but that “organized labour” realized this and laughed the Tories to scorn.
-
+b=mapE
 
 He was all for reducing our navy as a proof of our good faith, and then sending Germany an ultimatum telling her to do the same or we would knock her into a cocked hat.
 e:harry=angry
@@ -2075,12 +2066,12 @@ He said that, but for the Tories, Germany and Britain would be fellow-workers in
 
 
 I thought of the little black book in my pocket! A giddy lot Scudder’s friends cared for peace and reform.
-e:hannay=smirking
+e:hannay=smirking;o=pocketbook
 
-Yet in a queer way I liked the speech. You could see the niceness of the chap shining out behind the muck with which he had been spoon-fed.
-e:hannay=happy
+Yet in a queer way I liked the speech. You could see the niceness of the chap shining out behind the muck with which he had been spoon-fed.<e>We wouldn't want our readers to be spoon-fed any information, would we, Buchan?</e>
+e:hannay=happy;o=;b=hall
 
-Also it took a load off my mind. I mightn’t be much of an orator, but I was a thousand percent better than Sir Harry.<e>TODO: no doubt with your command of such phrases as "1000% better". Can we actually *hear* the speech</e>
+Also it took a load off my mind. I mightn’t be much of an orator, but I was a thousand percent better than Sir Harry.
 
 
 I didn’t get on so badly when it came to my turn.
@@ -2102,13 +2093,13 @@ The minister didn’t like me, though, and when he proposed a vote of thanks, sp
 e:minister=scowling;e:hannay=smirking
 
 When we were in the car again my host was in wild spirits at having got his job over.
-e:harry=excited
+e:harry=excited;b=light
 
 “A ripping speech, Twisdon,” he said. “Now, you’re coming home with me. I’m all alone, and if you’ll stop a day or two I’ll show you some very decent fishing.”
 s=harry
 
 We had a hot supper—and I wanted it pretty badly—and then drank grog in a big cheery smoking-room with a crackling wood fire.
-s=;e:hannay=happy
+s=;e:hannay=happy;b=smoking-room-2
 
 I thought the time had come for me to put my cards on the table.
 e:hannay=thinking
@@ -2153,16 +2144,19 @@ e:harry=excited
 s=hannay;e:hannay=neutral
 
 “Your duty is to send your car for the police and give me up. I don’t think I’ll get very far.”
-
+e:hannay=smirking
 
 “There’ll be an accident, and I’ll have a knife in my ribs an hour or so after arrest. Nevertheless, it’s your duty, as a law-abiding citizen. Perhaps in a month’s time you’ll be sorry, but you have no cause to think of that.”
+e:hannay=
 
+He was looking at me with bright steady eyes.
+s=
 
-He was looking at me with bright steady eyes. “What was your job in Rhodesia, Mr. Hannay?” he asked.
+“What was your job in Rhodesia, Mr. Hannay?” he asked.
 s=harry;e:harry=thinking
 
 “Mining engineer,” I said. “I’ve made my pile cleanly and I’ve had a good time in the making of it.”
-s=hannay;e:hannay=happy
+s=hannay;e:hannay=smirking
 
 “Not a profession that weakens the nerves, is it?”
 s=harry;e:harry=smirking
@@ -2170,7 +2164,7 @@ s=harry;e:harry=smirking
 I laughed. “Oh, as to that, my nerves are good enough.”
 s=hannay
 
-I took down a hunting-knife from a stand on the wall, and did the old Mashona trick of tossing it and catching it in my lips.<e>TODO: don't forget now reader</e>
+I took down a hunting-knife from a stand on the wall, and did the old Mashona trick of tossing it and catching it in my lips.<e>Another reminder he's from Rhodesia, reader. (And yet he doesn't wear shorts, so I still don't buy it.)</e>
 s=
 
 That wants a pretty steady heart.
@@ -2192,7 +2186,7 @@ s=harry;e:harry=thinking
 e:harry=happy
 
 He sat down at a table and wrote to my dictation.
-s=
+s=;b=think
 
 The gist of it was that if a man called Twisdon (I thought I had better stick to that name) turned up before June 15th he was to treat him kindly.
 
@@ -2201,22 +2195,22 @@ He said Twisdon would prove his bona fides by passing the word “Black Stone”
 
 
 “Good,” said Sir Harry. “That’s the proper style. By the way, you’ll find my godfather—his name’s Sir Walter Bullivant—down at his country cottage for Whitsuntide. It’s close to Artinswell on the Kenner. That’s done. Now, what’s the next thing?”
-s=harry
+s=harry;b=smoking-room-2
 
 “You’re about my height. Lend me the oldest tweed suit you’ve got. Anything will do, so long as the colour is the opposite of the clothes I destroyed this afternoon.”
 s=hannay
 
 “Then show me a map of the neighbourhood and explain to me the lie of the land. Lastly, if the police come seeking me, just show them the car in the glen. If the other lot turn up, tell them I caught the south express after your meeting.”
-
+e:hannay=
 
 He did, or promised to do, all these things. I shaved off the remnants of my moustache, and got inside an ancient suit of what I believe is called heather mixture.
-s=
+s=;b=think;a:hannay=c4
 
 The map gave me some notion of my whereabouts, and told me the two things I wanted to know—where the main railway to the south could be joined and what were the wildest districts near at hand.
 e:hannay=thinking
 
 At two o’clock he wakened me from my slumbers in the smoking-room armchair, and led me blinking into the dark starry night.
-e:hannay=weary
+e:hannay=weary;b=light
 
 An old bicycle was found in a tool-shed and handed over to me.
 
@@ -2228,16 +2222,16 @@ s=harry;e:harry=neutral
 
 
 I pedalled diligently up steep roads of hill gravel till the skies grew pale with morning.
-s=;e:hannay=weary
+s=;e:hannay=weary;b=zoom
 
 As the mists cleared before the sun, I found myself in a wide green world with glens falling on every side and a faraway blue horizon.
-e:hannay=happy
+e:hannay=happy;b=light
 
 Here, at any rate, I could get early news of my enemies.
 e:hannay=thinking
 
 ## V. The Adventure of the Spectacled Roadman
-
+r=card
 
 I sat down on the very crest of the pass and took stock of my position.<e>TODO: sensing a pattern</e>
 e:hannay=thinking
