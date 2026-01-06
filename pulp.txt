@@ -3,6 +3,7 @@ n:author=;b=title;t=author
 
 <e>Some important context before we begin: this book was published serially in 1915, so while World War I is raging. No introductory context was given for the original publication (<a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">The June 5th  Issue of All-Story Weekly</a>), so as a reader, you're dropped in without it being clear what exactly the date is meant to be. You're just meant to intuit, as would be obvious to someone reading in 1915, that it clearly takes places sometime before the outbreak of the war, but not too far before (since all the descriptions are "modern").</e>
 
+
 ## I. The Man Who Died
 t=;b=card
 
