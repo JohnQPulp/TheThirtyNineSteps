@@ -260,7 +260,7 @@ e:scudder=angry
 e:scudder=thinking
 
 I could not help saying that his Jew-anarchists seemed to have got left behind a little.
-s=hannay;e:hannay=thinking
+e:hannay=thinking;s=
 
 “Yes and no,” he said. “They won up to a point, but they struck a bigger thing than money, a thing that couldn’t be bought, the old elemental fighting instincts of man.”
 s=scudder;e:scudder=neutral
@@ -281,7 +281,7 @@ s=hannay;e:hannay=confused
 s=scudder;e:scudder=smirking
 
 (I recognized the quotation: it was about all the Latin I knew.)<e>It means "death is the gateway to life" — thanks for not including the translation yourself, Buchan. Dick.</e>
-
+s=
 
 “I’m coming to that, but I’ve got to put you wise about a lot of things first. If you read your newspaper, I guess you know the name of Constantine Karolides?”<e>How remarkably convenient that Hannay was just thinking about him earlier.</e>
 s=scudder;e:scudder=neutral
@@ -425,10 +425,10 @@ If he had wanted to get a location in my flat, and then cut my throat, he would 
 s=hannay;e:hannay=wary
 
 He shook his head mournfully.
-s=scudder;e:scudder=weary
+s=;e:scudder=weary
 
 “I reckoned you’d ask for that, but I haven’t got it.”
-
+s=scudder
 
 “It’s on my chain on the dressing-table. I had to leave it behind, for I couldn’t leave any clues to breed suspicions.”
 
@@ -944,7 +944,7 @@ I stuck on his flat blue hat and his white overall, picked up the cans, banged m
 s=;c=;a:hannay=c2;b=think
 
 The porter at the foot told me to shut my jaw, which sounded as if my makeup was adequate.
-n:porter=Porter;s=porter;e:porter=angry;b=flat-lobby
+n:porter=Porter;s=;e:porter=angry;b=flat-lobby
 
 At first I thought there was nobody in the street.
 s=;e:hannay=neutral;b=flat-ext
@@ -998,7 +998,7 @@ He wrote out for me a ticket to Newton-Stewart, a name which had suddenly come b
 n:woman=Fat Woman;n:sailor=Sailor;e:guard=scowling
 
 He went off grumbling, and as I mopped my brow I observed to my companions in my broadest Scots that it was a sore job catching trains.
-s=hannay;e:hannay=weary;b=train
+s=;e:hannay=weary;b=train
 
 I had already entered upon my part.
 s=
@@ -1247,7 +1247,7 @@ Clearly he was very drunk.
 s=drunkard;e:drunkard=unhappy
 
 I expressed my surprise that in him I should have met a blue-ribbon stalwart.
-s=hannay;e:hannay=smirking
+s=;e:hannay=smirking
 
 “Ay, but I’m a strong teetotaller,” he said pugnaciously. “I took the pledge last Martinmas, and I havena touched a drop o’ whisky sinsyne. Not even at Hogmanay, though I was sair temptit.”
 s=drunkard;e:drunkard=angry
@@ -1472,7 +1472,7 @@ s=hannay;e:hannay=excited;b=inn-ext
 s=innkeeper;e:innkeeper=excited
 
 <e>Upon further research, that line may be a sort of ironic literary joke, since the fake story Hannay told was apparently a Rider Haggard plot archetype, and so the Innkeeper is calling him out on that without realizing it. But again, I've never heard of Haggard before so I can't fully vouch for that.</e>
-
+s=
 
 “You believe me,” I said gratefully.
 s=hannay;e:hannay=happy
@@ -2384,13 +2384,13 @@ s=
 s=turnbull;e:turnbull=unhappy
 
 I asked him what was the trouble, though indeed that was clear enough.
-s=hannay;e:hannay=neutral
+e:hannay=neutral;s=
 
 “The trouble is that I’m no sober. Last nicht my dochter Merran was waddit, and they danced till fower in the byre. Me and some ither chiels sat down to the drinkin’, and here I am. Peety that I ever lookit on the wine when it was red!”
 s=turnbull
 
 I agreed with him about bed.
-s=hannay
+s=
 
 “It’s easy speakin’,” he moaned.
 s=turnbull;e:turnbull=weary
@@ -2585,7 +2585,7 @@ s=;e:hannay=neutral
 s=hannay
 
 He picked it up, glanced at the superscription, and laid it down again.
-s=g3;c=
+s=;c=
 
 One of the others had been looking at my boots, and a word in German called the speaker’s attention to them.
 s=;e:slim=thinking
@@ -2597,16 +2597,16 @@ s=fat;c=fat;e:fat=serious
 s=hannay;e:hannay=thinking
 
 And I scratched a forgetful head. Again the sleek one spoke in German.
-e:fat=
+e:fat=;s=
 
 “Let us get on,” he said.
-s=;e:fat=neutral
+s=fat;e:fat=neutral
 
 “This fellow is all right.”
 s=fat
 
 They asked one last question.
-c=
+c=;s=
 
 “Did you see anyone pass early this morning? He might be on a bicycle or he might be on foot.”
 s=g3;e:g3=serious;c=slim,g3,fat
@@ -2729,7 +2729,7 @@ e:hannay=thinking;b=light
 s=hannay;e:hannay=smirking
 
 I enjoyed that evening’s ride. We ran eight miles down the valley, through a village or two, and I could not help noticing several strange-looking folk lounging by the roadside.
-e:hannay=happy;b=zoom
+e:hannay=happy;b=zoom;s=
 
 These were the watchers who would have had much to say to me if I had come in other garb or company.
 e:hannay=wary
@@ -2981,7 +2981,7 @@ I simply stared at him and stuttered.
 s=g3
 
 I nodded towards the window. It gave a prospect across the moor through a gap in the plantation, and revealed certain figures half a mile off straggling through the heather.
-s=hannay
+s=
 
 “Ah, I see,” he said, and took up a pair of field-glasses through which he patiently scrutinized the figures.
 s=g3;e:g3=thinking
@@ -3035,7 +3035,7 @@ s=hannay;e:hannay=wary
 s=g3;e:g3=smirking
 
 As he spoke his eyelids seemed to tremble and to fall a little over his keen grey eyes.
-
+s=
 
 In a flash the phrase of Scudder’s came back to me, when he had described the man he most dreaded in the world.
 e:hannay=fearful
@@ -3086,7 +3086,7 @@ s=
 s=g3;e:g3=neutral
 
 He spoke with assurance, but I could see the dawning of a doubt in his mind.
-e:g3=thinking
+e:g3=thinking;s=
 
 “Oh, for God’s sake stop jawing,” I cried. “Everything’s against me. I haven’t had a bit of luck since I came on shore at Leith. What’s the harm in a poor devil with an empty stomach picking up some money he finds in a bust-up motorcar?”
 s=hannay;e:hannay=unhappy
@@ -3113,10 +3113,10 @@ A bit of cold pie was brought and a glass of beer, and I wolfed them down like a
 e:hannay=happy
 
 In the middle of my meal he spoke suddenly to me in German, but I turned on him a face as blank as a stone wall.
-s=g3;e:hannay=neutral
+s=;e:hannay=neutral
 
 Then I told him my story—how I had come off an Archangel ship at Leith a week ago, and was making my way overland to my brother at Wigtown.
-s=hannay;b=think
+s=;b=think
 
 I had run short of cash—I hinted vaguely at a spree—and I was pretty well on my uppers when I had come on a hole in a hedge, and, looking through, had seen a big motorcar lying in the burn.
 
@@ -3668,7 +3668,7 @@ She was a decent old body, and a plucky one, for though she got a fright when sh
 n:wife2=Old Woman;e:wife2=wary;e:hannay=neutral
 
 I told her that I had had a fall—I didn’t say how—and she saw by my looks that I was pretty sick.
-s=hannay
+s=
 
 Like a true Samaritan she asked no questions, but gave me a bowl of milk with a dash of whisky in it, and let me sit for a little by her kitchen fire.
 s=;e:wife2=neutral
@@ -3731,7 +3731,7 @@ e:turnbull=surprised
 s=turnbull
 
 I fetched them out of my trouser pocket and gave him them.
-s=hannay;e:turnbull=
+s=;e:turnbull=
 
 “Ye’ll hae come for your jaicket and westcoat,” he said.
 s=turnbull
@@ -3785,7 +3785,7 @@ He never even sought my name.<e>Ten days.</e>
 s=
 
 I asked him if anybody had been around making inquiries subsequent to my spell at the road-making.
-s=hannay;e:hannay=wary
+s=;e:hannay=wary
 
 “Ay, there was a man in a motor-cawr. He speired whae had ta’en my place that day, and I let on I thocht him daft.”
 s=turnbull;e:turnbull=smirking
@@ -3818,7 +3818,7 @@ Hislop was a cheery soul, who chattered all the way over the pass and down the s
 e:hislop=happy
 
 I talked of Galloway markets and sheep prices, and he made up his mind I was a “pack-shepherd” from those parts—whatever that may be.
-s=hannay;e:hannay=smirking
+s=;e:hannay=smirking
 
 My plaid and my old hat, as I have said, gave me a fine theatrical Scots look.
 
@@ -3920,7 +3920,7 @@ e:bullivant=smirking
 s=hannay;e:hannay=wary
 
 I had forgotten all about my alias.
-
+s=
 
 “It’s a wise conspirator that knows his own name,” he observed, grinning broadly at a moorhen that emerged from the bridge’s shadow.
 s=bullivant;e:bullivant=happy
@@ -4028,7 +4028,7 @@ It made me almost hysterical to be sitting there, waited on by a footman and a s
 
 
 I told Sir Walter about tiger-fish in the Zambesi that bite off your fingers if you give them a chance, and we discussed sport up and down the globe, for he had hunted a bit in his day.
-s=hannay
+s=
 
 We went to his study for coffee, a jolly room full of books and trophies and untidiness and comfort.
 s=
@@ -4046,7 +4046,7 @@ I noticed with a start that he called me by my proper name.
 s=;e:hannay=surprised
 
 I began at the very beginning. I told of my boredom in London, and the night I had come back to find Scudder gibbering on my doorstep.<e>You told him about the boredom part? I don't think he needed the very very beginning.</e>
-s=hannay;e:hannay=excited;b=flat;f:b:flat=blur(5px)
+s=;e:hannay=excited;b=flat;f:b:flat=blur(5px)
 
 I told him all Scudder had told me about Karolides and the Foreign Office conference, and that made him purse his lips and grin.
 e:bullivant=smirking
@@ -4313,7 +4313,7 @@ b=yard
 s=bullivant;e:bullivant=smirking;c=hannay,bullivant,,
 
 The reply was a wry smile.
-n:macgillivray=?;e:macgillivray=smirking;c=hannay,bullivant,,macgillivray;e:hannay=wary
+n:macgillivray=?;e:macgillivray=smirking;c=hannay,bullivant,,macgillivray;e:hannay=wary;s=
 
 “It would have been a welcome present, Bullivant.”
 s=macgillivray
@@ -4673,7 +4673,7 @@ r=card
 n:whittaker=Whittaker;s=whittaker;e:whittaker=angry;b=back-room
 
 Sir Walter got up and left the room while we looked blankly at the table.
-e:hannay=neutral
+e:hannay=neutral;s=
 
 He came back in ten minutes with a long face.<e>TODO: Insert ten minute timer.</e>
 
@@ -4715,7 +4715,7 @@ e:royer=;b=think
 e:royer=thinking
 
 He paused and looked round.
-e:royer=serious
+e:royer=serious;s=
 
 “It was the smell that gave me warning. I turned my head and found myself looking at a lion three feet off… An old man-eater, that was the terror of the village… What was left of the mare, a mass of blood and bones and hide, was behind him.”
 s=royer
@@ -4949,7 +4949,7 @@ e:hannay=neutral
 s=winstanley
 
 He thought for a bit.
-
+s=
 
 “What kind of steps do you mean, Sir?”
 s=coastguard;e:coastguard=thinking
@@ -5549,13 +5549,13 @@ I had to keep a firm hold of Peter Pienaar to prevent myself bolting out of that
 s=g3;e:g3=neutral
 
 I couldn’t find a word.
-s=hannay;e:hannay=confused
+s=;e:hannay=confused
 
 “I hope you’ll find it consistent with your duty to drop this ridiculous business. I make no complaint, but you’ll see how annoying it must be to respectable people.”
 s=g3;e:g3=serious
 
 I shook my head.
-s=hannay
+s=
 
 “O Lord,” said the young man. “This is a bit too thick!”
 s=slim;e:slim=weary
@@ -5684,7 +5684,7 @@ s=g3;e:g3=neutral
 
 
 The voice rang now as false as hell.<e>Oddly badass line from an otherwise excessively British character.</e>
-
+s=
 
 I looked at the clock, and it was nearly half-past ten.
 s=;e:hannay=thinking
