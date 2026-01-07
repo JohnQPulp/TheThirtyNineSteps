@@ -5788,7 +5788,7 @@ e:hannay=happy;b=mapE
 <e>First off, it's hilarious that the book just throws up its hands and <i>ends</i> considering how much dead time this final chapter had. No real conclusion for you, reader!</e>
 
 
-<e>And then the implications of "three weeks later, as all the world knows, we went to war" are utterly bizarre. Three weeks from June 15th, 1914 is after Franz Ferdinand's assassination date — so the strong implication is that that <b>does not</b> happen here. But the date also correspond to when Britain (or any nation really) actually declared war, so I guess in this timeline, the war started several months earlier?</e>
+<e>And then the implications of "three weeks later, as all the world knows, we went to war" are utterly bizarre. Three weeks from June 15th, 1914 is after Franz Ferdinand's assassination date — so the strong implication is that that <b>does not</b> happen here. But the date also correspond to when Britain (or any nation really) actually declared war, so I guess in this timeline, the war started several weeks earlier?</e>
 
 
 <e>So it's just impossible to imagine the war starts up in the same way, even though the book seems to imply no functional difference. Because even if somehow the war starts basically the same with the same major players, you still have a Greece now run by Constantine I, who will be much more likely to side with the Central Powers, or at least stay neutral, which means you don't see a Macedonian front or probably a Gallipoli either.</e>
