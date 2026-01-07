@@ -2275,7 +2275,7 @@ It was flying high, but as I looked it dropped several hundred feet and began to
 Now it was flying very low, and now the observer on board caught sight of me.
 e:hannay=fearful;b=zoom
 
-I could see one of the two occupants examining me through glasses.
+I could see one of the two occupants examining me through glasses.<e>"Glasses" meaning field glasses meaning binoculars.</e>
 
 
 Suddenly it began to rise in swift whorls, and the next I knew it was speeding eastward again till it became a speck in the blue morning.
@@ -2759,7 +2759,7 @@ Contrary to general belief, I was not a murderer, but I had become an unholy lia
 e:hannay=smirking
 
 ## VI. The Adventure of the Bald Archaeologist
-r=card
+r=card;a:hannay=c5
 
 I spent the night on a shelf of the hillside, in the lee of a boulder where the heather grew long and soft.
 e:hannay=weary;b=moor-dark
@@ -3683,7 +3683,7 @@ At this I protested so strongly that I think she believed me honest, for she too
 e:wife2=neutral
 
 She showed me how to wrap the plaid around my shoulders, and when I left that cottage I was the living image of the kind of Scotsman you see in the illustrations to Burns’s poems.
-s=;e:hannay=smirking;a:hannay=c6
+s=;e:hannay=smirking;a:hannay=cE
 
 But at any rate I was more or less clad.
 e:hannay=neutral;c=hannay
@@ -3851,7 +3851,7 @@ At any rate, I felt now that I was getting to grips with my job.
 
 
 I was decanted at Crewe in the small hours and had to wait till six to get a train for Birmingham.
-e:hannay=weary;b=light
+e:hannay=weary;b=light;a:hannay=cE2
 
 In the afternoon I got to Reading, and changed into a local train which journeyed into the deeps of Berkshire.
 
@@ -3995,7 +3995,7 @@ I shaved and bathed luxuriously, and got into the dress clothes and clean crackl
 b=light
 
 By the time I had finished the looking-glass showed a not unpersonable young man.
-e:hannay=smirking;b=cottage2-bedroom;c=hannay
+e:hannay=smirking;b=cottage2-bedroom;c=hannay;a:hannay=cF
 
 Sir Walter awaited me in a dusky dining-room where a little round table was lit with silver candles.
 n:bullivant=Sir Walter;e:bullivant=neutral;b=cottage2-dining;c=
@@ -4358,7 +4358,7 @@ s=bullivant;e:bullivant=happy
 e:bullivant=wary
 
 I felt curiously at a loose end. At first it was very pleasant to be a free man, able to go where I wanted without fearing anything.
-s=;e:hannay=happy;b=london
+s=;e:hannay=happy;b=london;a:hannay=cF
 
 I had only been a month under the ban of the law, and it was quite enough for me.
 
