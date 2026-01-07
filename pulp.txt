@@ -2762,7 +2762,7 @@ e:hannay=smirking
 r=card
 
 I spent the night on a shelf of the hillside, in the lee of a boulder where the heather grew long and soft.
-e:hannay=weary
+e:hannay=weary;b=moor-dark
 
 It was a cold business, for I had neither coat nor waistcoat.
 
@@ -2785,14 +2785,14 @@ e:hannay=happy
 Somehow the first success gave me a feeling that I was going to pull the thing through.
 
 
-My chief trouble was that I was desperately hungry. When a Jew shoots himself in the city and there is an inquest, the newspapers usually report that the deceased was “well-nourished.”
+My chief trouble was that I was desperately hungry. When a Jew shoots himself in the city and there is an inquest, the newspapers usually report that the deceased was “well-nourished.”<e>What.</e>
 e:hannay=thinking
 
 I remember thinking that they would not call me well-nourished if I broke my neck in a bog-hole.
 
 
 I lay and tortured myself—for the ginger biscuits merely emphasized the aching void—with the memory of all the good food I had thought so little of in London.
-e:hannay=unhappy
+e:hannay=unhappy;b=dream
 
 There were Paddock’s crisp sausages and fragrant shavings of bacon, and shapely poached eggs—how often I had turned up my nose at them!
 e:hannay=thinking
@@ -2804,10 +2804,10 @@ My thoughts hovered over all varieties of mortal edible, and finally settled on 
 
 
 In longing hopelessly for these dainties I fell asleep.
-e:hannay=weary
+e:hannay=weary;b=think
 
 I woke very cold and stiff about an hour after dawn.
-
+b=moor-dark-light
 
 It took me a little while to remember where I was, for I had been very weary and had slept heavily.
 
@@ -2819,34 +2819,31 @@ I raised myself on my arms and looked down into the valley, and that one look se
 e:hannay=fearful
 
 For there were men below, not more than a quarter of a mile off, spaced out on the hillside like a fan, and beating the heather.
-
+b=moor-men
 
 Marmie had not been slow in looking for his revenge.
 
 
 I crawled out of my shelf into the cover of a boulder, and from it gained a shallow trench which slanted up the mountain face.
-e:hannay=wary
+e:hannay=wary;b=moor-dark-light
 
 This led me presently into the narrow gully of a burn, by way of which I scrambled to the top of the ridge.
-
+b=light
 
 From there I looked back, and saw that I was still undiscovered.
 
 
 My pursuers were patiently quartering the hillside and moving upwards.
-
+b=moor-men
 
 Keeping behind the skyline I ran for maybe half a mile, till I judged I was above the uppermost end of the glen.
-e:hannay=thinking
+e:hannay=thinking;b=zoom
 
-Then I showed myself, and was instantly noted by one of the flankers, who passed the word to the others.
-
-
-I heard cries coming up from below, and saw that the line of search had changed its direction.
-
+Then I showed myself, and was instantly noted by one of the flankers, who passed the word to the others. I heard cries coming up from below, and saw that the line of search had changed its direction.
+b=light
 
 I pretended to retreat over the skyline, but instead went back the way I had come, and in twenty minutes was behind the ridge overlooking my sleeping place.
-e:hannay=smirking
+e:hannay=smirking;b=moor-dark-light
 
 From that viewpoint I had the satisfaction of seeing the pursuit streaming up the hill at the top of the glen on a hopelessly false scent.
 
@@ -2876,25 +2873,19 @@ That seemed as good a direction to take as any other.
 
 
 My stratagem had given me a fair start—call it twenty minutes—and I had the width of a glen behind me before I saw the first heads of the pursuers.
-e:hannay=wary
+e:hannay=wary;b=light
 
 The police had evidently called in local talent to their aid, and the men I could see had the appearance of herds or gamekeepers.
-
+b=moor-men
 
 They hallooed at the sight of me, and I waved my hand.
 e:hannay=excited
 
-Two dived into the glen and began to climb my ridge, while the others kept their own side of the hill.
+Two dived into the glen and began to climb my ridge, while the others kept their own side of the hill. I felt as if I were taking part in a schoolboy game of hare and hounds.
 
 
-I felt as if I were taking part in a schoolboy game of hare and hounds.
-
-
-But very soon it began to seem less of a game.
-
-
-Those fellows behind were hefty men on their native heath.
-
+But very soon it began to seem less of a game. Those fellows behind were hefty men on their native heath.
+b=light
 
 Looking back I saw that only three were following direct, and I guessed that the others had fetched a circuit to cut me off.
 e:hannay=thinking
@@ -2915,22 +2906,19 @@ How I longed for a good Afrikander pony!
 
 
 I put on a great spurt and got off my ridge and down into the moor before any figures appeared on the skyline behind me.
-e:hannay=excited
+e:hannay=excited;b=zoom
 
-I crossed a burn, and came out on a high road which made a pass between two glens.
-
-
-All in front of me was a big field of heather sloping up to a crest which was crowned with an odd feather of trees.
-
+I crossed a burn, and came out on a high road which made a pass between two glens. All in front of me was a big field of heather sloping up to a crest which was crowned with an odd feather of trees.
+b=light
 
 In the dyke by the roadside was a gate, from which a grass-grown track led over the first wave of the moor.
 
 
 I jumped the dyke and followed it, and after a few hundred yards—as soon as it was out of sight of the highway—the grass stopped and it became a very respectable road, which was evidently kept with some care.
-e:hannay=thinking
+e:hannay=thinking;b=zoom
 
 Clearly it ran to a house, and I began to think of doing the same.
-
+b=light
 
 Hitherto my luck had held, and it might be that my best chance would be found in this remote dwelling.
 
@@ -2939,49 +2927,34 @@ Anyhow there were trees there, and that meant cover.
 
 
 I did not follow the road, but the burnside which flanked it on the right, where the bracken grew deep and the high banks made a tolerable screen.
-e:hannay=wary
+e:hannay=wary;b=zoom
 
 It was well I did so, for no sooner had I gained the hollow than, looking back, I saw the pursuit topping the ridge from which I had descended.
+b=moor-men
+
+After that I did not look back; I had no time. I ran up the burnside, crawling over the open places, and for a large part wading in the shallow stream.
+b=zoom
+
+I found a deserted cottage with a row of phantom peat-stacks and an overgrown garden. Then I was among young hay, and very soon had come to the edge of a plantation of windblown firs. From there I saw the chimneys of the house smoking a few hundred yards to my left.
+b=light
+
+I forsook the burnside, crossed another dyke, and almost before I knew was on a rough lawn. A glance back told me that I was well out of sight of the pursuit, which had not yet passed the first lift of the moor.
 
 
-After that I did not look back; I had no time.
-
-
-I ran up the burnside, crawling over the open places, and for a large part wading in the shallow stream.
-
-
-I found a deserted cottage with a row of phantom peat-stacks and an overgrown garden.
-
-
-Then I was among young hay, and very soon had come to the edge of a plantation of windblown firs.
-
-
-From there I saw the chimneys of the house smoking a few hundred yards to my left.
-
-
-I forsook the burnside, crossed another dyke, and almost before I knew was on a rough lawn.
-
-
-A glance back told me that I was well out of sight of the pursuit, which had not yet passed the first lift of the moor.
-
-
-The lawn was a very rough place, cut with a scythe instead of a mower, and planted with beds of scrubby rhododendrons.
-
-
-A brace of black-game, which are not usually garden birds, rose at my approach.
-
+The lawn was a very rough place, cut with a scythe instead of a mower, and planted with beds of scrubby rhododendrons. A brace of black-game, which are not usually garden birds, rose at my approach.
+b=farm-ext
 
 The house before me was the ordinary moorland farm, with a more pretentious whitewashed wing added.
 
 
 Attached to this wing was a glass veranda, and through the glass I saw the face of an elderly gentleman meekly watching me.
-n:g3=Old Gentleman;e:g3=neutral
+n:g3=Old Gentleman;e:g3=neutral;a:g3=old
 
 I stalked over the border of coarse hill gravel and entered the open veranda door.
 e:hannay=neutral
 
 Within was a pleasant room, glass on one side, and on the other a mass of books.
-
+b=farm-book-room
 
 More books showed in an inner room. On the floor, instead of tables, stood cases such as you see in a museum, filled with coins and queer stone implements.
 
@@ -3023,25 +2996,16 @@ And this extraordinary man took up his pen again.
 s=
 
 I did as I was bid, and found myself in a little dark chamber which smelt of chemicals, and was lit only by a tiny window high up in the wall.
-e:hannay=wary
+e:hannay=wary;b=farm-room
 
-The door had swung behind me with a click like the door of a safe.
-
-
-Once again I had found an unexpected sanctuary.
+The door had swung behind me with a click like the door of a safe. Once again I had found an unexpected sanctuary.
 
 
 All the same I was not comfortable.
 e:hannay=thinking
 
-There was something about the old gentleman which puzzled and rather terrified me.
+There was something about the old gentleman which puzzled and rather terrified me. He had been too easy and ready, almost as if he had expected me. And his eyes had been horribly intelligent.
 e:hannay=fearful
-
-He had been too easy and ready, almost as if he had expected me.
-
-
-And his eyes had been horribly intelligent.
-
 
 No sound came to me in that dark place.
 
@@ -3062,13 +3026,13 @@ And then, while my mouth was watering in anticipation, there was a click and the
 
 
 I emerged into the sunlight to find the master of the house sitting in a deep armchair in the room he called his study, and regarding me with curious eyes.
-e:g3=thinking
+e:g3=thinking;b=farm-book-room
 
 “Have they gone?” I asked.
-s=hannay
+s=hannay;e:hannay=wary
 
 “They have gone. I convinced them that you had crossed the hill. I do not choose that the police should come between me and one whom I am delighted to honour. This is a lucky morning for you, Mr. Richard Hannay.”
-s=g3;e:g3=happy
+s=g3;e:g3=smirking
 
 As he spoke his eyelids seemed to tremble and to fall a little over his keen grey eyes.
 
@@ -3113,9 +3077,12 @@ e:hannay=scowling
 s=hannay;e:hannay=angry
 
 “Here’s the money and be damned to you,” and I flung four sovereigns on the table.
+e:hannay=scowling
 
+He opened his eyes a little.
+s=
 
-He opened his eyes a little. “Oh no, I shall not give you up. My friends and I will have a little private settlement with you, that is all. You know a little too much, Mr. Hannay. You are a clever actor, but not quite clever enough.”
+“Oh no, I shall not give you up. My friends and I will have a little private settlement with you, that is all. You know a little too much, Mr. Hannay. You are a clever actor, but not quite clever enough.”
 s=g3;e:g3=neutral
 
 He spoke with assurance, but I could see the dawning of a doubt in his mind.
@@ -3125,7 +3092,7 @@ e:g3=thinking
 s=hannay;e:hannay=unhappy
 
 “That’s all I done, and for that I’ve been chivvied for two days by those blasted bobbies over those blasted hills. I tell you I’m fair sick of it. You can do what you like, old boy! Ned Ainslie’s got no fight left in him.”
-
+e:hannay=angry
 
 I could see that the doubt was gaining.
 s=
@@ -3149,7 +3116,7 @@ In the middle of my meal he spoke suddenly to me in German, but I turned on him 
 s=g3;e:hannay=neutral
 
 Then I told him my story—how I had come off an Archangel ship at Leith a week ago, and was making my way overland to my brother at Wigtown.
-s=hannay
+s=hannay;b=think
 
 I had run short of cash—I hinted vaguely at a spree—and I was pretty well on my uppers when I had come on a hole in a hedge, and, looking through, had seen a big motorcar lying in the burn.
 
@@ -3164,7 +3131,7 @@ But somehow the law had got after me. When I had tried to change a sovereign in 
 
 
 “They can have the money back,” I cried, “for a fat lot of good it’s done me. Those perishers are all down on a poor man. Now, if it had been you, guv’nor, that had found the quids, nobody would have troubled you.”
-e:hannay=angry
+e:hannay=angry;b=farm-book-room
 
 “You’re a good liar, Hannay,” he said.
 s=g3;e:g3=smirking
@@ -3215,10 +3182,10 @@ s=hannay;e:hannay=smirking
 s=g3;e:g3=neutral
 
 I was marched out of the room with a pistol at each ear.
-s=;e:hannay=wary
+s=;e:hannay=wary;b=light
 
 The storeroom was a damp chamber in what had been the old farmhouse.
-
+b=farm-storeroom
 
 There was no carpet on the uneven floor, and nothing to sit down on but a school form.
 
@@ -3262,10 +3229,7 @@ But they wouldn’t have listened to me. That old devil with the eyelids had not
 I thought he probably had some kind of graft with the constabulary.
 
 
-Most likely he had letters from Cabinet ministers saying he was to be given every facility for plotting against Britain.
-
-
-That’s the sort of owlish way we run our politics in the Old Country.
+Most likely he had letters from Cabinet ministers saying he was to be given every facility for plotting against Britain. That’s the sort of owlish way we run our politics in the Old Country.<e>1915 political zinger.</e>
 
 
 The three would be back for lunch, so I hadn’t more than a couple of hours to wait.
@@ -3308,10 +3272,10 @@ I shook it, and it seemed rather flimsy. For want of something better to do I pu
 
 
 Presently the thing gave with a crash which I thought would bring in my warders to inquire.
-e:hannay=wary
+e:hannay=wary;b=action
 
 I waited for a bit, and then started to explore the cupboard shelves.
-
+b=farm-storeroom
 
 There was a multitude of queer things there. I found an odd vesta or two in my trouser pockets and struck a light.
 
@@ -3320,37 +3284,31 @@ It was out in a second, but it showed me one thing.
 
 
 There was a little stock of electric torches on one shelf.<e>Britain: 100+ years of not knowing the word "flashlight".</e>
-e:hannay=happy
+e:hannay=happy;o=torch
 
 I picked up one, and found it was in working order.
-
+b=farm-storeroom-light;o=
 
 With the torch to help me I investigated further.
 
 
-There were bottles and cases of queer-smelling stuffs, chemicals no doubt for experiments, and there were coils of fine copper wire and yanks and yanks of thin oiled silk.
-
-
-There was a box of detonators, and a lot of cord for fuses.
+There were bottles and cases of queer-smelling stuffs, chemicals no doubt for experiments, and there were coils of fine copper wire and yanks and yanks of thin oiled silk. There was a box of detonators, and a lot of cord for fuses.
 
 
 Then away at the back of the shelf I found a stout brown cardboard box, and inside it a wooden case.
 
 
 I managed to wrench it open, and within lay half a dozen little grey bricks, each a couple of inches square.
-e:hannay=thinking
+e:hannay=thinking;o=bricks
 
-I took up one, and found that it crumbled easily in my hand.
-
-
-Then I smelt it and put my tongue to it. After that I sat down to think.
+I took up one, and found that it crumbled easily in my hand. Then I smelt it and put my tongue to it. After that I sat down to think.
 
 
 I hadn’t been a mining engineer for nothing, and I knew lentonite when I saw it.
 
 
 With one of these bricks I could blow the house to smithereens.
-e:hannay=excited
+e:hannay=excited;o=
 
 I had used the stuff in Rhodesia and knew its power. But the trouble was that my knowledge wasn’t exact.
 
@@ -3382,8 +3340,8 @@ Still I managed to rake up the pluck to set my teeth and choke back the horrid d
 I simply shut off my mind and pretended I was doing an experiment as simple as Guy Fawkes fireworks.
 
 
-I got a detonator, and fixed it to a couple of feet of fuse.<e>TODO: nice of the goons to throw him in the explosives room</e>
-
+I got a detonator, and fixed it to a couple of feet of fuse.<e>Really was nice of the goons to put him in the explosives room.</e>
+b=light
 
 Then I took a quarter of a lentonite brick, and buried it near the door below one of the sacks in a crack of the floor, fixing the detonator in it.
 
@@ -3395,7 +3353,7 @@ If the cupboard held such deadly explosives, why not the boxes?
 
 
 In that case there would be a glorious skyward journey for me and the German servants and about an acre of surrounding country.
-
+b=think
 
 There was also the risk that the detonation might set off the other bricks in the cupboard, for I had forgotten most that I knew about lentonite.
 
@@ -3404,7 +3362,7 @@ But it didn’t do to begin thinking about the possibilities. The odds were horr
 
 
 I ensconced myself just below the sill of the window, and lit the fuse.
-
+b=light
 
 Then I waited for a moment or two. There was dead silence—only a shuffle of heavy boots in the passage, and the peaceful cluck of hens from the warm out-of-doors.
 
@@ -3412,14 +3370,11 @@ Then I waited for a moment or two. There was dead silence—only a shuffle of he
 I commended my soul to my Maker, and wondered where I would be in five seconds…
 
 
-A great wave of heat seemed to surge upwards from the floor, and hang for a blistering instant in the air.
-
-
-Then the wall opposite me flashed into a golden yellow and dissolved with a rending thunder that hammered my brain into a pulp.
-
+A great wave of heat seemed to surge upwards from the floor, and hang for a blistering instant in the air. Then the wall opposite me flashed into a golden yellow and dissolved with a rending thunder that hammered my brain into a pulp.
+b=explosion;a:hannay=tatters
 
 Something dropped on me, catching the point of my left shoulder.
-
+b=think
 
 And then I think I became unconscious.
 
@@ -3430,26 +3385,20 @@ My stupor can scarcely have lasted beyond a few seconds.
 I felt myself being choked by thick yellow fumes, and struggled out of the debris to my feet.
 e:hannay=weary
 
-Somewhere behind me I felt fresh air. The jambs of the window had fallen, and through the ragged rent the smoke was pouring out to the summer noon.
-
-
-I stepped over the broken lintel, and found myself standing in a yard in a dense and acrid fog.
-
+Somewhere behind me I felt fresh air. The jambs of the window had fallen, and through the ragged rent the smoke was pouring out to the summer noon. I stepped over the broken lintel, and found myself standing in a yard in a dense and acrid fog.
+b=wreckage
 
 I felt very sick and ill, but I could move my limbs, and I staggered blindly forward away from the house.
 
 
-A small mill-lade ran in a wooden aqueduct at the other side of the yard, and into this I fell.
-
-
-The cool water revived me, and I had just enough wits left to think of escape.
-
+A small mill-lade ran in a wooden aqueduct at the other side of the yard, and into this I fell. The cool water revived me, and I had just enough wits left to think of escape.
+b=light
 
 I squirmed up the lade among the slippery green slime till I reached the mill-wheel.
 
 
 Then I wriggled through the axle hole into the old mill and tumbled on to a bed of chaff.
-
+b=mill
 
 A nail caught the seat of my trousers, and I left a wisp of heather-mixture behind me.
 
@@ -3479,7 +3428,7 @@ If I could get there without leaving tracks I might find a hiding-place, for I a
 
 
 I crawled down the broken ladder, scattering chaff behind me to cover my footsteps.
-
+b=light
 
 I did the same on the mill floor, and on the threshold where the door hung on broken hinges.
 
@@ -3491,25 +3440,25 @@ Also it was mercifully hid by the mill buildings from any view from the house.
 
 
 I slipped across the space, got to the back of the dovecot and prospected a way of ascent.
-
+b=dovecot
 
 That was one of the hardest jobs I ever took on.
 e:hannay=weary
 
 My shoulder and arm ached like hell, and I was so sick and giddy that I was always on the verge of falling.
-
+b=think
 
 But I managed it somehow. By the use of out-jutting stones and gaps in the masonry and a tough ivy root I got to the top in the end.
 
 
 There was a little parapet behind which I found space to lie down.
-
+b=parapet
 
 Then I proceeded to go off into an old-fashioned swoon.
-
+b=dream
 
 I woke with a burning head and the sun glaring in my face.
-
+b=parapet
 
 For a long time I lay motionless, for those horrible fumes seemed to have loosened my joints and dulled my brain.
 
@@ -3526,25 +3475,16 @@ e:hannay=wary
 They were looking for something, and moved towards the mill.
 
 
-Then one of them caught sight of the wisp of cloth on the nail, and cried out to the other.
+Then one of them caught sight of the wisp of cloth on the nail, and cried out to the other. They both went back to the house, and brought two more to look at it.
 
 
-They both went back to the house, and brought two more to look at it.
-
-
-I saw the rotund figure of my late captor, and I thought I made out the man with the lisp.
-
-
-I noticed that all had pistols.
+I saw the rotund figure of my late captor, and I thought I made out the man with the lisp. I noticed that all had pistols.
 
 
 For half an hour they ransacked the mill.
 
 
-I could hear them kicking over the barrels and pulling up the rotten planking.
-
-
-Then they came outside, and stood just below the dovecot arguing fiercely.
+I could hear them kicking over the barrels and pulling up the rotten planking. Then they came outside, and stood just below the dovecot arguing fiercely.
 
 
 The servant with the bandage was being soundly rated. I heard them fiddling with the door of the dovecot and for one horrid moment I fancied they were coming up.
@@ -3557,25 +3497,19 @@ All that long blistering afternoon I lay baking on the rooftop. Thirst was my ch
 e:hannay=weary
 
 My tongue was like a stick, and to make it worse I could hear the cool drip of water from the mill-lade.
-
+b=think
 
 I watched the course of the little stream as it came in from the moor, and my fancy followed it to the top of the glen, where it must issue from an icy fountain fringed with cool ferns and mosses.
-
+b=parapet
 
 I would have given a thousand pounds to plunge my face into that.
 
 
-I had a fine prospect of the whole ring of moorland.
-
-
-I saw the car speed away with two occupants, and a man on a hill pony riding east.
-
-
-I judged they were looking for me, and I wished them joy of their quest.
+I had a fine prospect of the whole ring of moorland. I saw the car speed away with two occupants, and a man on a hill pony riding east. I judged they were looking for me, and I wished them joy of their quest.
 e:hannay=smirking
 
 But I saw something else more interesting. The house stood almost on the summit of a swell of moorland which crowned a sort of plateau, and there was no higher point nearer than the big hills six miles off.
-
+b=moor-plateau
 
 The actual summit, as I have mentioned, was a biggish clump of trees—firs mostly, with a few ashes and beeches.
 
@@ -3586,7 +3520,7 @@ On the dovecot I was almost on a level with the treetops, and could see what lay
 The wood was not solid, but only a ring, and inside was an oval of green turf, for all the world like a big cricket-field.
 
 
-I didn’t take long to guess what it was. It was an aerodrome, and a secret one.
+I didn’t take long to guess what it was. It was an aerodrome, and a secret one.<e>That's a guess, is it?</e>
 e:hannay=thinking
 
 The place had been most cunningly chosen. For suppose anyone were watching an aeroplane descending here, he would think it had gone over the hill beyond the trees.
@@ -3608,7 +3542,7 @@ Then I reflected that if that aeroplane came back the chances were ten to one th
 e:hannay=wary
 
 So through the afternoon I lay and prayed for the coming of darkness, and glad I was when the sun went down over the big western hills and the twilight haze crept over the moor.
-
+b=light
 
 The aeroplane was late. The gloaming was far advanced when I heard the beat of wings and saw it volplaning downward to its home in the wood.
 e:hannay=fearful
@@ -3617,16 +3551,13 @@ Lights twinkled for a bit and there was much coming and going from the house.
 
 
 Then the dark fell, and silence.
+b=think
 
-
-Thank God it was a black night.
-
-
-The moon was well on its last quarter and would not rise till late.
+Thank God it was a black night. The moon was well on its last quarter and would not rise till late.
 
 
 My thirst was too great to allow me to tarry, so about nine o’clock, so far as I could judge, I started to descend.
-
+b=dovecot-mod-night
 
 It wasn’t easy, and halfway down I heard the back door of the house open, and saw the gleam of a lantern against the mill wall.
 e:hannay=fearful
@@ -3638,7 +3569,7 @@ Then the light disappeared, and I dropped as softly as I could on to the hard so
 
 
 I crawled on my belly in the lee of a stone dyke till I reached the fringe of trees which surrounded the house.
-e:hannay=wary
+e:hannay=wary;b=dark
 
 If I had known how to do it I would have tried to put that aeroplane out of action, but I realized that any attempt would probably be futile.
 
@@ -3656,22 +3587,22 @@ A hundred yards farther on I found another wire cunningly placed on the edge of 
 
 
 Beyond that lay the moor, and in five minutes I was deep in bracken and heather.
-
+b=moor-reuse
 
 Soon I was round the shoulder of the rise, in the little glen from which the mill-lade flowed.
-
+b=glen-reuse
 
 Ten minutes later my face was in the spring, and I was soaking down pints of the blessed water.
-e:hannay=happy
+e:hannay=happy;b=light
 
 But I did not stop till I had put half a dozen miles between me and that accursed dwelling.
 e:hannay=weary
 
 ## VII. The Dry-Fly Fisherman
+r=card
 
-
-I sat down on a hilltop and took stock of my position.<e>TODO: god damnit why do all serials get stuck in these loops. it's The Jungle out there</e>
-e:hannay=weary
+I sat down on a hilltop and took stock of my position.<e>Why do all serials get stuck in these loops. It's <book>The Jungle</book> out there.</e>
+e:hannay=weary;b=moor-hill-reuse
 
 I wasn’t feeling very happy, for my natural thankfulness at my escape was clouded by my severe bodily discomfort.
 e:hannay=unhappy
