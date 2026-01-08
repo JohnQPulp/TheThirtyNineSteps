@@ -463,7 +463,7 @@ s=;b=flat-room
 In half an hour’s time a figure came out that I scarcely recognized. Only his gimlety, hungry eyes were the same.
 e:hannay=surprised;b=flat
 
-He was shaved clean, his hair was parted in the middle, and he had cut his eyebrows.
+He was shaved clean, his hair was parted in the middle, and he had cut his eyebrows.<e>Peter O'Toole.</e>
 c=,scudder;a:scudder=shaved
 
 Further, he carried himself as if he had been drilled, and was the very model, even to the brown complexion, of some British officer who had had a long spell in India.<e>Is the implication he put brown-face on?</e>
@@ -3371,7 +3371,7 @@ I commended my soul to my Maker, and wondered where I would be in five seconds�
 
 
 A great wave of heat seemed to surge upwards from the floor, and hang for a blistering instant in the air. Then the wall opposite me flashed into a golden yellow and dissolved with a rending thunder that hammered my brain into a pulp.
-b=explosion;a:hannay=tatters
+b=explosion;a:hannay=tatters2
 
 Something dropped on me, catching the point of my left shoulder.
 b=think
@@ -3683,7 +3683,7 @@ At this I protested so strongly that I think she believed me honest, for she too
 e:wife2=neutral
 
 She showed me how to wrap the plaid around my shoulders, and when I left that cottage I was the living image of the kind of Scotsman you see in the illustrations to Burns’s poems.
-s=;e:hannay=smirking;a:hannay=cE
+s=;e:hannay=smirking;a:hannay=dirtyplaid
 
 But at any rate I was more or less clad.
 e:hannay=neutral;c=hannay
@@ -3755,7 +3755,7 @@ His wife was dead years ago, and since his daughter’s marriage he lived alone.
 
 
 For the better part of ten days he did all the rough nursing I needed.<e>Ten day time skip! What a way to get closer to the June 15th date. You know Buchan, you could have just shortened the timeline.</e>
-
+a:hannay=cleanplaid
 
 I simply wanted to be left in peace while the fever took its course, and when my skin was cool again I found that the bout had more or less cured my shoulder.
 
@@ -3851,7 +3851,7 @@ At any rate, I felt now that I was getting to grips with my job.
 
 
 I was decanted at Crewe in the small hours and had to wait till six to get a train for Birmingham.
-e:hannay=weary;b=light;a:hannay=cE2
+e:hannay=weary;b=light;a:hannay=clean
 
 In the afternoon I got to Reading, and changed into a local train which journeyed into the deeps of Berkshire.
 
