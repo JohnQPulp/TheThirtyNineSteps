@@ -3884,7 +3884,7 @@ I fell to whistling as I looked into the green depths, and the tune which came t
 
 
 A fisherman came up from the waterside, and as he neared me he too began to whistle.
-n:bullivant=Fisherman;e:bullivant=;e:hannay=surprised;c=bullivant,
+n:bullivant=Fisherman;e:bullivant=;e:hannay=surprised;c=bullivant,;a:bullivant=fisherman
 
 The tune was infectious, for he followed my suit. He was a huge man in untidy old flannels and a wide-brimmed hat, with a canvas bag slung on his shoulder.
 
@@ -3998,7 +3998,7 @@ By the time I had finished the looking-glass showed a not unpersonable young man
 e:hannay=smirking;b=cottage2-bedroom;c=hannay;a:hannay=cF
 
 Sir Walter awaited me in a dusky dining-room where a little round table was lit with silver candles.
-n:bullivant=Sir Walter;e:bullivant=neutral;b=cottage2-dining;c=
+n:bullivant=Sir Walter Bullivant;e:bullivant=neutral;b=cottage2-dining;c=;a:bullivant=
 
 The sight of him—so respectable and established and secure, the embodiment of law and government and all the conventions—took me aback and made me feel an interloper.
 e:hannay=wary
