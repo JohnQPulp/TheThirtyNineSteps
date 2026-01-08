@@ -1246,7 +1246,7 @@ Clearly he was very drunk.
 “That’s what comes o’ bein’ a teetotaller,” he observed in bitter regret.
 s=drunkard;e:drunkard=unhappy
 
-I expressed my surprise that in him I should have met a blue-ribbon stalwart.
+I expressed my surprise that in him I should have met a blue-ribbon stalwart.<e>Ho ho, topical temperance humor!</e>
 s=;e:hannay=smirking
 
 “Ay, but I’m a strong teetotaller,” he said pugnaciously. “I took the pledge last Martinmas, and I havena touched a drop o’ whisky sinsyne. Not even at Hogmanay, though I was sair temptit.”
@@ -1898,7 +1898,7 @@ As I scrambled to my feet a hand took me by the arm, and a sympathetic and badly
 e:hannay=surprised
 
 I found myself looking at a tall young man in goggles and a leather ulster, who kept on blessing his soul and whinnying apologies.
-n:harry=?;e:harry=surprised;c=,harry
+n:harry=?;e:harry=surprised;c=,harry;a:harry=goggles
 
 For myself, once I got my wind back, I was rather glad than otherwise.
 e:hannay=smirking
@@ -1948,8 +1948,8 @@ e:hannay=happy;a:hannay=c3
 Then he haled me to the dining-room, where the remnants of a meal stood on the table, and announced that I had just five minutes to feed.
 b=dining-room
 
-“You can take a snack in your pocket, and we’ll have supper when we get back. I’ve got to be at the Masonic Hall at eight o’clock, or my agent will comb my hair.”
-s=harry;e:harry=wary
+“You can take a snack in your pocket, and we’ll have supper when we get back. I’ve got to be at the Masonic Hall at eight o’clock, or my agent will comb my hair.”<e>He'll comb your hair with that small-tooth comb.</e>
+s=harry;e:harry=wary;a:harry=
 
 I had a cup of coffee and some cold ham, while he yarned away on the hearthrug.
 s=;e:hannay=neutral
@@ -2018,7 +2018,7 @@ As we passed through a little town two policemen signalled us to stop, and flash
 e:hannay=wary
 
 “Beg pardon, Sir Harry,” said one. “We’ve got instructions to look out for a cawr, and the description’s no unlike yours.”
-n:harry=Sir Harry;n:policeman3=Policeman;s=policeman3;e:policeman3=neutral
+n:harry=Sir Harry;n:policeman2=Policeman;s=policeman2;e:policeman2=neutral
 
 “Right-o,” said my host, while I thanked Providence for the devious ways I had been brought to safety.
 s=harry;e:hannay=smirking
@@ -2423,9 +2423,9 @@ s=turnbull;c=turnbull
 e:turnbull=
 
 “My freens ca’ me Ecky, and whiles Specky, for I wear glesses, being waik i’ the sicht. Just you speak the Surveyor fair, and ca’ him sir, and he’ll be fell pleased. I’ll be back or midday.”
-e:turnbull=happy
+e:turnbull=happy;n:turnbull=Groundskeeper Willie (Alexander Turnbull)
 
-I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home; borrowed, too, the foul stump of a clay pipe as an extra property.<e>I know why Hannay wants the spectacles, but why would Turnbull lend them out, even if lending out his other clothes?</e>
+I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home; borrowed, too, the foul stump of a clay pipe as an extra property.<e>I know why Hannay wants the spectacles, but why would Turnbull lend them out?</e>
 s=;c=;a:hannay=c5
 
 He indicated my simple tasks, and without more ado set off at an amble bedwards.
@@ -2552,13 +2552,13 @@ Two of the men I had seen before from the window of the Galloway inn—one lean,
 b=glen-road;c=slim,,fat
 
 The third had the look of a countryman—a vet, perhaps, or a small farmer.
-n:g3=Countryman;c=g3
+n:countryman=Countryman;c=countryman
 
 He was dressed in ill-cut knickerbockers, and the eye in his head was as bright and wary as a hen’s.
-e:g3=wary
+e:countryman=wary
 
 “Morning,” said the last. “That’s a fine easy job o’ yours.”
-s=g3;e:g3=smirking
+s=countryman;e:countryman=smirking
 
 I had not looked up on their approach, and now, when accosted, I slowly and painfully straightened my back, after the manner of roadmen; spat vigorously, after the manner of the low Scot; and regarded them steadily before replying.
 s=;e:hannay=weary
@@ -2567,16 +2567,16 @@ I confronted three pairs of eyes that missed nothing.
 e:hannay=wary
 
 “There’s waur jobs and there’s better,” I said sententiously.
-s=hannay;e:hannay=neutral;e:g3=
+s=hannay;e:hannay=neutral;e:countryman=
 
 “I wad rather hae yours, sittin’ a’ day on your hinderlands on thae cushions. It’s you and your muckle cawrs that wreck my roads! If we a’ had oor richts, ye sud be made to mend what ye break.”
 e:hannay=angry
 
 The bright-eyed man was looking at the newspaper lying beside Turnbull’s bundle.
-s=;e:g3=serious
+s=;e:countryman=serious
 
 “I see you get your papers in good time,” he said.
-s=g3
+s=countryman
 
 I glanced at it casually.
 s=;e:hannay=neutral
@@ -2609,7 +2609,7 @@ They asked one last question.
 c=;s=
 
 “Did you see anyone pass early this morning? He might be on a bicycle or he might be on foot.”
-s=g3;e:g3=serious;c=slim,g3,fat
+s=countryman;e:countryman=serious;c=slim,countryman,fat
 
 I very nearly fell into the trap and told a story of a bicyclist hurrying past in the grey dawn.
 s=;e:hannay=thinking
@@ -2618,7 +2618,7 @@ But I had the sense to see my danger. I pretended to consider very deeply.
 
 
 “I wasna up very early,” I said. “Ye see, my dochter was merrit last nicht, and we keepit it up late. I opened the house door about seeven and there was naebody on the road then.”
-s=hannay;e:hannay=neutral;e:g3=thinking
+s=hannay;e:hannay=neutral;e:countryman=thinking
 
 “Since I cam’ up here there has just been the baker and the Ruchill herd, besides you gentlemen.”
 
@@ -2962,7 +2962,7 @@ More books showed in an inner room. On the floor, instead of tables, stood cases
 There was a knee-hole desk in the middle, and seated at it, with some papers and open volumes before him, was the benevolent old gentleman.
 e:g3=happy
 
-His face was round and shiny, like Mr. Pickwick’s, big glasses were stuck on the end of his nose, and the top of his head was as bright and bare as a glass bottle.
+His face was round and shiny, like Mr. Pickwick’s, big glasses were stuck on the end of his nose, and the top of his head was as bright and bare as a glass bottle.<e>This is a literary reference not even I knew, but it's apparently to <book>The Pickwick Papers</book>. And at over 300k words, it's not a reference I plan to learn anytime soon. (What the hell Dickens? As is <book>Great Expectations</book> isn't bad enough.)</e>
 
 
 He never moved when I entered, but raised his placid eyebrows and waited on me to speak.
@@ -3166,7 +3166,7 @@ s=;e:g3=thinking
 There was something weird and devilish in those eyes, cold, malignant, unearthly, and most hellishly clever.
 e:hannay=fearful
 
-They fascinated me like the bright eyes of a snake.
+They fascinated me like the bright eyes of a snake.<e>Authors go one book without comparing their villain characters to snakes: Challenge Impossible.</e>
 
 
 I had a strong impulse to throw myself on his mercy and offer to join his side, and if you consider the way I felt about the whole thing you will see that that impulse must have been purely physical, the weakness of a brain mesmerized and mastered by a stronger spirit.
@@ -3803,10 +3803,10 @@ He was a man named Hislop, a friend of Turnbull’s, and he came in to his break
 n:hislop=Hislop;e:hislop=happy;c=hislop
 
 I made Turnbull accept five pounds for my lodging, and a hard job I had of it.
-e:hannay=neutral;e:turnbull=
+e:hannay=neutral;e:turnbull=;c=turnbull
 
 There never was a more independent being. He grew positively rude when I pressed him, and shy and red, and took the money at last without a thank you.
-
+c=
 
 When I told him how much I owed him, he grunted something about “ae guid turn deservin’ anither.”
 s=turnbull;e:turnbull=neutral;c=
@@ -3815,7 +3815,7 @@ You would have thought from our leave-taking that we had parted in disgust.
 s=
 
 Hislop was a cheery soul, who chattered all the way over the pass and down the sunny vale of Annan.
-e:hislop=happy
+e:hislop=happy;c=hislop
 
 I talked of Galloway markets and sheep prices, and he made up his mind I was a “pack-shepherd” from those parts—whatever that may be.
 s=;e:hannay=smirking
@@ -4177,7 +4177,7 @@ e:bullivant=serious
 Just then the butler entered the room.
 s=;e:butler=neutral
 
-“There’s a trunk-call from London, Sir Walter. It’s Mr. ’Eath, and he wants to speak to you personally.”
+“There’s a trunk-call from London, Sir Walter. It’s Mr. ’Eath, and he wants to speak to you personally.”<e>This is Bullivant's other house, so this is probably a different butler, but I'm reusing the sprite.</e>
 s=butler
 
 My host went off to the telephone.
@@ -4616,7 +4616,7 @@ We were connected at once, and I heard a servant’s voice.
 s=hannay;e:hannay=serious
 
 “His Lordship returned half an hour ago,” said the voice, “and has gone to bed. He is not very well tonight. Will you leave a message, sir?”
-n:servant=Servant;s=servant
+
 
 I rang off and almost tumbled into a chair. My part in this business was not yet ended.
 s=;e:hannay=fearful
