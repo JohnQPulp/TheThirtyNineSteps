@@ -2711,7 +2711,7 @@ He did as bid, for he was blind with terror.
 s=
 
 Over my dirty trousers and vulgar shirt I put on his smart driving-coat, which buttoned high at the top and thereby hid the deficiencies of my collar.
-e:hannay=excited;a:hannay=c6;b=glen-road
+e:hannay=;a:hannay=c6;b=glen-road
 
 I stuck the cap on my head, and added his gloves to my getup.
 
