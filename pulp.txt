@@ -1937,7 +1937,7 @@ He patted my shoulder and hurried me into his car.
 s=;e:harry=happy
 
 Three minutes later we drew up before a comfortable-looking shooting box set among pine-trees, and he ushered me indoors.
-b=think
+b=think;c=
 
 He took me first to a bedroom and flung half a dozen of his suits before me, for my own had been pretty well reduced to rags.
 
@@ -1949,7 +1949,7 @@ Then he haled me to the dining-room, where the remnants of a meal stood on the t
 b=dining-room
 
 “You can take a snack in your pocket, and we’ll have supper when we get back. I’ve got to be at the Masonic Hall at eight o’clock, or my agent will comb my hair.”<e>He'll comb your hair with that small-tooth comb.</e>
-s=harry;e:harry=wary;a:harry=
+s=harry;e:harry=wary;a:harry=;c=harry
 
 I had a cup of coffee and some cold ham, while he yarned away on the hearthrug.
 s=;e:hannay=neutral
@@ -1988,7 +1988,7 @@ At my words the cares of the ages slipped from his shoulders, and he was rapturo
 s=;e:harry=happy
 
 He lent me a big driving coat—and never troubled to ask why I had started on a motor tour without possessing an ulster—and, as we slipped down the dusty roads, poured into my ears the simple facts of his history.
-b=think
+b=think;c=
 
 He was an orphan, and his uncle had brought him up—I’ve forgotten the uncle’s name, but he was in the Cabinet, and you can read his speeches in the papers.
 
@@ -2105,7 +2105,7 @@ I thought the time had come for me to put my cards on the table.
 e:hannay=thinking
 
 I saw by this man’s eye that he was the kind you can trust.
-
+c=harry
 
 “Listen, Sir Harry,” I said.
 s=hannay
@@ -2135,10 +2135,10 @@ It was the first time I had ever told anyone the exact truth, so far as I unders
 e:hannay=happy
 
 I blinked no detail. He heard all about Scudder, and the milkman, and the notebook, and my doings in Galloway.
-
+b=think
 
 Presently he got very excited and walked up and down the hearthrug.
-e:harry=excited
+e:harry=excited;b=smoking-room-2
 
 “So you see,” I concluded, “you have got here in your house the man that is wanted for the Portland Place murder.”
 s=hannay;e:hannay=neutral
@@ -2165,13 +2165,13 @@ I laughed. “Oh, as to that, my nerves are good enough.”
 s=hannay
 
 I took down a hunting-knife from a stand on the wall, and did the old Mashona trick of tossing it and catching it in my lips.<e>Another reminder he's from Rhodesia, reader. (And yet he doesn't wear shorts, so I still don't buy it.)</e>
-s=
+s=;c=
 
 That wants a pretty steady heart.
 
 
 He watched me with a smile.
-e:harry=happy
+e:harry=happy;c=hannay,harry
 
 “I don’t want proof. I may be an ass on the platform, but I can size up a man. You’re no murderer and you’re no fool, and I believe you are speaking the truth. I’m going to back you up. Now, what can I do?”
 s=harry
@@ -2186,7 +2186,7 @@ s=harry;e:harry=thinking
 e:harry=happy
 
 He sat down at a table and wrote to my dictation.
-s=;b=think
+s=;b=think;c=
 
 The gist of it was that if a man called Twisdon (I thought I had better stick to that name) turned up before June 15th he was to treat him kindly.
 
@@ -2684,7 +2684,7 @@ I asked a man afterwards why nobody kicked him, and was told that Englishmen rev
 
 
 Anyhow there he was now, nattily dressed, in a fine new car, obviously on his way to visit some of his smart friends.
-b=light
+b=light;c=
 
 A sudden daftness took me, and in a second I had jumped into the tonneau and had him by the shoulder.
 e:hannay=excited;b=action
@@ -3812,7 +3812,7 @@ When I told him how much I owed him, he grunted something about “ae guid turn 
 s=turnbull;e:turnbull=neutral;c=
 
 You would have thought from our leave-taking that we had parted in disgust.
-s=
+s=;b=light
 
 Hislop was a cheery soul, who chattered all the way over the pass and down the sunny vale of Annan.
 e:hislop=happy;c=hislop
@@ -3821,7 +3821,7 @@ I talked of Galloway markets and sheep prices, and he made up his mind I was a �
 s=;e:hannay=smirking
 
 My plaid and my old hat, as I have said, gave me a fine theatrical Scots look.
-
+c=
 
 But driving cattle is a mortally slow job, and we took the better part of the day to cover a dozen miles.
 e:hannay=weary
