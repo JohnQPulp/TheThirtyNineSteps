@@ -809,10 +809,10 @@ I considered that Scotland would be best, for my people were Scotch and I could 
 
 
 I had half an idea at first to be a German tourist, for my father had had German partners, and I had been brought up to speak the tongue pretty fluently, not to mention having put in three years prospecting for copper in German Damaraland.<e>Damaraland was a region in what's now the north-west of Namibia. (I had to look it up.)</e>
-
+b=mapA
 
 But I calculated that it would be less conspicuous to be a Scot, and less in a line with what the police might know of my past.
-
+b=mapS
 
 I fixed on Galloway as the best place to go.
 b=mapS
@@ -3830,7 +3830,7 @@ If I had not had such an anxious heart I would have enjoyed that time.
 
 
 It was shining blue weather, with a constantly changing prospect of brown hills and far green meadows, and a continual sound of larks and curlews and falling streams.
-b=moor-wide-reuse
+b=moor-wide
 
 But I had no mind for the summer, and little for Hislop’s conversation, for as the fateful fifteenth of June drew near I was overweighed with the hopeless difficulties of my enterprise.
 e:hannay=unhappy
