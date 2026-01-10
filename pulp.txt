@@ -1,7 +1,7 @@
-*The Thirty-Nine Steps* by John Buchan
+*The Thirty-Nine Steps* by His Excellency The Right Honourable John Buchan, 1st Baron Tweedsmuir, GCMG, GCVO, CH, PC, DL, Governor General and Commander-in-Chief of the Dominion of Canada<e>I copied over all Buchan's titles from Wikipedia. I don't really know what any of them mean, but they're funny. (Also don't read his Wikipedia article until after the book, since there are spoilers.)</e>
 n:author=;b=title;t=author
 
-<e>Some important context before we begin: this book was published serially in 1915, so while World War I is raging. No introductory context was given for the original publication (<a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">The June 5th  Issue of All-Story Weekly</a>), so as a reader, you're dropped in without it being clear what exactly the date is meant to be. You're just meant to intuit, as would be obvious to someone reading in 1915, that it clearly takes places sometime before the outbreak of the war, but not too far before (since all the descriptions are "modern").</e>
+<e>Some important context to begin: this book was written in late 1914 and published serially in 1915, so while World War I is going on. However, the book gives no introductory context — not even in the <a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">original magazine publication</a> — to explain <b>when</b> the book is meant to take place. As a reader, you're just meant to intuit that it's set sometime <b>before</b> the war (though not too long before), which would be more obvious to the readers back then.</e>
 
 
 ## I. The Man Who Died
@@ -13,7 +13,7 @@ n:hannay=Richard Hannay;e:hannay=unhappy;b=flat-ext
 I had been three months in the Old Country, and was fed up with it.
 
 
-If anyone had told me a year ago that I would have been feeling like that I should have laughed at him; but there was the fact.<e>That is a real awkward third sentence of the book.</e>
+If anyone had told me a year ago that I would have been feeling like that I should have laughed at him; but there was the fact.<e>Most awkward third sentence of any book?</e>
 
 
 The weather made me liverish, the talk of the ordinary Englishman made me sick.
@@ -97,7 +97,7 @@ I gave half-a-crown to a beggar because I saw him yawn; he was a fellow-sufferer
 At Oxford Circus I looked up into the spring sky and I made a vow.
 b=london
 
-I would give the Old Country another day to fit me into something; if nothing happened, I would take the next boat for the Cape.<e>Not exactly the most intrepid character introduction in literature — our protagonist planning on moving countries out of <i>boredom</i>. But it's… unique.</e>
+I would give the Old Country another day to fit me into something; if nothing happened, I would take the next boat for the Cape.<e>It's an odd start to a book — emphasizing so strongly how <b>bored</b> the protagonist is.</e>
 e:hannay=neutral
 
 My flat was the first floor in a new block behind Langham Place.<e>And by "first floor" Buchan means the 2nd floor, because Brits are idiots.</e>
@@ -113,10 +113,10 @@ He arrived before eight o’clock every morning and used to depart at seven, for
 
 
 I was just fitting my key into the door when I noticed a man at my elbow.
-n:scudder=?;e:hannay=surprised;b=flat-hall
+n:scudder=?;e:hannay=surprised;b=flat-hall;z=scudder:97
 
 I had not seen him approach, and the sudden appearance made me start.
-c=scudder;e:scudder=fearful
+c=scudder,;e:scudder=fearful
 
 He was a slim man, with a short brown beard and small, gimlety blue eyes.
 
@@ -131,7 +131,7 @@ He was steadying his voice with an effort, and his hand was pawing my arm.
 s=
 
 I got my door open and motioned him in.
-c=
+c=;b=light
 
 No sooner was he over the threshold than he made a dash for my back room, where I used to smoke and write my letters.
 b=flat
@@ -149,13 +149,13 @@ e:scudder=neutral
 e:scudder=wary
 
 “I’ll listen to you,” I said. “That’s all I’ll promise.”
-s=hannay;e:hannay=wary;c=scudder,hannay
+s=hannay;e:hannay=wary;c=scudder,hannay;z=hannay:104
 
 I was getting worried by the antics of this nervous little chap.
-s=
+s=;c=;b=think
 
 There was a tray of drinks on a table beside him, from which he filled himself a stiff whisky-and-soda.
-c=
+c=;b=flat-smoking-room
 
 He drank it off in three gulps, and cracked the glass as he set it down.
 e:scudder=fearful
@@ -217,7 +217,7 @@ He got a little further down than he wanted.
 I am giving you what he told me as well as I could make it out.
 
 
-Away behind all the governments and the armies there was a big subterranean movement going on, engineered by very dangerous people.<e>Here we go!</e>
+Away behind all the governments and the armies there was a big subterranean movement going on, engineered by very dangerous people.<e>Uh oh.</e>
 b=mapE
 
 He had come on it by accident; it fascinated him; he went further, and then he got caught.
@@ -229,7 +229,7 @@ I gathered that most of the people in it were the sort of educated anarchists th
 A clever man can make big profits on a falling market, and it suited the book of both classes to set Europe by the ears.
 
 
-He told me some queer things that explained a lot that had puzzled me—things that happened in the Balkan War, how one state suddenly came out on top, why alliances were made and broken, why certain men disappeared, and where the sinews of war came from.
+He told me some queer things that explained a lot that had puzzled me—things that happened in the Balkan War, how one state suddenly came out on top, why alliances were made and broken, why certain men disappeared, and where the sinews of war came from.<e>The mention of a Balkan War helps narrow down the date, since the first one of those didn't begin until October 1912. Since the current month was previously given as May, the year must be either 1913 or 1914. (If the latter, it would be just a month shy of the June 28th assassination date of Franz Ferdinand.)</e>
 
 
 The aim of the whole conspiracy was to get Russia and Germany at loggerheads.
@@ -241,11 +241,11 @@ When I asked why, he said that the anarchist lot thought it would give them thei
 Everything would be in the melting-pot, and they looked to see a new world emerge.
 
 
-The capitalists would rake in the shekels, and make fortunes by buying up wreckage. Capital, he said, had no conscience and no fatherland. Besides, the Jew was behind it, and the Jew hated Russia worse than hell.<e>We're on record pace with this book.</e>
+The capitalists would rake in the shekels, and make fortunes by buying up wreckage. Capital, he said, had no conscience and no fatherland. Besides, the Jew was behind it, and the Jew hated Russia worse than hell.<e>Jew% world record?</e>
 
 
 “Do you wonder?” he cried. “For three hundred years they have been persecuted, and this is the return match for the pogroms.”
-s=scudder;e:scudder=angry;b=flat
+s=scudder;e:scudder=angry;b=flat-smoking-room
 
 “The Jew is everywhere, but you have to go far down the backstairs to find him. Take any big Teutonic business concern. If you have dealings with it the first man you meet is Prince von und zu Something, an elegant young man who talks Eton-and-Harrow English.”
 
@@ -280,16 +280,25 @@ s=hannay;e:hannay=confused
 “*Mors janua vitae*,” he smiled.
 s=scudder;e:scudder=smirking
 
-(I recognized the quotation: it was about all the Latin I knew.)<e>It means "death is the gateway to life" — thanks for not including the translation yourself, Buchan. Dick.</e>
+(I recognized the quotation: it was about all the Latin I knew.)<e>It means "death is the gateway to life". (I'm annoyed Buchan made me have to look it up.)</e>
 s=
 
-“I’m coming to that, but I’ve got to put you wise about a lot of things first. If you read your newspaper, I guess you know the name of Constantine Karolides?”<e>How remarkably convenient that Hannay was just thinking about him earlier.</e>
+“I’m coming to that, but I’ve got to put you wise about a lot of things first. If you read your newspaper, I guess you know the name of Constantine Karolides?”
 s=scudder;e:scudder=neutral
 
-I sat up at that, for I had been reading about him that very afternoon.<e>Buchan says the quiet part out loud!</e>
+I sat up at that, for I had been reading about him that very afternoon.<e>Don't lampshade your own convenient coincidence, Buchan.</e>
 s=;e:hannay=surprised
 
-<e>But anyway, timeout here for a second, because this whole book premise as presented so far is even weirder than you might think.<br>See, this Premier Constantine Karolides character isn't a real person. Instead, the real Premier (Prime Minister) of Greece at the time was Eleftherios Venizelos. The description of Karolides as cozying up with Entente and therefore being viewed as an enemy by the Central Powers lines up the politics of Venizelos perfectly. This would all be known to the readership of 1915.<br>So the first baffling decision by Buchan then is that we're apparently in some sort of quasi-alternate history where the <i>only</i> difference from our timeline is that Greece's Prime Minister is a functionally equivalent stand-in, just with a different name. But that particular different name — <i>Constantine</i> Karolides — brings us to baffling decision #2, which is that Venizelos's main political rival was the Greek King, supporter of the Central Power (and brother-in-law of the Kaiser Wilhelm II), named… Constantine I. Which means Buchan either accidentally chose the most confusing name possible, or he intentionally chose Constantine as a way to blend the real-life Premier and King together into a single new composite character. But that second interpretation doesn't really make sense, since again, the character is just Venizelos with a different.<br>But the upshot of all this is: even though the real-life Venizelos resigned from office in February 1915, before this book was published, we're meant to be left in suspence as to fate of his stand-in character Karolides.</e>
+<e>But anyway, we need to take a time-out here for a second, because this whole book premise as presented so far is weirder than you might think. But it requires a bit more context:</e>
+
+
+<e>See, this Premier Constantine Karolides character isn't a real person. Instead, the real Premier (Prime Minister) of Greece at the time was Eleftherios Venizelos. But Karolides is definitely meant to just be Venizelos in all but name — the description of being cozied up with the Entente (and therefore an enemy of the Triple Alliance) matches perfectly. And this would all be known to the readership of 1915.</e>
+
+
+<e>So we're in a different world where the only apparent difference is that Greece has a different but functionally equivalent prime minister. Which is… fine. But where it gets baffling is that Buchan gave his stand-in character, <b>Constantine</b> Karolides, the same name as the real life Greek King: <b>Constantine</b> I. And Constantine I was famously a supporter of Germany (being the brother-in-law of Kaiser Wilhelm II) and therefore <b>the</b> rival of Venizelos in Greece. So it's kind of like setting a book in 2024 and giving the US president the name Donald Nideb.</e>
+
+
+<e>In any case, putting the naming aside: As the reader here, you need to treat this Karolides character as a weird superposition of being both the real-life Venizelos (who would go on to resign from office in February 1915) and of being his own new book character. And if that all sounds like a confusing mess, you're caught up.</e>
 
 
 “He is the man that has wrecked all their games. He is the one big brain in the whole show, and he happens also to be an honest man. Therefore he has been marked down these twelve months past.”
@@ -301,7 +310,7 @@ e:scudder=thinking
 He had another drink, and I mixed it for him myself, for I was getting interested in the beggar.
 s=;e:hannay=neutral
 
-“They can’t get him in his own land, for he has a bodyguard of Epirotes that would skin their grandmothers. But on the 15th day of June he is coming to this city.”<e>Another quick context interlude. There was previous mention of "the Balkan War", which didn't start until October 1912, so if whatever the current year is isn't yet June, it can't be 1912 or earlier. But it still needs to be before WWI, which Britain entered on August 4th, 1914; this coming after the assassination of Franz Ferdinand on June 28th. So 1914 is still possible, as is 1913 — those are the only two years it could be.</e>
+“They can’t get him in his own land, for he has a bodyguard of Epirotes that would skin their grandmothers. But on the 15th day of June he is coming to this city.”
 s=scudder
 
 “The British Foreign Office has taken to having International tea-parties, and the biggest of them is due on that date. Now Karolides is reckoned the principal guest, and if my friends have their way he will never return to his admiring countrymen.”
@@ -313,7 +322,7 @@ s=hannay;e:hannay=thinking
 “And play their game?” he asked sharply.
 s=scudder;e:scudder=angry
 
-“If he does not come they win, for he’s the only man that can straighten out the tangle. And if his government are warned he won’t come, for he does not know how big the stakes will be on June the 15th.”<e>Alright, so Scudder's a dumbass.</e>
+“If he does not come they win, for he’s the only man that can straighten out the tangle. And if his government are warned he won’t come, for he does not know how big the stakes will be on June the 15th.”<e>What a dumbass.</e>
 e:scudder=neutral
 
 “What about the British Government?” I said. “They’re not going to let their guests be murdered. Tip them the wink, and they’ll take extra precautions.”
@@ -322,13 +331,13 @@ s=hannay
 “No good. They might stuff your city with plainclothes detectives and double the police and Constantine would still be a doomed man.”
 s=scudder;e:scudder=thinking
 
-“My friends are not playing this game for candy. They want a big occasion for the taking off, with the eyes of all Europe on it. He’ll be murdered by an Austrian, and there’ll be plenty of evidence to show the connivance of the big folk in Vienna and Berlin.”<e>If this sounds awfully similar to Franz Ferdinand — just with the assassination sides reversed — just you wait. This is a book written in hindsight.</e>
+“My friends are not playing this game for candy. They want a big occasion for the taking off, with the eyes of all Europe on it. He’ll be murdered by an Austrian, and there’ll be plenty of evidence to show the connivance of the big folk in Vienna and Berlin.”<e>If this sounds awfully similar to Franz Ferdinand — only with the assassination side reversed — just you wait. This is a book 100% written in hindsight.</e>
 
 
 “It will all be an infernal lie, of course, but the case will look black enough to the world. I’m not talking hot air, my friend.”
 e:scudder=angry
 
-“I happen to know every detail of the hellish contrivance, and I can tell you it will be the most finished piece of blackguardism since the Borgias.”<e>I thought "finished" here might be a mistake in-place of "fiendish", but no, it's just an old-fashioned use of the word. And then "Borgias" refers to the House of Borgia.</e>
+“I happen to know every detail of the hellish contrivance, and I can tell you it will be the most finished piece of blackguardism since the Borgias.”<e>I thought the "finished" here was a typo, but no. It's just an old-fashioned use of the word.</e>
 
 
 “But it’s not going to come off if there’s a certain man who knows the wheels of the business alive right here in London on the 15th day of June. And that man is going to be your servant, Franklin P. Scudder.”
@@ -346,10 +355,10 @@ s=hannay;e:hannay=
 “I got the first hint in an inn on the Achensee in Tyrol. That set me inquiring, and I collected my other clues in a fur-shop in the Galician quarter of Buda, in a Strangers’ Club in Vienna, and in a little bookshop off the Racknitzstrasse in Leipzig.”
 s=scudder;e:scudder=thinking
 
-“I completed my evidence ten days ago in Paris. I can’t tell you the details now, for it’s something of a history. When I was quite sure in my own mind I judged it my business to disappear, and I reached this city by a mighty queer circuit.”<e>It's too long a story to tell all the details now, sure. That's fine, but let's put a pin in that.</e>
+“I completed my evidence ten days ago in Paris. I can’t tell you the details now, for it’s something of a history. When I was quite sure in my own mind I judged it my business to disappear, and I reached this city by a mighty queer circuit.”
 
 
-“I left Paris a dandified young French-American, and I sailed from Hamburg a Jew diamond merchant.”<e>Would that the book would go into his "merchant" costume. Sadly it does not.</e>
+“I left Paris a dandified young French-American, and I sailed from Hamburg a Jew diamond merchant.”<e>The book sadly does not elaborate on his Jew costume.</e>
 e:scudder=smirking
 
 “In Norway I was an English student of Ibsen collecting materials for lectures, but when I left Bergen I was a cinema-man with special ski films.”
@@ -361,7 +370,7 @@ e:scudder=fearful
 The recollection seemed to upset him, and he gulped down some more whisky.
 s=
 
-“Then I saw a man standing in the street outside this block. I used to stay close in my room all day, and only slip out after dark for an hour or two.”<e>There are seven uses of "an hour or two" in this short little book. Now you'll notice every time it comes up too. (I <i>love</i> picking on authors who accidentally tip their hand with some repeated crutch phrase that gives all their characters the same voice.)</e>
+“Then I saw a man standing in the street outside this block. I used to stay close in my room all day, and only slip out after dark for an hour or two.”<e>Get ready for the phrase "an X or two" to be repeated ad nauseam throughout this short little book.</e>
 s=scudder
 
 “I watched him for a bit from my window, and I thought I recognized him… He came in and spoke to the porter…”
@@ -439,7 +448,7 @@ e:scudder=wary
 “You’ll have to take me on trust for the night, and tomorrow you’ll get proof of the corpse business right enough.”
 
 
-I thought for an instant or two.<e>Actually forget just "an hour or two". There are <b>26</b> instances of "a/an <word> or two" in this book. Vary your language better, Buchan.</e>
+I thought for an instant or two.
 s=;e:hannay=thinking
 
 “Right. I’ll trust you for the night.”
@@ -448,10 +457,10 @@ s=hannay;e:hannay=neutral
 “I’ll lock you into this room and keep the key. Just one word, Mr. Scudder.”
 e:hannay=thinking
 
-“I believe you’re straight, but if so be you are not I should warn you that I’m a handy man with a gun.”<e>Ah come on now, Buchan. You can't write that.</e>
+“I believe you’re straight, but if so be you are not I should warn you that I’m a handy man with a gun.”<e>"If so be you are gay…"</e>
 e:scudder=wary
 
-“Sure,” he said, jumping up with some briskness. “I haven’t the privilege of your name, sir, but let me tell you that you’re a white man.”<e>That's even worse!</e>
+“Sure,” he said, jumping up with some briskness. “I haven’t the privilege of your name, sir, but let me tell you that you’re a white man.”<e>Heh heh… white.</e>
 s=scudder;e:scudder=excited
 
 “I’ll thank you to lend me a razor.”
@@ -463,17 +472,17 @@ s=;b=flat-room
 In half an hour’s time a figure came out that I scarcely recognized. Only his gimlety, hungry eyes were the same.
 e:hannay=surprised;b=flat
 
-He was shaved clean, his hair was parted in the middle, and he had cut his eyebrows.<e>Peter O'Toole.</e>
-c=,scudder;a:scudder=shaved
+He was shaved clean, his hair was parted in the middle, and he had cut his eyebrows.<e>The part of Scudder will now be played by Peter O'Toole.</e>
+c=scudder,;a:scudder=shaved
 
-Further, he carried himself as if he had been drilled, and was the very model, even to the brown complexion, of some British officer who had had a long spell in India.<e>Is the implication he put brown-face on?</e>
+Further, he carried himself as if he had been drilled, and was the very model, even to the brown complexion, of some British officer who had had a long spell in India.
 
 
 He had a monocle, too, which he stuck in his eye, and every trace of the American had gone out of his speech.
 e:scudder=neutral
 
 “My hat! Mr. Scudder—” I stammered.
-s=hannay;c=hannay,scudder
+s=hannay;c=scudder,hannay
 
 “Not Mr. Scudder,” he corrected; “Captain Theophilus Digby, of the 40th Gurkhas, presently home on leave.”
 s=scudder;e:scudder=scowling
@@ -493,8 +502,8 @@ r=card
 I woke next morning to hear my man, Paddock, making the deuce of a row at the smoking-room door.
 n:paddock=Paddock;e:paddock=angry;e:hannay=weary;b=flat
 
-Paddock was a fellow I had done a good turn to out on the Selakwe, and I had inspanned him as my servant as soon as I got to England.<e>The word "inspan" is apparently a South African regionalism, so well done.</e>
-b=think;c=paddock
+Paddock was a fellow I had done a good turn to out on the Selakwe, and I had inspanned him as my servant as soon as I got to England.<e>The word "inspan" is apparently a South African regionalism, so that's lore-accurate.</e>
+b=light;c=paddock
 
 He had about as much gift of the gab as a hippopotamus, and was not a great hand at valeting, but I knew I could count on his loyalty.
 
@@ -512,7 +521,7 @@ Nobody had got to know he was here, or he would be besieged by communications fr
 
 
 I am bound to say Scudder played up splendidly when he came to breakfast.
-e:scudder=neutral;c=scudder;e:scudder=scowling
+e:scudder=neutral;c=scudder;e:scudder=scowling;b=light
 
 He fixed Paddock with his eyeglass, just like a British officer, asked him about the Boer War, and slung out at me a lot of stuff about imaginary pals.
 
@@ -524,10 +533,10 @@ I left him with the newspaper and a box of cigars, and went down to the city til
 b=london;c=
 
 When I got back the lift-man had an important face.
-b=flat-lobby;n:liftman=Lift-Man;c=hannay,liftman
+b=flat-lobby;n:liftman=Lift-Man;
 
 “Nawsty business ’ere this morning, Sir.”
-s=liftman;e:hannay=wary
+s=liftman;e:hannay=wary;c=hannay,liftman
 
 “Gent in No. 15 been and shot ’isself. They’ve just took ’im to the mortiary. The police are up there now.”
 
@@ -550,7 +559,7 @@ The jury found it a case of suicide while of unsound mind, and the few effects w
 I gave Scudder a full account of the affair, and it interested him greatly.
 s=;e:scudder=excited;b=flat
 
-He said he wished he could have attended the inquest, for he reckoned it would be about as spicy as to read one’s own obituary notice.<e>Almost reminds me of a better book. An <book>Tom Sawyer|American</book> book.</e>
+He said he wished he could have attended the inquest, for he reckoned it would be about as spicy as to read one’s own obituary notice.<e>Almost reminds me of a better book. An <book>Tom Sawyer|American</book> book. (Soon…)</e>
 b=think
 
 The first two days he stayed with me in that back room he was very peaceful.
@@ -592,16 +601,16 @@ e:scudder=thinking
 “Say, Hannay,” he said, “I judge I should let you a bit deeper into this business. I should hate to go out without leaving somebody else to put up a fight.”
 s=scudder
 
-And he began to tell me in detail what I had only heard from him vaguely.<e>Huh, we really are circling back to getting more details. I thought he'd be dead by now.</e>
+And he began to tell me in detail what I had only heard from him vaguely.
 s=
 
-I did not give him very close attention. The fact is, I was more interested in his own adventures than in his high politics.<e>The f&#9472;&#9472;&#9472; do you mean you didn't pay close attention. What kind of contrivance is that?</e>
+I did not give him very close attention. The fact is, I was more interested in his own adventures than in his high politics.<e>Caught up in global conspiracies and dealing with the constant looming threat of murder. Chooses not to pay attention. What a gigachad himbo protagonist.</e>
 e:hannay=weary
 
 I reckoned that Karolides and his affairs were not my business, leaving all that to him.
 
 
-So a lot that he said slipped clean out of my memory.<e>How compelling.</e>
+So a lot that he said slipped clean out of my memory.
 
 
 I remember that he was very clear that the danger to Karolides would not begin till he had got to London, and would come from the very highest quarters, where there would be no thought of suspicion.
@@ -622,7 +631,7 @@ He spoke a good deal about death, too. He was mortally anxious about winning thr
 “I reckon it’s like going to sleep when you are pretty well tired out, and waking to find a summer day with the scent of hay coming in at the window.”
 s=scudder;e:scudder=weary;b=flat
 
-“I used to thank God for such mornings way back in the bluegrass country, and I guess I’ll thank Him when I wake up on the other side of Jordan.”<e>Buchan really likes reminding the reader where his characters are from.</e>
+“I used to thank God for such mornings way back in the bluegrass country, and I guess I’ll thank Him when I wake up on the other side of Jordan.”<e>Buchan <b>loves</b> clunkily reminding the reader where his characters are from.</e>
 e:scudder=thinking
 
 Next day he was much more cheerful, and read the life of Stonewall Jackson much of the time.
@@ -640,7 +649,7 @@ e:hannay=confused;b=flat-smoking-room-murder-mod-dark;f:b:flat-smoking-room-murd
 I snapped the switch, but there was nobody there. Then I saw something in the far corner which made me drop my cigar and fall into a cold sweat.
 e:hannay=fearful;f:b:flat-smoking-room-murder-mod-dark=
 
-My guest was lying sprawled on his back. There was a long knife through his heart which skewered him to the floor.<e>Wow it's like a real visual novel now!</e>
+My guest was lying sprawled on his back. There was a long knife through his heart which skewered him to the floor.<e>Almost like a real visual novel!</e>
 b=flat-smoking-room-murder-mod-pink
 
 ## II. The Milkman Sets Out on His Travels
@@ -652,20 +661,20 @@ e:hannay=fearful;b=flat
 That lasted for maybe five minutes, and was succeeded by a fit of the horrors.
 
 
-The poor staring white face on the floor was more than I could bear, and I managed to get a tablecloth and cover it.
+The poor staring white face on the floor was more than I could bear, and I managed to get a tablecloth and cover it.<e>Not actually committing to the pink bit.</e>
 e:hannay=unhappy;b=flat-smoking-room-murder-mod-cloth
 
 Then I staggered to a cupboard, found the brandy and swallowed several mouthfuls. I had seen men die violently before; indeed I had killed a few myself in the Matabele War; but this cold-blooded indoor business was different.
-b=flat
+
 
 Still I managed to pull myself together. I looked at my watch, and saw that it was half-past ten.
 e:hannay=weary
 
 An idea seized me, and I went over the flat with a small-tooth comb.<e>They hadn't quite nailed down the phrase in 1915.</e>
-e:hannay=thinking
+e:hannay=thinking;b=flat
 
 There was nobody there, nor any trace of anybody, but I shuttered and bolted all the windows and put the chain on the door.
-b=think
+
 
 By this time my wits were coming back to me, and I could think again.
 e:hannay=neutral;b=flat
@@ -712,7 +721,7 @@ e:hannay=thinking
 They were clever enough for anything, and an English prison was as good a way of getting rid of me till after June 15th as a knife in my chest.
 
 
-Besides, if I told the whole story, and by any miracle was believed, I would be playing their game. Karolides would stay at home, which was what they wanted.<e>So you're just going along with that too, huh.</e>
+Besides, if I told the whole story, and by any miracle was believed, I would be playing their game. Karolides would stay at home, which was what they wanted.<e>What a dumbass.</e>
 
 
 Somehow or other the sight of Scudder’s dead face had made me a passionate believer in his scheme.<e>"Somehow".</e>
@@ -736,7 +745,7 @@ I must vanish somehow, and keep vanished till the end of the second week in June
 Then I must somehow find a way to get in touch with the government people and tell them what Scudder had told me.<e>"The government people".</e>
 
 
-I wished to Heaven he had told me more, and that I had listened more carefully to the little he had told me.<e>Four whole days alone with this guy.</e>
+I wished to Heaven he had told me more, and that I had listened more carefully to the little he had told me.
 e:hannay=unhappy
 
 I knew nothing but the barest facts. There was a big risk that, even if I weathered the other dangers, I would not be believed in the end.
@@ -793,7 +802,7 @@ Scudder would never have left them in that state, for he was the tidiest of mort
 Someone must have been searching for something—perhaps for the pocketbook.
 e:hannay=thinking
 
-I went round the flat and found that everything had been ransacked—the inside of books, drawers, cupboards, boxes, even the pockets of the clothes in my wardrobe, and the sideboard in the dining-room.<e>I guess that's why you don't search "with a small-tooth comb" if you're only now noticing all this.</e>
+I went round the flat and found that everything had been ransacked—the inside of books, drawers, cupboards, boxes, even the pockets of the clothes in my wardrobe, and the sideboard in the dining-room.<e>Already went over the place "with a small-tooth comb" by the way.</e>
 b=flat
 
 There was no trace of the book. Most likely the enemy had found it, but they had not found it on Scudder’s body.
@@ -806,9 +815,9 @@ My notion was to get off to some wild district, where my veldcraft would be of s
 
 
 I considered that Scotland would be best, for my people were Scotch and I could pass anywhere as an ordinary Scotsman.
+b=mapS
 
-
-I had half an idea at first to be a German tourist, for my father had had German partners, and I had been brought up to speak the tongue pretty fluently, not to mention having put in three years prospecting for copper in German Damaraland.<e>Damaraland was a region in what's now the north-west of Namibia. (I had to look it up.)</e>
+I had half an idea at first to be a German tourist, for my father had had German partners, and I had been brought up to speak the tongue pretty fluently, not to mention having put in three years prospecting for copper in German Damaraland.
 b=mapA
 
 But I calculated that it would be less conspicuous to be a Scot, and less in a line with what the police might know of my past.
@@ -820,14 +829,14 @@ b=mapS
 It was the nearest wild part of Scotland, so far as I could figure it out, and from the look of the map was not over thick with population.
 
 
-A search in Bradshaw informed me that a train left St. Pancras at 7:10, which would land me at any Galloway station in the late afternoon.<e>Referring to Bradshaw's Railway Guides. (This one's actually useful to know, since it comes up a lot: <a href="https://en.wikipedia.org/wiki/Bradshaw%27s_Guide#References_in_literature">https://en.wikipedia.org/wiki/Bradshaw%27s_Guide#References_in_literature</a>.)</e>
+A search in Bradshaw informed me that a train left St. Pancras at 7:10, which would land me at any Galloway station in the late afternoon.<e>Referring to Bradshaw's Railway Guides. (Comes up a lot in books actually: <a href="https://en.wikipedia.org/wiki/Bradshaw%27s_Guide#References_in_literature">https://en.wikipedia.org/wiki/Bradshaw's_Guide#References_in_literature</a>.)</e>
 
 
 That was well enough, but a more important matter was how I was to make my way to St. Pancras, for I was pretty certain that Scudder’s friends would be watching outside.
 e:hannay=wary;b=flat
 
 This puzzled me for a bit; then I had an inspiration, on which I went to bed and slept for two troubled hours.<e>And he was murdered in his sleep — The End.</e>
-e:hannay=thinking
+e:hannay=thinking;b=dream
 
 I got up at four and opened my bedroom shutters.
 e:hannay=weary;b=flat-room
@@ -848,7 +857,7 @@ I was not feeling in any particular funk; only disinclined to go looking for tro
 
 
 I hunted out a well-used tweed suit, a pair of strong nailed boots, and a flannel shirt with a collar.
-b=think
+b=light
 
 Into my pockets I stuffed a spare shirt, a cloth cap, some handkerchiefs, and a toothbrush.
 
@@ -857,10 +866,10 @@ I had drawn a good sum in gold from the bank two days before, in case Scudder sh
 
 
 That was about all I wanted. Then I had a bath, and cut my moustache, which was long and drooping, into a short stubbly fringe.
-a:hannay=c1
+a:hannay=c1;e:hannay=;c=hannay
 
 Now came the next step. Paddock used to arrive punctually at 7:30 and let himself in with a latchkey.
-e:hannay=thinking;b=flat
+e:hannay=thinking;b=flat;c=
 
 But about twenty minutes to seven, as I knew from bitter experience, the milkman turned up with a great clatter of cans, and deposited my share outside my door.
 
@@ -874,7 +883,7 @@ He was a young man about my own height, with an ill-nourished moustache, and he 
 On him I staked all my chances.
 
 
-I went into the darkened smoking-room where the rays of morning light were beginning to creep through the shutters. There I breakfasted off a whisky-and-soda and some biscuits from the cupboard.<e><i>Biscuits</i> for breakfast <i>in the smoking-room</i>? Order has collapsed! (No but really, why is he breakfasting in the murder room?)</e>
+I went into the darkened smoking-room where the rays of morning light were beginning to creep through the shutters. There I breakfasted off a whisky-and-soda and some biscuits from the cupboard.<e>Look I just arrange the images here. I don't know why he's choosing to breakfast in the murder room.</e>
 b=flat-smoking-room-murder-mod-cloth
 
 By this time it was getting on for six o’clock.
@@ -923,7 +932,7 @@ And I led him into the dining-room.
 s=;b=flat;c=
 
 “I reckon you’re a bit of a sportsman,” I said, “and I want you to do me a service. Lend me your cap and overall for ten minutes, and here’s a sovereign for you.”
-s=hannay;e:hannay=smirking;c=milkman,hannay
+s=hannay;e:hannay=smirking
 
 His eyes opened at the sight of the gold, and he grinned broadly.
 s=;e:milkman=happy
@@ -941,7 +950,7 @@ s=hannay;e:hannay=neutral
 s=milkman;e:milkman=excited
 
 I stuck on his flat blue hat and his white overall, picked up the cans, banged my door, and went whistling downstairs.
-s=;c=;a:hannay=c2;b=think
+s=;c=;a:hannay=c2;b=light
 
 The porter at the foot told me to shut my jaw, which sounded as if my makeup was adequate.
 n:porter=Porter;s=;e:porter=angry;b=flat-lobby
@@ -977,7 +986,7 @@ At the moment the clock of a neighbouring church struck the hour of seven.
 
 
 There was not a second to spare. As soon as I got to Euston Road I took to my heels and ran.
-e:hannay=excited;b=think
+e:hannay=excited;b=zoom
 
 The clock at Euston Station showed five minutes past the hour.
 b=euston-station
@@ -992,7 +1001,7 @@ Two station officials blocked the way, but I dodged them and clambered into the 
 e:hannay=wary
 
 Three minutes later, as we were roaring through the northern tunnels, an irate guard interviewed me.
-n:guard=Guard;e:guard=angry;b=think
+n:guard=Guard;e:guard=angry;b=light
 
 He wrote out for me a ticket to Newton-Stewart, a name which had suddenly come back to my memory, and he conducted me from the first-class compartment where I had ensconced myself to a third-class smoker, occupied by a sailor and a stout woman with a child.
 n:woman=Fat Woman;n:sailor=Sailor;e:guard=scowling
