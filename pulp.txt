@@ -3659,7 +3659,7 @@ So I must lie up a day somewhere, for I was too outrageous a figure to be seen i
 e:hannay=thinking
 
 I had neither coat, waistcoat, collar, nor hat, my trousers were badly torn, and my face and hands were black with the explosion.
-b=think;c=hannay;e:hannay=weary
+b=light;c=hannay;e:hannay=weary
 
 I daresay I had other beauties, for my eyes felt as if they were furiously bloodshot.
 
@@ -3736,7 +3736,7 @@ e:hannay=confused;s=
 But he recognized me, and he saw that I was ill.
 e:turnbull=surprised
 
-“Hae ye got my specs?” he asked.<e>On one hand it's funny that that's his first question. On the other, I'd want my specs back too, so I get it.</e>
+“Hae ye got my specs?” he asked.<e>Best character.</e>
 s=turnbull
 
 I fetched them out of my trouser pocket and gave him them.
@@ -3763,8 +3763,8 @@ e:hannay=happy
 His wife was dead years ago, and since his daughter’s marriage he lived alone.
 
 
-For the better part of ten days he did all the rough nursing I needed.<e>Ten day time skip! What a way to get closer to the June 15th date. You know Buchan, you could have just shortened the timeline.</e>
-a:hannay=cleanplaid
+For the better part of ten days he did all the rough nursing I needed.<e>Ten day time skip! What a way to get closer to the June 15th date. (Buchan, you could have just shortened the timeline.)</e>
+a:hannay=cleanplaid;b=light
 
 I simply wanted to be left in peace while the fever took its course, and when my skin was cool again I found that the bout had more or less cured my shoulder.
 
@@ -3784,26 +3784,29 @@ e:hannay=thinking
 There was no mention of it, and I could find very little about anything except a thing called the General Assembly—some ecclesiastical spree, I gathered.
 
 
-One day he produced my belt from a lockfast drawer. “There’s a terrible heap o’ siller in’t,” he said.
-s=turnbull;e:turnbull=surprised
+One day he produced my belt from a lockfast drawer.
+
+
+“There’s a terrible heap o’ siller in’t,” he said.
+s=turnbull;e:turnbull=surprised;c=turnbull
 
 “Ye’d better coont it to see it’s a’ there.”
 
 
 He never even sought my name.<e>Ten days.</e>
-s=
+s=;c=
 
 I asked him if anybody had been around making inquiries subsequent to my spell at the road-making.
 s=;e:hannay=wary
 
 “Ay, there was a man in a motor-cawr. He speired whae had ta’en my place that day, and I let on I thocht him daft.”
-s=turnbull;e:turnbull=smirking
+s=turnbull;e:turnbull=smirking;c=turnbull
 
 “But he keepit on at me, and syne I said he maun be thinkin’ o’ my gude-brither frae the Cleuch that whiles lent me a haun’. He was a wersh-lookin’ sowl, and I couldna understand the half o’ his English tongue.”
 e:turnbull=thinking
 
 I was getting restless those last days, and as soon as I felt myself fit I decided to be off.
-s=;e:hannay=thinking
+s=;e:hannay=thinking;c=
 
 That was not till the twelfth day of June, and as luck would have it a drover went past that morning taking some cattle to Moffat.
 b=light
@@ -3818,7 +3821,7 @@ There never was a more independent being. He grew positively rude when I pressed
 c=
 
 When I told him how much I owed him, he grunted something about “ae guid turn deservin’ anither.”
-s=turnbull;e:turnbull=neutral;c=
+s=;e:turnbull=neutral;c=
 
 You would have thought from our leave-taking that we had parted in disgust.
 s=;b=light
@@ -3850,7 +3853,7 @@ b=light
 The night express for the south was not due till near midnight, and to fill up the time I went up on the hillside and fell asleep, for the walk had tired me.
 e:hannay=weary;b=dream
 
-I all but slept too long, and had to run to the station and catch the train with two minutes to spare.<e>Our intrepid protagonist.</e>
+I all but slept too long, and had to run to the station and catch the train with two minutes to spare.
 e:hannay=excited;b=zoom
 
 The feel of the hard third-class cushions and the smell of stale tobacco cheered me up wonderfully.
@@ -3893,7 +3896,7 @@ I fell to whistling as I looked into the green depths, and the tune which came t
 
 
 A fisherman came up from the waterside, and as he neared me he too began to whistle.
-n:bullivant=Fisherman;e:bullivant=;e:hannay=surprised;c=bullivant,;a:bullivant=fisherman
+n:bullivant=Fisherman;e:bullivant=;e:hannay=surprised;c=,bullivant;a:bullivant=fisherman
 
 The tune was infectious, for he followed my suit. He was a huge man in untidy old flannels and a wide-brimmed hat, with a canvas bag slung on his shoulder.
 
@@ -3905,7 +3908,7 @@ He leaned his delicate ten-foot split-cane rod against the bridge, and looked wi
 c=
 
 “Clear, isn’t it?” he said pleasantly.
-s=bullivant;c=bullivant,hannay;e:hannay=
+s=bullivant;c=hannay,bullivant;e:hannay=
 
 “I back our Kenner any day against the Test. Look at that big fellow. Four pounds if he’s an ounce. But the evening rise is over and you can’t tempt ’em.”
 
@@ -3920,21 +3923,21 @@ s=bullivant;e:bullivant=excited
 s=hannay;e:hannay=smirking
 
 “So,” he said, and whistled another bar of “Annie Laurie.”
-s=bullivant;e:bullivant=
+s=;e:bullivant=;c=
 
 “Twisdon’s the name, isn’t it?” he said over his shoulder, his eyes still fixed on the stream.
-e:bullivant=smirking
+e:bullivant=smirking;c=bullivant;s=bullivant
 
 “No,” I said. “I mean to say, Yes.”<e>D'oh!</e>
-s=hannay;e:hannay=wary
+s=hannay;e:hannay=wary;c=hannay
 
 I had forgotten all about my alias.
 s=
 
 “It’s a wise conspirator that knows his own name,” he observed, grinning broadly at a moorhen that emerged from the bridge’s shadow.
-s=bullivant;e:bullivant=happy
+s=bullivant;e:bullivant=happy;c=bullivant
 
-I stood up and looked at him, at the square, cleft jaw and broad, lined brow and the firm folds of cheek, and began to think that here at last was an ally worth having.<e>Just throwing everyone else who helped under the bus.</e>
+I stood up and looked at him, at the square, cleft jaw and broad, lined brow and the firm folds of cheek, and began to think that here at last was an ally worth having.<e>Just throwing Turnbull under the bus? And I thought you were cool, Hannay.</e>
 s=;e:hannay=thinking;c=bullivant
 
 His whimsical blue eyes seemed to go very deep.
@@ -3970,7 +3973,7 @@ n:butler=Butler;e:butler=neutral
 “Come this way, sir,” he said, and he led me along a passage and up a back staircase to a pleasant bedroom looking towards the river.
 s=butler
 
-There I found a complete outfit laid out for me—dress clothes with all the fixings, a brown flannel suit, shirts, collars, ties, shaving things and hairbrushes, even a pair of patent shoes.<e>Why do there have to be so many changes of clothing in such a short book. Every one requires sprite regenerations.</e>
+There I found a complete outfit laid out for me—dress clothes with all the fixings, a brown flannel suit, shirts, collars, ties, shaving things and hairbrushes, even a pair of patent shoes.<e>So many changes of clothing for such a short book. Every one requires sprite regenerations!</e>
 s=;b=cottage2-bedroom
 
 “Sir Walter thought as how Mr. Reggie’s things would fit you, Sir,” said the butler.
@@ -3989,10 +3992,10 @@ Obviously Sir Walter believed in me, though why he did I could not guess.
 e:hannay=thinking
 
 I looked at myself in the mirror and saw a wild, haggard brown fellow, with a fortnight’s ragged beard, and dust in ears and eyes, collarless, vulgarly shirted, with shapeless old tweed clothes and boots that had not been cleaned for the better part of a month.
-
+b=light;c=hannay;e:hannay=
 
 I made a fine tramp and a fair drover; and here I was ushered by a prim butler into this temple of gracious ease.
-
+c=;b=cottage2-bedroom
 
 And the best of it was that they did not even know my name.
 
@@ -4004,7 +4007,7 @@ I shaved and bathed luxuriously, and got into the dress clothes and clean crackl
 b=light
 
 By the time I had finished the looking-glass showed a not unpersonable young man.
-e:hannay=smirking;b=cottage2-bedroom;c=hannay;a:hannay=cF
+e:hannay=;c=hannay;a:hannay=cF;b=light
 
 Sir Walter awaited me in a dusky dining-room where a little round table was lit with silver candles.
 n:bullivant=Sir Walter Bullivant;e:bullivant=neutral;b=cottage2-dining;c=;a:bullivant=
@@ -4054,7 +4057,7 @@ s=bullivant
 I noticed with a start that he called me by my proper name.
 s=;e:hannay=surprised
 
-I began at the very beginning. I told of my boredom in London, and the night I had come back to find Scudder gibbering on my doorstep.<e>You told him about the boredom part? I don't think he needed the very very beginning.</e>
+I began at the very beginning. I told of my boredom in London, and the night I had come back to find Scudder gibbering on my doorstep.<e>Don't skimp on the boredom details now.</e>
 s=;e:hannay=excited;b=flat;f:b:flat=blur(5px)
 
 I told him all Scudder had told me about Karolides and the Foreign Office conference, and that made him purse his lips and grin.
@@ -4162,10 +4165,10 @@ s=bullivant
 “If only I had more confidence in Scudder’s judgement. The trouble about him was that he was too romantic. He had the artistic temperament, and wanted a story to be better than God meant it to be.”
 e:bullivant=thinking
 
-“He had a lot of odd biases, too. Jews, for example, made him see red. Jews and the high finance.”<e>Well "odd biases" strikes me as editorializing, but it's Buchan's book.</e>
+“He had a lot of odd biases, too. Jews, for example, made him see red. Jews and the high finance.”<e>Well "odd biases" strikes me as editorializing. But it's your book, Buchan.</e>
 
 
-“The Black Stone,” he repeated. “*Der Schwarzestein.* It’s like a penny novelette.”<e>Authors should be banned from doing this.</e>
+“The Black Stone,” he repeated. “*Der Schwarzestein.* It’s like a penny novelette.”<e>Authors should be banned from doing this kind of joke.</e>
 e:bullivant=smirking
 
 “And all this stuff about Karolides. That is the weak part of the tale, for I happen to know that the virtuous Karolides is likely to outlast us both.”
@@ -4186,7 +4189,7 @@ e:bullivant=serious
 Just then the butler entered the room.
 s=;e:butler=neutral
 
-“There’s a trunk-call from London, Sir Walter. It’s Mr. ’Eath, and he wants to speak to you personally.”<e>This is Bullivant's other house, so this is probably a different butler, but I'm reusing the sprite.</e>
+“There’s a trunk-call from London, Sir Walter. It’s Mr. ’Eath, and he wants to speak to you personally.”
 s=butler
 
 My host went off to the telephone.
@@ -4198,7 +4201,7 @@ s=;e:bullivant=serious
 “I apologize to the shade of Scudder,” he said.
 s=bullivant
 
-“Karolides was shot dead this evening at a few minutes after seven.”<e>So with this, there's not even the out that this whole thing is secret history as opposed to alternate history. Since if the prime minister of Greece is dead, we <i>must</i> be in a different timeline. Which again I think makes this book way weirder than it's typically presented as online.</e>
+“Karolides was shot dead this evening at a few minutes after seven.”<e>Okay then, so we're definitely in an alternate timeline now. Put a pin in that.</e>
 e:bullivant=fearful;e:hannay=fearful
 
 ## VIII. The Coming of the Black Stone
@@ -4219,7 +4222,7 @@ s=bullivant
 “This wire clinches it. He will be in London at five.”
 e:bullivant=neutral
 
-“Odd that the code word for a *Sous-chef d’état Major Général* should be ‘Porker.’ ”<e>The Brits can't help themselves taking swipes at France too.</e>
+“Odd that the code word for a *Sous-chef d’état Major Général* should be ‘Porker.’ ”<e>Take <i>that</i>, France.</e>
 e:bullivant=smirking
 
 He directed me to the hot dishes and went on.
@@ -4319,7 +4322,7 @@ The first thing he did was to take me round to Scotland Yard. There we saw a pri
 b=yard
 
 “I’ve brought you the Portland Place murderer,” was Sir Walter’s introduction.
-s=bullivant;e:bullivant=smirking;c=hannay,bullivant,,
+s=bullivant;e:bullivant=smirking;c=hannay,bullivant,,;v=100,120
 
 The reply was a wry smile.
 n:macgillivray=?;e:macgillivray=smirking;c=hannay,bullivant,,macgillivray;e:hannay=wary;s=
@@ -4346,13 +4349,13 @@ This assurance was promptly given.
 s=;e:macgillivray=neutral;e:hannay=
 
 “You can take up your life where you left off,” I was told. “Your flat, which probably you no longer wish to occupy, is waiting for you, and your man is still there.”
-s=macgillivray
+s=macgillivray;b=flat;c=
 
 “As you were never publicly accused, we considered that there was no need of a public exculpation. But on that, of course, you must please yourself.”
 
 
 “We may want your assistance later on, MacGillivray,” Sir Walter said as we left.
-s=bullivant;c=
+b=yard;s=bullivant;c=
 
 Then he turned me loose.
 s=;n:macgillivray=MacGillivray;b=light
@@ -4360,7 +4363,7 @@ s=;n:macgillivray=MacGillivray;b=light
 “Come and see me tomorrow, Hannay.”
 s=bullivant;e:bullivant=happy
 
-“I needn’t tell you to keep deadly quiet. If I were you I would go to bed, for you must have considerable arrears of sleep to overtake.”<e>I know I hate having arrears of sleep.</e>
+“I needn’t tell you to keep deadly quiet. If I were you I would go to bed, for you must have considerable arrears of sleep to overtake.”<e>I hate having arrears of sleep.</e>
 
 
 “You had better lie low, for if one of your Black Stone friends saw you there might be trouble.”
@@ -4402,7 +4405,7 @@ e:hannay=unhappy
 It was not likely that Cabinet ministers and Admiralty Lords and generals would admit me to their councils.
 
 
-I actually began to wish that I could run up against one of my three enemies.<e>Seeing as how Hannay hasn't done anything proactively throughout the entire book, just happening to run up against them does seem pretty probable.</e>
+I actually began to wish that I could run up against one of my three enemies.<e>Well I've got good news based on the kind of book you're in.</e>
 e:hannay=angry
 
 That would lead to developments. I felt that I wanted enormously to have a vulgar scrap with those gentry, where I could hit out and flatten something. I was rapidly getting into a very bad temper.
@@ -4436,7 +4439,7 @@ They were in evening dress, had been dining somewhere, and were going on to a mu
 
 
 One of them was Mr. Marmaduke Jopley.
-e:jopley=;c=jopley
+e:jopley=;c=jopley;v=100,100
 
 He saw me and stopped short.
 e:jopley=surprised
@@ -4460,7 +4463,7 @@ But a delay at that moment seemed to me unendurable, and the sight of Marmie’s
 
 
 I let out with my left, and had the satisfaction of seeing him measure his length in the gutter.
-e:hannay=excited;c=;
+e:hannay=excited;c=;b=action
 
 Then began an unholy row. They were all on me at once, and the policeman took me in the rear.<e>Heh heh heh.</e>
 b=action
@@ -4496,7 +4499,7 @@ I have a very fair turn of speed, and that night I had wings.
 
 
 In a jiffy I was in Pall Mall and had turned down towards St. James’s Park.
-b=think
+b=light
 
 I dodged the policeman at the Palace gates, dived through a press of carriages at the entrance to the Mall, and was making for the bridge before my pursuers had crossed the roadway.
 
@@ -4505,7 +4508,7 @@ In the open ways of the Park I put on a spurt.
 b=zoom
 
 Happily there were few people about and no one tried to stop me. I was staking all on getting to Queen Anne’s Gate.
-b=think
+b=light
 
 When I entered that quiet thoroughfare it seemed deserted.
 e:hannay=wary;b=gate
@@ -4531,7 +4534,7 @@ s=
 Without moving a muscle he held the door open, and then shut it behind me.
 b=anne-house
 
-“Sir Walter is engaged, sir, and I have orders to admit no one. Perhaps you will wait.”
+“Sir Walter is engaged, sir, and I have orders to admit no one. Perhaps you will wait.”<e>This is Bullivant's other house, so this is probably a different butler, but I'm reusing the sprite.</e>
 s=butler
 
 The house was of the old-fashioned kind, with a wide hall and rooms on both sides of it.
@@ -4565,9 +4568,9 @@ While he was taking off his coat I saw who it was.
 e:hannay=surprised
 
 You couldn’t open a newspaper or a magazine without seeing that face—the grey beard cut like a spade, the firm fighting mouth, the blunt square nose, and the keen blue eyes.
-n:fat=First Sea Lord Alloa;a:fat=alloa;c=fat
+n:fat=First Sea Lord Alloa;a:fat=alloa;c=fat;v=100,110
 
-I recognized the First Sea Lord, the man, they say, that made the new British Navy.<e>If you don't know what a First Sea Lord is and decide to Wikipedia it, you'll find the article contains spoilers for <b>this book</b>. What the hell Wikipedia?</e>
+I recognized the First Sea Lord, the man, they say, that made the new British Navy.<e>If you don't know what a First Sea Lord is and decide to Wikipedia it, you'll find the article contains spoilers for <b>this book</b>. Not cool, Wikipedia.</e>
 
 
 He passed my alcove and was ushered into a room at the back of the hall.
