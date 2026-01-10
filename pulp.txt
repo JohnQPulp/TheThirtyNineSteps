@@ -2314,7 +2314,7 @@ b=hill
 I have said there was not cover in the whole place to hide a rat.
 e:hannay=wary
 
-As the day advanced it was flooded with soft fresh light till it had the fragrant sunniness of the South African veld.<e>"Oh yeah, the sun that's outside? That reminds me of how we used to have a sun back in South Africa. I'm from there. Well from Rhodesia really. But it's no big deal or anything."</e>
+As the day advanced it was flooded with soft fresh light till it had the fragrant sunniness of the South African veld.
 
 
 At other times I would have liked the place, but now it seemed to suffocate me.
@@ -2375,7 +2375,7 @@ Then in a tiny bight of road, beside a heap of stones, I found the roadman.
 n:turnbull=Groundskeeper Willie;e:hannay=surprised;b=glen-road
 
 He had just arrived, and was wearily flinging down his hammer.
-c=turnbull,
+c=turnbull,;z=turnbull:95;v=120,90
 
 He looked at me with a fishy eye and yawned.
 e:turnbull=weary;c=turnbull,hannay
@@ -2384,10 +2384,10 @@ e:turnbull=weary;c=turnbull,hannay
 s=turnbull;e:turnbull=unhappy
 
 He took up the hammer, struck a stone, dropped the implement with an oath, and put both hands to his ears.
-s=;e:turnbull=angry
+s=;e:turnbull=angry;c=
 
 “Mercy on me! My heid’s burstin’!” he cried.
-s=turnbull;e:turnbull=weary;c=turnbull
+s=turnbull;e:turnbull=weary;c=turnbull,
 
 He was a wild figure, about my own size but much bent, with a week’s beard on his chin, and a pair of big horn spectacles.
 s=
@@ -2429,7 +2429,7 @@ He stared at me blankly; then, as the notion dawned on his fuddled brain, his fa
 s=;e:turnbull=happy;c=
 
 “You’re the billy,” he cried. “It’ll be easy eneuch managed. I’ve finished that bing o’ stanes, so you needna chap ony mair this forenoon.”
-s=turnbull;c=turnbull
+s=turnbull;c=turnbull;v=
 
 “Just take the barry, and wheel eneuch metal frae yon quarry doon the road to mak anither bing the morn. My name’s Alexander Turnbull, and I’ve been seeven year at the trade, and twenty afore that herdin’ on Leithen Water.”
 e:turnbull=
@@ -2437,7 +2437,7 @@ e:turnbull=
 “My freens ca’ me Ecky, and whiles Specky, for I wear glesses, being waik i’ the sicht. Just you speak the Surveyor fair, and ca’ him sir, and he’ll be fell pleased. I’ll be back or midday.”
 e:turnbull=happy;n:turnbull=Groundskeeper Willie (Alexander Turnbull)
 
-I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home; borrowed, too, the foul stump of a clay pipe as an extra property.<e>I know why Hannay wants the spectacles, but why would Turnbull lend them out?</e>
+I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home; borrowed, too, the foul stump of a clay pipe as an extra property.
 s=;c=;a:hannay=c5
 
 He indicated my simple tasks, and without more ado set off at an amble bedwards.
@@ -2468,10 +2468,10 @@ I rubbed a good deal of dirt also into the sunburn of my cheeks.
 
 
 A roadman’s eyes would no doubt be a little inflamed, so I contrived to get some dust in both of mine, and by dint of vigorous rubbing produced a bleary effect.
-
+c=hannay;e:hannay=
 
 The sandwiches Sir Harry had given me had gone off with my coat, but the roadman’s lunch, tied up in a red handkerchief, was at my disposal.
-
+c=
 
 I ate with great relish several of the thick slabs of scone and cheese and drank a little of the cold tea.
 e:hannay=happy
@@ -2549,7 +2549,7 @@ A baker’s van breasted the hill, and sold me a bag of ginger biscuits which I 
 e:hannay=happy
 
 Then a herd passed with sheep, and disturbed me somewhat by asking loudly, “What had become o’ Specky?”
-n:herd=Herd;s=herd;e:herd=confused
+n:herd=Herd;s=;e:herd=confused
 
 “In bed wi’ the colic,” I replied, and the herd passed on.
 s=hannay;e:hannay=weary
@@ -2561,7 +2561,7 @@ Its three occupants descended as if to stretch their legs, and sauntered towards
 
 
 Two of the men I had seen before from the window of the Galloway inn—one lean, sharp, and dark, the other comfortable and smiling.
-b=glen-road;c=slim,,fat
+b=glen-road;c=slim,fat;v=100,80;z=fat:87
 
 The third had the look of a countryman—a vet, perhaps, or a small farmer.
 n:countryman=Countryman;c=countryman
@@ -2603,10 +2603,10 @@ One of the others had been looking at my boots, and a word in German called the 
 s=;e:slim=thinking
 
 “You’ve a fine taste in boots,” he said. “These were never made by a country shoemaker.”
-s=fat;c=fat;e:fat=serious
+s=fat;c=slim,fat;e:fat=serious
 
 “They were not,” I said readily. “They were made in London. I got them frae the gentleman that was here last year for the shootin’. What was his name now?”
-s=hannay;e:hannay=thinking
+s=hannay;e:hannay=thinking;e:slim=
 
 And I scratched a forgetful head. Again the sleek one spoke in German.
 e:fat=;s=
@@ -2621,7 +2621,7 @@ They asked one last question.
 c=;s=
 
 “Did you see anyone pass early this morning? He might be on a bicycle or he might be on foot.”
-s=countryman;e:countryman=serious;c=slim,countryman,fat
+s=countryman;e:countryman=serious;c=slim,countryman,fat;v=
 
 I very nearly fell into the trap and told a story of a bicyclist hurrying past in the grey dawn.
 s=;e:hannay=thinking
@@ -2675,13 +2675,13 @@ One man sat in it, and by an amazing chance I knew him.
 e:hannay=excited
 
 His name was Marmaduke Jopley, and he was an offence to creation.
-n:jopley=Marmaduke Jopley;e:hannay=angry;b=think;c=jopley
+n:jopley=Marmaduke Jopley;e:hannay=angry;b=light;c=jopley
 
 He was a sort of blood stockbroker, who did his business by toadying eldest sons and rich young peers and foolish old ladies.
 
 
 “Marmie” was a familiar figure, I understood, at balls and polo-weeks and country houses.
-b=think
+b=think;c=
 
 He was an adroit scandalmonger, and would crawl a mile on his belly to anything that had a title or a million.
 
@@ -2710,7 +2710,7 @@ s=;e:jopley=fearful
 “Who the devil are *you*?” he gasped.
 s=jopley
 
-“My name’s Hannay,” I said. “From Rhodesia, you remember.”<e>Ooh that's right. I do remember now, yes.</e>
+“My name’s Hannay,” I said. “From Rhodesia, you remember.”<e>You may have mentioned it once.</e>
 s=hannay;e:hannay=neutral
 
 “Good God, the murderer!” he choked.
@@ -2729,15 +2729,15 @@ I stuck the cap on my head, and added his gloves to my getup.
 
 
 The dusty roadman in a minute was transformed into one of the neatest motorists in Scotland.
-c=hannay
+c=hannay;b=light
 
 On Mr. Jopley’s head I clapped Turnbull’s unspeakable hat, and told him to keep it there.
-c=
+c=;b=glen-road
 
 Then with some difficulty I turned the car. My plan was to go back the road he had come, for the watchers, having seen it before, would probably let it pass unremarked, and Marmie’s figure was in no way like mine.
 e:hannay=thinking;b=light
 
-“Now, my child,” I said, “sit quite still and be a good boy. I mean you no harm. I’m only borrowing your car for an hour or two. But if you play me any tricks, and above all if you open your mouth, as sure as there’s a God above me I’ll wring your neck. *Savez?*”
+“Now, my child,” I said, “sit quite still and be a good boy. I mean you no harm. I’m only borrowing your car for an hour or two. But if you play me any tricks, and above all if you open your mouth, as sure as there’s a God above me I’ll wring your neck. *Savez?*”<e>(<i>Capiche?</i>)</e>
 s=hannay;e:hannay=smirking
 
 I enjoyed that evening’s ride. We ran eight miles down the valley, through a village or two, and I could not help noticing several strange-looking folk lounging by the roadside.
@@ -2750,7 +2750,7 @@ As it was, they looked incuriously on. One touched his cap in salute, and I resp
 
 
 As the dark fell I turned up a side glen which, as I remember from the map, led into an unfrequented corner of the hills.
-b=think
+b=light
 
 Soon the villages were left behind, then the farms, and then even the wayside cottage.
 
@@ -2816,7 +2816,7 @@ My thoughts hovered over all varieties of mortal edible, and finally settled on 
 
 
 In longing hopelessly for these dainties I fell asleep.
-e:hannay=weary;b=think
+e:hannay=weary;f:b:dream=brightness(85%)
 
 I woke very cold and stiff about an hour after dawn.
 b=moor-dark;f:b:moor-dark=
@@ -2887,7 +2887,7 @@ That seemed as good a direction to take as any other.
 My stratagem had given me a fair start—call it twenty minutes—and I had the width of a glen behind me before I saw the first heads of the pursuers.
 e:hannay=wary;b=light
 
-The police had evidently called in local talent to their aid, and the men I could see had the appearance of herds or gamekeepers.
+The police had evidently called in local talent to their aid, and the men I could see had the appearance of herds or gamekeepers.<e>Oh no! They're catching up!</e>
 b=moor-men
 
 They hallooed at the sight of me, and I waved my hand.
@@ -2941,7 +2941,7 @@ Anyhow there were trees there, and that meant cover.
 I did not follow the road, but the burnside which flanked it on the right, where the bracken grew deep and the high banks made a tolerable screen.
 e:hannay=wary;b=zoom
 
-It was well I did so, for no sooner had I gained the hollow than, looking back, I saw the pursuit topping the ridge from which I had descended.
+It was well I did so, for no sooner had I gained the hollow than, looking back, I saw the pursuit topping the ridge from which I had descended.<e>Oh! The suspense!</e>
 b=moor-men
 
 After that I did not look back; I had no time. I ran up the burnside, crawling over the open places, and for a large part wading in the shallow stream.
@@ -2956,14 +2956,17 @@ I forsook the burnside, crossed another dyke, and almost before I knew was on a 
 The lawn was a very rough place, cut with a scythe instead of a mower, and planted with beds of scrubby rhododendrons. A brace of black-game, which are not usually garden birds, rose at my approach.
 b=farm-ext
 
-The house before me was the ordinary moorland farm, with a more pretentious whitewashed wing added.
+The house before me was the ordinary moorland farm, with a more pretentious whitewashed wing added.<e>The word "moor" is used so often in this book, I thought it might beat out <book>Wuthering Heights</book>. But no: that book has 40 vs this book's 39 — so close! But still a good showing compared to a book that's three times longer. (And in any case, Conan Doyle still wrecks them both.)</e>
+
+
+<e>(And also a funny coincidence that <i>The <b>Thirty-Nine</b> Steps</i> has 39 uses of "moor". Though one is for a "moorhen", which maybe doesn't count.)</e>
 
 
 Attached to this wing was a glass veranda, and through the glass I saw the face of an elderly gentleman meekly watching me.
 n:g3=Old Gentleman;e:g3=neutral;a:g3=old
 
 I stalked over the border of coarse hill gravel and entered the open veranda door.
-e:hannay=neutral
+e:hannay=neutral;b=light
 
 Within was a pleasant room, glass on one side, and on the other a mass of books.
 b=farm-book-room
@@ -2974,7 +2977,7 @@ More books showed in an inner room. On the floor, instead of tables, stood cases
 There was a knee-hole desk in the middle, and seated at it, with some papers and open volumes before him, was the benevolent old gentleman.
 e:g3=happy
 
-His face was round and shiny, like Mr. Pickwick’s, big glasses were stuck on the end of his nose, and the top of his head was as bright and bare as a glass bottle.<e>This is a literary reference not even I knew, but it's apparently to <book>The Pickwick Papers</book>. And at over 300k words, it's not a reference I plan to learn anytime soon. (What the hell Dickens? As is <book>Great Expectations</book> isn't bad enough.)</e>
+His face was round and shiny, like Mr. Pickwick’s, big glasses were stuck on the end of his nose, and the top of his head was as bright and bare as a glass bottle.<e>I didn't get the book reference here to Dickens's <book>The Pickwick Papers</book>. In my defense, it's >300k words long, and isn't <book>Great Expectations</book> suffering enough?</e>
 
 
 He never moved when I entered, but raised his placid eyebrows and waited on me to speak.
@@ -3038,7 +3041,7 @@ And then, while my mouth was watering in anticipation, there was a click and the
 
 
 I emerged into the sunlight to find the master of the house sitting in a deep armchair in the room he called his study, and regarding me with curious eyes.
-e:g3=thinking;b=farm-book-room
+e:g3=thinking;b=farm-study
 
 “Have they gone?” I asked.
 s=hannay;e:hannay=wary
@@ -3143,7 +3146,7 @@ But somehow the law had got after me. When I had tried to change a sovereign in 
 
 
 “They can have the money back,” I cried, “for a fat lot of good it’s done me. Those perishers are all down on a poor man. Now, if it had been you, guv’nor, that had found the quids, nobody would have troubled you.”
-e:hannay=angry;b=farm-book-room
+e:hannay=angry;b=farm-study;s=hannay
 
 “You’re a good liar, Hannay,” he said.
 s=g3;e:g3=smirking
@@ -3178,7 +3181,7 @@ s=;e:g3=thinking
 There was something weird and devilish in those eyes, cold, malignant, unearthly, and most hellishly clever.
 e:hannay=fearful
 
-They fascinated me like the bright eyes of a snake.<e>Authors go one book without comparing their villain characters to snakes: Challenge Impossible.</e>
+They fascinated me like the bright eyes of a snake.<e>Authors go one book without comparing characters to snakes (impossible).</e>
 
 
 I had a strong impulse to throw myself on his mercy and offer to join his side, and if you consider the way I felt about the whole thing you will see that that impulse must have been purely physical, the weakness of a brain mesmerized and mastered by a stronger spirit.
@@ -3241,7 +3244,7 @@ But they wouldn’t have listened to me. That old devil with the eyelids had not
 I thought he probably had some kind of graft with the constabulary.
 
 
-Most likely he had letters from Cabinet ministers saying he was to be given every facility for plotting against Britain. That’s the sort of owlish way we run our politics in the Old Country.<e>1915 political zinger.</e>
+Most likely he had letters from Cabinet ministers saying he was to be given every facility for plotting against Britain. That’s the sort of owlish way we run our politics in the Old Country.<e>1915 political zinger!</e>
 
 
 The three would be back for lunch, so I hadn’t more than a couple of hours to wait.
@@ -3295,7 +3298,7 @@ There was a multitude of queer things there. I found an odd vesta or two in my t
 It was out in a second, but it showed me one thing.
 
 
-There was a little stock of electric torches on one shelf.<e>Britain: 100+ years of not knowing the word "flashlight".</e>
+There was a little stock of electric torches on one shelf.<e>It's been over a hundred years, Britain. Learn the word "flashlight".</e>
 e:hannay=happy;o=torch
 
 I picked up one, and found it was in working order.
@@ -3316,7 +3319,7 @@ e:hannay=thinking;o=bricks
 I took up one, and found that it crumbled easily in my hand. Then I smelt it and put my tongue to it. After that I sat down to think.
 
 
-I hadn’t been a mining engineer for nothing, and I knew lentonite when I saw it.
+I hadn’t been a mining engineer for nothing, and I knew lentonite when I saw it.<e>Lentonite: not actually a real thing, but whatever.</e>
 
 
 With one of these bricks I could blow the house to smithereens.
@@ -3352,7 +3355,7 @@ Still I managed to rake up the pluck to set my teeth and choke back the horrid d
 I simply shut off my mind and pretended I was doing an experiment as simple as Guy Fawkes fireworks.
 
 
-I got a detonator, and fixed it to a couple of feet of fuse.<e>Really was nice of the goons to put him in the explosives room.</e>
+I got a detonator, and fixed it to a couple of feet of fuse.<e>Nice goons, putting him in the explosives room.</e>
 b=light
 
 Then I took a quarter of a lentonite brick, and buried it near the door below one of the sacks in a crack of the floor, fixing the detonator in it.
@@ -3382,17 +3385,14 @@ Then I waited for a moment or two. There was dead silence—only a shuffle of he
 I commended my soul to my Maker, and wondered where I would be in five seconds…
 
 
-A great wave of heat seemed to surge upwards from the floor, and hang for a blistering instant in the air. Then the wall opposite me flashed into a golden yellow and dissolved with a rending thunder that hammered my brain into a pulp.
+A great wave of heat seemed to surge upwards from the floor, and hang for a blistering instant in the air. Then the wall opposite me flashed into a golden yellow and dissolved with a rending thunder that hammered my brain into a pulp. Something dropped on me, catching the point of my left shoulder.
 b=explosion;a:hannay=tatters2
 
-Something dropped on me, catching the point of my left shoulder.
-b=think
-
 And then I think I became unconscious.
-
+b=think;f:b:think=brightness(85%)
 
 My stupor can scarcely have lasted beyond a few seconds.
-
+f:b:think=
 
 I felt myself being choked by thick yellow fumes, and struggled out of the debris to my feet.
 e:hannay=weary
@@ -3467,7 +3467,7 @@ There was a little parapet behind which I found space to lie down.
 b=parapet
 
 Then I proceeded to go off into an old-fashioned swoon.
-b=dream
+b=dream;f:b:dream=
 
 I woke with a burning head and the sun glaring in my face.
 b=parapet
@@ -3520,7 +3520,7 @@ I would have given a thousand pounds to plunge my face into that.
 I had a fine prospect of the whole ring of moorland. I saw the car speed away with two occupants, and a man on a hill pony riding east. I judged they were looking for me, and I wished them joy of their quest.
 e:hannay=smirking
 
-But I saw something else more interesting. The house stood almost on the summit of a swell of moorland which crowned a sort of plateau, and there was no higher point nearer than the big hills six miles off.
+But I saw something else more interesting. The house stood almost on the summit of a swell of moorland which crowned a sort of plateau, and there was no higher point nearer than the big hills six miles off.<e>So here's the deal: the description that Buchan's about to give of the hill is going to make no physical sense. This is the closest I could get. You'll see.</e>
 b=moor-plateau
 
 The actual summit, as I have mentioned, was a biggish clump of trees—firs mostly, with a few ashes and beeches.
@@ -3532,7 +3532,7 @@ On the dovecot I was almost on a level with the treetops, and could see what lay
 The wood was not solid, but only a ring, and inside was an oval of green turf, for all the world like a big cricket-field.
 
 
-I didn’t take long to guess what it was. It was an aerodrome, and a secret one.<e>That's a guess, is it?</e>
+I didn’t take long to guess what it was. It was an aerodrome, and a secret one.
 e:hannay=thinking
 
 The place had been most cunningly chosen. For suppose anyone were watching an aeroplane descending here, he would think it had gone over the hill beyond the trees.
@@ -3547,17 +3547,14 @@ Only a man very close at hand would realize that the aeroplane had not gone over
 An observer with a telescope on one of the higher hills might have discovered the truth, but only herds went there, and herds do not carry spyglasses.
 
 
-When I looked from the dovecot I could see far away a blue line which I knew was the sea, and I grew furious to think that our enemies had this secret conning-tower to rake our waterways.
+When I looked from the dovecot I could see far away a blue line which I knew was the sea, and I grew furious to think that our enemies had this secret conning-tower to rake our waterways.<e>Yeah I really don't think so. I don't think it's possible for the clearing to be both big enough for a plane to land and take off without clipping the trees but also small enough that it wouldn't be obvious what was happening. (Also: planes make noise.)</e>
 e:hannay=angry
 
 Then I reflected that if that aeroplane came back the chances were ten to one that I would be discovered.
 e:hannay=wary
 
-So through the afternoon I lay and prayed for the coming of darkness, and glad I was when the sun went down over the big western hills and the twilight haze crept over the moor.<e>There are so many mentions of moors in this book, I thought it might take the crown from <book>Wuthering Heights</book>. But no: that book has 40 vs this book's 39 — so close! If only Hannay had had one more repetitive hill chase sequence. But still a good showing compared to a book's like three times longer. (In any case, Conan Doyle still wrecks them both.)</e>
+So through the afternoon I lay and prayed for the coming of darkness, and glad I was when the sun went down over the big western hills and the twilight haze crept over the moor.
 b=light
-
-<e>And also a funny coincidence that <i>The <b>Thirty-Nine</b> Steps</i> has 39 uses of "moor". Though one is for a moorhen, so I'm not sure if that fully counts.</e>
-
 
 The aeroplane was late. The gloaming was far advanced when I heard the beat of wings and saw it volplaning downward to its home in the wood.
 e:hannay=fearful
@@ -5633,7 +5630,7 @@ He didn’t pick it up at once, but sat back for a moment in his chair, with his
 
 
 It was the movement I remembered when I had stood before him in the moorland farm, with the pistols of his servants behind me.
-b=farm-book-room;f:b:farm-book-room=blur(5px)
+b=farm-study;f:b:farm-study=blur(5px)
 
 A little thing, lasting only a second, and the odds were a thousand to one that I might have had my eyes on my cards at the time and missed it.<e>Re-read <book>The Sequences</book> and revise that number.</e>
 b=think
