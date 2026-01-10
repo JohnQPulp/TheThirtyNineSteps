@@ -2744,7 +2744,7 @@ Soon the villages were left behind, then the farms, and then even the wayside co
 
 
 Presently we came to a lonely moor where the night was blackening the sunset gleam in the bog pools.
-b=moor-dark
+b=moor-dark;f:b:moor-dark=brightness(85%)
 
 Here we stopped, and I obligingly reversed the car and restored to Mr. Jopley his belongings.
 
@@ -2807,7 +2807,7 @@ In longing hopelessly for these dainties I fell asleep.
 e:hannay=weary;b=think
 
 I woke very cold and stiff about an hour after dawn.
-b=moor-dark-light
+b=moor-dark;f:b:moor-dark=
 
 It took me a little while to remember where I was, for I had been very weary and had slept heavily.
 
@@ -2825,7 +2825,7 @@ Marmie had not been slow in looking for his revenge.
 
 
 I crawled out of my shelf into the cover of a boulder, and from it gained a shallow trench which slanted up the mountain face.
-e:hannay=wary;b=moor-dark-light
+e:hannay=wary;b=moor-dark
 
 This led me presently into the narrow gully of a burn, by way of which I scrambled to the top of the ridge.
 b=light
@@ -2843,7 +2843,7 @@ Then I showed myself, and was instantly noted by one of the flankers, who passed
 b=light
 
 I pretended to retreat over the skyline, but instead went back the way I had come, and in twenty minutes was behind the ridge overlooking my sleeping place.
-e:hannay=smirking;b=moor-dark-light
+e:hannay=smirking;b=moor-dark
 
 From that viewpoint I had the satisfaction of seeing the pursuit streaming up the hill at the top of the glen on a hopelessly false scent.
 
@@ -3185,7 +3185,7 @@ I was marched out of the room with a pistol at each ear.
 s=;e:hannay=wary;b=light
 
 The storeroom was a damp chamber in what had been the old farmhouse.
-b=farm-storeroom
+b=farm-storeroom;f:b:farm-storeroom=brightness(85%)
 
 There was no carpet on the uneven floor, and nothing to sit down on but a school form.
 
@@ -3287,7 +3287,7 @@ There was a little stock of electric torches on one shelf.<e>Britain: 100+ years
 e:hannay=happy;o=torch
 
 I picked up one, and found it was in working order.
-b=farm-storeroom-light;o=
+b=farm-storeroom;f:b:farm-storeroom=;o=
 
 With the torch to help me I investigated further.
 
@@ -3572,7 +3572,7 @@ Then the light disappeared, and I dropped as softly as I could on to the hard so
 
 
 I crawled on my belly in the lee of a stone dyke till I reached the fringe of trees which surrounded the house.
-e:hannay=wary;b=dark
+e:hannay=wary;b=think
 
 If I had known how to do it I would have tried to put that aeroplane out of action, but I realized that any attempt would probably be futile.
 
@@ -3590,10 +3590,10 @@ A hundred yards farther on I found another wire cunningly placed on the edge of 
 
 
 Beyond that lay the moor, and in five minutes I was deep in bracken and heather.
-b=moor-reuse
+b=moor-heather;f:b:moor-heather=brightness(85%)
 
 Soon I was round the shoulder of the rise, in the little glen from which the mill-lade flowed.
-b=glen-reuse
+b=glen;f:b:glen=brightness(85%)
 
 Ten minutes later my face was in the spring, and I was soaking down pints of the blessed water.
 e:hannay=happy;b=light
