@@ -77,7 +77,7 @@ It struck me that Albania was the sort of place that might keep a man from yawni
 
 
 About six o’clock I went home, dressed, dined at the Café Royal, and turned into a music-hall.
-b=london-mod-night
+b=london;f:b:london=brightness(85%)
 
 It was a silly show, all capering women and monkey-faced men, and I did not stay long.
 e:hannay=weary
@@ -86,7 +86,7 @@ The night was fine and clear as I walked back to the flat I had hired near Portl
 
 
 The crowd surged past me on the pavements, busy and chattering, and I envied the people for having something to do.
-e:hannay=unhappy;b=london-street-mod-night
+e:hannay=unhappy;b=london-street;f:b:london-street=brightness(85%)
 
 These shopgirls and clerks and dandies and policemen had some interest in life that kept them going.
 
@@ -101,7 +101,7 @@ I would give the Old Country another day to fit me into something; if nothing ha
 e:hannay=neutral
 
 My flat was the first floor in a new block behind Langham Place.<e>And by "first floor" Buchan means the 2nd floor, because Brits are idiots.</e>
-b=flat-ext
+r=flat-ext
 
 There was a common staircase, with a porter and a liftman at the entrance, but there was no restaurant or anything of that sort, and each flat was quite shut off from the others.
 b=flat-lobby
@@ -1295,10 +1295,10 @@ I could not have made a more public departure if I had left with a bugler and a 
 e:hannay=unhappy
 
 Happily the drunken herd provided a diversion. He and his dog, which was attached by a rope to his waist, suddenly cascaded out of the carriage, landed on their heads on the track, and rolled some way down the bank towards the water.
-e:hannay=happy;b=moor-train-look-mod-dog
+e:hannay=happy;b=action
 
 In the rescue which followed the dog bit somebody, for I could hear the sound of hard swearing.
-
+b=think
 
 Presently they had forgotten me, and when after a quarter of a mile’s crawl I ventured to look back, the train had started again and was vanishing in the cutting.
 e:hannay=neutral;b=think
@@ -3560,7 +3560,7 @@ Thank God it was a black night. The moon was well on its last quarter and would 
 
 
 My thirst was too great to allow me to tarry, so about nine o’clock, so far as I could judge, I started to descend.
-b=dovecot-mod-night
+b=dovecot;f:b:dovecot=brightness(85%)
 
 It wasn’t easy, and halfway down I heard the back door of the house open, and saw the gleam of a lantern against the mill wall.
 e:hannay=fearful
@@ -3605,7 +3605,7 @@ e:hannay=weary
 r=card
 
 I sat down on a hilltop and took stock of my position.<e>Why do all serials get stuck in these loops. It's <book>The Jungle</book> out there.</e>
-e:hannay=weary;b=moor-hill-reuse-mod-night
+e:hannay=weary;b=moor-wide;f:b:moor-wide=brightness(85%)
 
 I wasn’t feeling very happy, for my natural thankfulness at my escape was clouded by my severe bodily discomfort.
 e:hannay=unhappy
@@ -3830,7 +3830,7 @@ If I had not had such an anxious heart I would have enjoyed that time.
 
 
 It was shining blue weather, with a constantly changing prospect of brown hills and far green meadows, and a continual sound of larks and curlews and falling streams.
-b=moor-wide
+r=moor-wide-2
 
 But I had no mind for the summer, and little for Hislop’s conversation, for as the fateful fifteenth of June drew near I was overweighed with the hopeless difficulties of my enterprise.
 e:hannay=unhappy
@@ -4421,7 +4421,7 @@ Very likely I would not be admitted, but it would ease my conscience to try.
 
 
 I walked down Jermyn Street, and at the corner of Duke Street passed a group of young men.
-b=london-street-mod-night
+b=london-street;f:b:london-street=brightness(85%)
 
 They were in evening dress, had been dining somewhere, and were going on to a music-hall.
 
@@ -4460,7 +4460,7 @@ I got in one or two good blows, for I think, with fair play, I could have licked
 
 
 Through a black cloud of rage I heard the officer of the law asking what was the matter, and Marmie, between his broken teeth, declaring that I was Hannay the murderer.
-c=policeman2,,;e:policeman2=angry;b=london-street-mod-night
+c=policeman2,,;e:policeman2=angry;b=london-street
 
 “Oh, damn it all,” I cried, “make the fellow shut up. I advise you to leave me alone, constable.”
 s=hannay;e:hannay=angry;c=policeman2,,hannay
@@ -5324,7 +5324,7 @@ It sounds a platitude, but Peter used to say that it was the big secret of all t
 
 
 It was now getting on for eight o’clock, and I went back and saw Scaife to give him his instructions.
-e:hannay=neutral;b=hotel-wide-mod-evening
+e:hannay=neutral;b=hotel-wide;f:b:hotel-wide=brightness(90%)
 
 I arranged with him how to place his men, and then I went for a walk, for I didn’t feel up to any dinner.
 
@@ -5366,7 +5366,7 @@ Suddenly as these memories chased across my brain I thought of my present case a
 e:hannay=excited
 
 The Black Stone didn’t need to bolt. They were quietly absorbed into the landscape.
-b=lodge-ext-mod-night
+b=lodge-ext;f:b:lodge-ext=brightness(85%)
 
 I was on the right track, and I jammed that down in my mind and vowed never to forget it.
 
