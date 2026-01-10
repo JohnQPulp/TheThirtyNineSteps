@@ -101,10 +101,10 @@ I would give the Old Country another day to fit me into something; if nothing ha
 e:hannay=neutral
 
 My flat was the first floor in a new block behind Langham Place.<e>And by "first floor" Buchan means the 2nd floor, because Brits are idiots.</e>
-r=flat-ext
+b=flat-ext;f:b:flat-ext=brightness(85%)
 
 There was a common staircase, with a porter and a liftman at the entrance, but there was no restaurant or anything of that sort, and each flat was quite shut off from the others.
-b=flat-lobby
+r=flat-lobby
 
 I hate servants on the premises, so I had a fellow to look after me who came in by the day.
 
@@ -137,7 +137,7 @@ No sooner was he over the threshold than he made a dash for my back room, where 
 b=flat
 
 Then he bolted back.
-c=,scudder
+c=scudder,
 
 “Is the door locked?” he asked feverishly, and he fastened the chain with his own hand.
 s=scudder;e:scudder=wary
@@ -149,7 +149,7 @@ e:scudder=neutral
 e:scudder=wary
 
 “I’ll listen to you,” I said. “That’s all I’ll promise.”
-s=hannay;e:hannay=wary;c=hannay,scudder
+s=hannay;e:hannay=wary;c=scudder,hannay
 
 I was getting worried by the antics of this nervous little chap.
 s=
