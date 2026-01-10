@@ -635,13 +635,13 @@ I had a cigar in my mouth, I remember, as I pushed open the smoking-room door.
 b=flat
 
 The lights were not lit, which struck me as odd. I wondered if Scudder had turned in already.
-e:hannay=confused;b=flat-smoking-room-murder-mod-dark
+e:hannay=confused;b=flat-smoking-room-murder-mod-dark;f:b:flat-smoking-room-murder-mod-dark=brightness(85%)
 
 I snapped the switch, but there was nobody there. Then I saw something in the far corner which made me drop my cigar and fall into a cold sweat.
-e:hannay=fearful
+e:hannay=fearful;f:b:flat-smoking-room-murder-mod-dark=
 
 My guest was lying sprawled on his back. There was a long knife through his heart which skewered him to the floor.<e>Wow it's like a real visual novel now!</e>
-b=flat-smoking-room-murder
+b=flat-smoking-room-murder-mod-pink
 
 ## II. The Milkman Sets Out on His Travels
 r=card
