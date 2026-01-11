@@ -1429,7 +1429,7 @@ s=hannay
 He actually blushed.
 s=
 
-“I want to write books,” he said.<e>On not again. Not right after that hellish <book>Garp|Irving novel</book> where every single character was a writer.</e>
+“I want to write books,” he said.<e>Not again! Not right after that hellish <book>Garp|Irving novel</book> where every single character was a writer.</e>
 s=innkeeper
 
 “And what better chance could you ask?” I cried.
@@ -1567,7 +1567,7 @@ Scudder had said it was the key to the Karolides business, and it occurred to me
 It worked. The five letters of “Julia” gave me the position of the vowels.
 e:hannay=happy
 
-*A* was *J*, the tenth letter of the alphabet, and so represented by X in the cipher. *E* was XXI, and so on. “Czechenyi” gave me the numerals for the principal consonants.<e>I call bullshit. First of all, it's a cheat that the "sets of figures" mentioned earlier were apparently just roman numerals this whole time. Second, if the cipher really was just a substition cipher, Hannay shouldn't have needed the stupidly lucky "Julia Czechenyi" guess — he should have been able to solve it via frequency analysis. (Which he definitely would have known about, since he just mentioned he knows about "nulls and stops"!)</e>
+*A* was *J*, the tenth letter of the alphabet, and so represented by X in the cipher. *E* was XXI, and so on. “Czechenyi” gave me the numerals for the principal consonants.<e>I call bullshit. First of all, it's a cheat that the "sets of figures" mentioned earlier were apparently just roman numerals this whole time. Second, if the cipher really was just a substitution cipher, Hannay shouldn't have needed the stupidly lucky "Julia Czechenyi" guess — he should have been able to solve it via frequency analysis. (Which he definitely would have known about, since he just mentioned he knows about "nulls and stops"!)</e>
 
 
 I scribbled that scheme on a bit of paper and sat down to read Scudder’s pages.
@@ -1771,7 +1771,7 @@ e:hannay=thinking
 Honey and fair speeches, and then a stroke in the dark.
 
 
-While we were talking about the goodwill and good intentions of Germany our coast would be silently ringed with mines, and submarines would be waiting for every battleship.<e>Those Krauts!</e>
+While we were talking about the goodwill and good intentions of Germany our coast would be silently ringed with mines, and submarines would be waiting for every battleship.<e>Those krauts!</e>
 e:hannay=wary;b=mapB
 
 But all this depended upon the third thing, which was due to happen on June 15th.
@@ -2011,7 +2011,7 @@ He had gone round the world after leaving Cambridge, and then, being short of a 
 I gathered that he had no preference in parties.
 
 
-“Good chaps in both,” he said cheerfully, “and plenty of blighters, too.”<e>A lesson for all you political partisans: don't forget what really matters in life. (Killing Krauts.)</e>
+“Good chaps in both,” he said cheerfully, “and plenty of blighters, too.”<e>A lesson for all you political partisans: don't forget what really matters in life. (Killing krauts.)</e>
 s=harry
 
 “I’m Liberal, because my family have always been Whigs.”
@@ -2435,7 +2435,7 @@ s=turnbull;c=turnbull;v=
 e:turnbull=
 
 “My freens ca’ me Ecky, and whiles Specky, for I wear glesses, being waik i’ the sicht. Just you speak the Surveyor fair, and ca’ him sir, and he’ll be fell pleased. I’ll be back or midday.”
-e:turnbull=happy;n:turnbull=Groundskeeper Willie (Alexander Turnbull)
+e:turnbull=happy;n:turnbull=Alexander Turnbull
 
 I borrowed his spectacles and filthy old hat; stripped off coat, waistcoat, and collar, and gave him them to carry home; borrowed, too, the foul stump of a clay pipe as an extra property.
 s=;c=;a:hannay=c5
@@ -3613,7 +3613,7 @@ e:hannay=weary
 ## VII. The Dry-Fly Fisherman
 r=card
 
-I sat down on a hilltop and took stock of my position.<e>Why do all serials get stuck in these loops. It's <book>The Jungle</book> out there.</e>
+I sat down on a hilltop and took stock of my position.<e>Why do all serials get stuck in these loops? It's <book>The Jungle</book> out there.</e>
 e:hannay=weary;b=moor-wide;f:b:moor-wide=brightness(85%)
 
 I wasn’t feeling very happy, for my natural thankfulness at my escape was clouded by my severe bodily discomfort.
