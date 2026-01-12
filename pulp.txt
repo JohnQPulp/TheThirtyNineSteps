@@ -322,7 +322,7 @@ s=hannay;e:hannay=thinking
 “And play their game?” he asked sharply.
 s=scudder;e:scudder=angry
 
-“If he does not come they win, for he’s the only man that can straighten out the tangle. And if his government are warned he won’t come, for he does not know how big the stakes will be on June the 15th.”<e>What a dumbass.</e>
+“If he does not come they win, for he’s the only man that can straighten out the tangle. And if his government are warned he won’t come, for he does not know how big the stakes will be on June the 15th.”
 e:scudder=neutral
 
 “What about the British Government?” I said. “They’re not going to let their guests be murdered. Tip them the wink, and they’ll take extra precautions.”
@@ -544,7 +544,7 @@ s=liftman;e:hannay=wary;c=hannay,liftman
 I ascended to No. 15, and found a couple of bobbies and an inspector busy making an examination. I asked a few idiotic questions, and they soon kicked me out.
 s=;e:hannay=neutral;c=;b=flat-hall
 
-Then I found the man that had valeted Scudder, and pumped him, but I could see he suspected nothing.<e>Heh heh heh.</e>
+Then I found the man that had valeted Scudder, and pumped him, but I could see he suspected nothing.<e>Heh heh… pumped.</e>
 b=flat-ext
 
 He was a whining fellow with a churchyard face, and half-a-crown went far to console him.
@@ -604,7 +604,7 @@ s=scudder
 And he began to tell me in detail what I had only heard from him vaguely.
 s=
 
-I did not give him very close attention. The fact is, I was more interested in his own adventures than in his high politics.<e>Caught up in global conspiracies and dealing with the constant looming threat of murder. Chooses not to pay attention. What a gigachad himbo protagonist.</e>
+I did not give him very close attention. The fact is, I was more interested in his own adventures than in his high politics.
 e:hannay=weary
 
 I reckoned that Karolides and his affairs were not my business, leaving all that to him.
@@ -721,7 +721,7 @@ e:hannay=thinking
 They were clever enough for anything, and an English prison was as good a way of getting rid of me till after June 15th as a knife in my chest.
 
 
-Besides, if I told the whole story, and by any miracle was believed, I would be playing their game. Karolides would stay at home, which was what they wanted.<e>What a dumbass.</e>
+Besides, if I told the whole story, and by any miracle was believed, I would be playing their game. Karolides would stay at home, which was what they wanted.
 
 
 Somehow or other the sight of Scudder’s dead face had made me a passionate believer in his scheme.<e>"Somehow".</e>
@@ -883,7 +883,7 @@ He was a young man about my own height, with an ill-nourished moustache, and he 
 On him I staked all my chances.
 
 
-I went into the darkened smoking-room where the rays of morning light were beginning to creep through the shutters. There I breakfasted off a whisky-and-soda and some biscuits from the cupboard.<e>Look I just arrange the images here. I don't know why he's choosing to breakfast in the murder room.</e>
+I went into the darkened smoking-room where the rays of morning light were beginning to creep through the shutters. There I breakfasted off a whisky-and-soda and some biscuits from the cupboard.
 b=flat-smoking-room-murder-mod-cloth
 
 By this time it was getting on for six o’clock.
@@ -2080,7 +2080,7 @@ He said that, but for the Tories, Germany and Britain would be fellow-workers in
 I thought of the little black book in my pocket! A giddy lot Scudder’s friends cared for peace and reform.
 e:hannay=smirking;o=pocketbook
 
-Yet in a queer way I liked the speech. You could see the niceness of the chap shining out behind the muck with which he had been spoon-fed.<e>Well I'd hate my reading to be spoon-fed.</e>
+Yet in a queer way I liked the speech. You could see the niceness of the chap shining out behind the muck with which he had been spoon-fed.
 e:hannay=happy;o=;b=hall
 
 Also it took a load off my mind. I mightn’t be much of an orator, but I was a thousand percent better than Sir Harry.
@@ -3319,7 +3319,7 @@ e:hannay=thinking;o=bricks
 I took up one, and found that it crumbled easily in my hand. Then I smelt it and put my tongue to it. After that I sat down to think.
 
 
-I hadn’t been a mining engineer for nothing, and I knew lentonite when I saw it.<e>Lentonite: not actually a real thing, but whatever.</e>
+I hadn’t been a mining engineer for nothing, and I knew lentonite when I saw it.
 
 
 With one of these bricks I could blow the house to smithereens.
@@ -4168,8 +4168,11 @@ e:bullivant=thinking
 “He had a lot of odd biases, too. Jews, for example, made him see red. Jews and the high finance.”<e>Well "odd biases" strikes me as editorializing. But it's your book, Buchan.</e>
 
 
-“The Black Stone,” he repeated. “*Der Schwarzestein.* It’s like a penny novelette.”<e>Authors should be banned from doing this kind of joke.</e>
+“The Black Stone,” he repeated. “*Der Schwarzestein.*”
 e:bullivant=smirking
+
+“It’s like a penny novelette.”<e>Authors should be banned from doing this kind of joke.</e>
+
 
 “And all this stuff about Karolides. That is the weak part of the tale, for I happen to know that the virtuous Karolides is likely to outlast us both.”
 e:bullivant=thinking
@@ -4465,7 +4468,7 @@ But a delay at that moment seemed to me unendurable, and the sight of Marmie’s
 I let out with my left, and had the satisfaction of seeing him measure his length in the gutter.
 e:hannay=excited;c=;b=action
 
-Then began an unholy row. They were all on me at once, and the policeman took me in the rear.<e>Heh heh heh.</e>
+Then began an unholy row. They were all on me at once, and the policeman took me in the rear.<e>Heh heh… rear.</e>
 b=action
 
 I got in one or two good blows, for I think, with fair play, I could have licked the lot of them, but the policeman pinned me behind, and one of them got his fingers on my throat.
@@ -5530,7 +5533,7 @@ s=fat;e:fat=happy
 “By Jove, yes. Just think of it! What a story to tell at the club. Really, Mr. Hannay, I suppose I should be angry, to show my innocence, but it’s too funny! I almost forgive you the fright you gave me! You looked so glum, I thought I might have been walking in my sleep and killing people.”
 
 
-It couldn’t be acting, it was too confoundedly genuine.<e>The suspence. (Gee I wonder if it's really them, here in the final chapter.)</e>
+It couldn’t be acting, it was too confoundedly genuine.<e>The suspense. (Gee I wonder if it's really them, here in the final chapter.)</e>
 s=;e:hannay=unhappy
 
 My heart went into my boots, and my first impulse was to apologize and clear out. But I told myself I must see it through, even though I was to be the laughingstock of Britain.
@@ -5644,7 +5647,7 @@ He didn’t pick it up at once, but sat back for a moment in his chair, with his
 It was the movement I remembered when I had stood before him in the moorland farm, with the pistols of his servants behind me.
 b=farm-study;f:b:farm-study=blur(5px)
 
-A little thing, lasting only a second, and the odds were a thousand to one that I might have had my eyes on my cards at the time and missed it.<e>Re-read <book>The Sequences</book> and revise those odds.</e>
+A little thing, lasting only a second, and the odds were a thousand to one that I might have had my eyes on my cards at the time and missed it.
 b=think
 
 But I didn’t, and, in a flash, the air seemed to clear.
@@ -5704,7 +5707,7 @@ s=g3;e:g3=neutral
 “You’d better think about catching your train. Bob’s got to go to town tonight,” he added, turning to me.
 
 
-The voice rang now as false as hell.<e>Hannay really does get some badass lines.</e>
+The voice rang now as false as hell.<e>They're sparse, but Hannay does get some badass lines.</e>
 s=
 
 I looked at the clock, and it was nearly half-past ten.
@@ -5815,5 +5818,5 @@ e:hannay=happy;b=mapE
 <e>And yet for all this change, the book strongly implies that the world is exactly the same as the one the reader knows! Now to be fair, Buchan wouldn't have known about all these implications when writing in late 1914. But he should have realized <i>some</i> of them. At least enough to know that trying to repackage the war's start into being a fully German-orchaestrated affair is kind of silly. It's propaganda that just doesn't really make sense.</e>
 
 
-<e>Anyway, as for book's prose itself, it obviously mostly sucked, but at least it was kind of entertaining. The End.</e>
+<e>Anyway, as for the book's prose itself, it obviously mostly sucked, but at least it was kind of entertaining. The End.</e>
 
