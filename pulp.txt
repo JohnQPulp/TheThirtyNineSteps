@@ -2770,7 +2770,7 @@ s=;e:hannay=thinking
 Contrary to general belief, I was not a murderer, but I had become an unholy liar, a shameless impostor, and a highwayman with a marked taste for expensive motorcars.<e>"Contrary to general belief".</e>
 e:hannay=smirking
 
-## VI. The Adventure of the Bald Archaeologist
+## VI. The Adventure of the Bald Archaeologist<e>A reminder you could be reading <a href="https://372pages.com/ep-151-the-adventures-of-the-teen-archeologists-intro">The Adventures of the Teen Archaeologists</a> instead.</e>
 r=card;a:hannay=c5
 
 I spent the night on a shelf of the hillside, in the lee of a boulder where the heather grew long and soft.
