@@ -1,6 +1,6 @@
 ### *The Thirty-Nine Steps*: The Visual Novel
 
-This repository will contain the metadata and images for the visual novel transformation (pulpification) of John Buchan's book *The Thirty-Nine Steps*.
+This repository contains the metadata and images for the visual novel transformation (pulpification) of John Buchan's book *The Thirty-Nine Steps*.
 
 You can read it in a few ways:
 
