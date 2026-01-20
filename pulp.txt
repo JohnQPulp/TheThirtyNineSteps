@@ -113,7 +113,7 @@ He arrived before eight o’clock every morning and used to depart at seven, for
 
 
 I was just fitting my key into the door when I noticed a man at my elbow.
-n:scudder=?;e:hannay=surprised;b=flat-hall;z=scudder:97
+n:scudder=?;e:hannay=surprised;b=flat-hall;z:scudder=97
 
 I had not seen him approach, and the sudden appearance made me start.
 c=scudder,;e:scudder=fearful
@@ -149,7 +149,7 @@ e:scudder=neutral
 e:scudder=wary
 
 “I’ll listen to you,” I said. “That’s all I’ll promise.”
-s=hannay;e:hannay=wary;c=scudder,hannay;z=hannay:104
+s=hannay;e:hannay=wary;c=scudder,hannay;z:hannay=104
 
 I was getting worried by the antics of this nervous little chap.
 s=;c=;b=think
@@ -1586,7 +1586,7 @@ There seemed to be two of them, men in aquascutums and tweed caps.
 n:slim=Slim Man;n:fat=Fat Man
 
 Ten minutes later the innkeeper slipped into the room, his eyes bright with excitement.
-e:innkeeper=excited;c=innkeeper;b=inn;z=innkeeper:90
+e:innkeeper=excited;c=innkeeper;b=inn;z:innkeeper=90
 
 “There’s two chaps below looking for you,” he whispered. “They’re in the dining-room having whiskies-and-sodas.”
 s=innkeeper
@@ -1910,7 +1910,7 @@ As I scrambled to my feet a hand took me by the arm, and a sympathetic and badly
 e:hannay=surprised
 
 I found myself looking at a tall young man in goggles and a leather ulster, who kept on blessing his soul and whinnying apologies.
-n:harry=?;e:harry=surprised;c=harry,;a:harry=goggles;z=harry:104
+n:harry=?;e:harry=surprised;c=harry,;a:harry=goggles;z:harry=104
 
 For myself, once I got my wind back, I was rather glad than otherwise.
 e:hannay=smirking
@@ -2375,7 +2375,7 @@ Then in a tiny bight of road, beside a heap of stones, I found the roadman.
 n:turnbull=Groundskeeper Willie;e:hannay=surprised;b=glen-road
 
 He had just arrived, and was wearily flinging down his hammer.
-c=turnbull,;z=turnbull:95;v=120,90
+c=turnbull,;z:turnbull=95;v=120,90
 
 He looked at me with a fishy eye and yawned.
 e:turnbull=weary;c=turnbull,hannay
@@ -2561,7 +2561,7 @@ Its three occupants descended as if to stretch their legs, and sauntered towards
 
 
 Two of the men I had seen before from the window of the Galloway inn—one lean, sharp, and dark, the other comfortable and smiling.
-b=glen-road;c=slim,fat;v=100,80;z=fat:87
+b=glen-road;c=slim,fat;v=100,80;z:fat=87
 
 The third had the look of a countryman—a vet, perhaps, or a small farmer.
 n:countryman=Countryman;c=countryman
@@ -5450,7 +5450,7 @@ When I walked into the room the old man at the head of the table had risen and t
 b=lodge-dining-room
 
 He was in evening dress—a short coat and black tie, as was the other, whom I called in my own mind the plump one. The third, the dark fellow, wore a blue serge suit and a soft white collar, and the colours of some club or school.
-a:g3=brit;a:slim=brit;a:fat=brit;c=fat,g3,slim;z=g3:91;v=110,110
+a:g3=brit;a:slim=brit;a:fat=brit;c=fat,g3,slim;z:g3=91;v=110,110
 
 The old man’s manner was perfect.
 
