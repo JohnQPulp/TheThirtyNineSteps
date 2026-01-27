@@ -2774,7 +2774,7 @@ e:hannay=smirking
 r=card;a:hannay=c5
 
 I spent the night on a shelf of the hillside, in the lee of a boulder where the heather grew long and soft.
-e:hannay=weary;b=moor-dark
+e:hannay=weary;b=moor-dark;f:b:moor-dark=brightness(85%)
 
 It was a cold business, for I had neither coat nor waistcoat.
 
