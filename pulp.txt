@@ -1,5 +1,5 @@
 *The Thirty-Nine Steps* by His Excellency The Right Honourable John Buchan, 1st Baron Tweedsmuir, GCMG, GCVO, CH, PC, DL, Governor General and Commander-in-Chief of the Dominion of Canada<e>I copied over all Buchan's titles from Wikipedia. I don't really know what any of them mean, but they're funny. (Also don't read his Wikipedia article until after the book, since there are spoilers.)</e>
-n:author=;b=title;t=author
+n:author=;b=title;t=author;h=no-speaker-counter
 
 <e>Some important context to begin: this book was written in late 1914 and published serially in 1915, so while World War I is going on. However, the book gives no introductory context — not even in the <a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">original magazine publication</a> — to explain <b>when</b> the book is meant to take place. As a reader, you're just meant to intuit that it's set sometime <b>before</b> the war (though not too long before), which would be more obvious to the readers back then.</e>
 
