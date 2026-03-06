@@ -137,19 +137,22 @@ No sooner was he over the threshold than he made a dash for my back room, where 
 b=flat
 
 Then he bolted back.
-c=scudder,
 
-“Is the door locked?” he asked feverishly, and he fastened the chain with his own hand.
-s=scudder;e:scudder=wary
+
+“Is the door locked?” he asked feverishly,
+s=scudder;e:scudder=wary;m=allowbreak
+
+and he fastened the chain with his own hand.
+m=;s=
 
 “I’m very sorry,” he said humbly. “It’s a mighty liberty, but you looked the kind of man who would understand.”
-e:scudder=neutral
+e:scudder=neutral;c=scudder;s=scudder
 
 “I’ve had you in my mind all this week when things got troublesome. Say, will you do me a good turn?”
 e:scudder=wary
 
 “I’ll listen to you,” I said. “That’s all I’ll promise.”
-s=hannay;e:hannay=wary;c=scudder,hannay;z:hannay=104,,1
+s=hannay;e:hannay=wary;z:hannay=104,,1
 
 I was getting worried by the antics of this nervous little chap.
 s=;c=;b=think
@@ -460,8 +463,11 @@ e:hannay=thinking
 “I believe you’re straight, but if so be you are not I should warn you that I’m a handy man with a gun.”<e>"If so be you are gay…"</e>
 e:scudder=wary
 
-“Sure,” he said, jumping up with some briskness. “I haven’t the privilege of your name, sir, but let me tell you that you’re a white man.”<e>Heh heh… white.</e>
+“Sure,” he said, jumping up with some briskness.
 s=scudder;e:scudder=excited
+
+“I haven’t the privilege of your name, sir, but let me tell you that you’re a white man.”<e>Heh heh… white.</e>
+
 
 “I’ll thank you to lend me a razor.”
 e:scudder=happy
@@ -473,7 +479,7 @@ In half an hour’s time a figure came out that I scarcely recognized. Only his 
 e:hannay=surprised;b=flat
 
 He was shaved clean, his hair was parted in the middle, and he had cut his eyebrows.<e>The part of Scudder will now be played by Peter O'Toole.</e>
-c=scudder,;a:scudder=shaved
+c=scudder;a:scudder=shaved
 
 Further, he carried himself as if he had been drilled, and was the very model, even to the brown complexion, of some British officer who had had a long spell in India.
 
@@ -482,7 +488,7 @@ He had a monocle, too, which he stuck in his eye, and every trace of the America
 e:scudder=neutral
 
 “My hat! Mr. Scudder—” I stammered.
-s=hannay;c=scudder,hannay
+s=hannay
 
 “Not Mr. Scudder,” he corrected; “Captain Theophilus Digby, of the 40th Gurkhas, presently home on leave.”
 s=scudder;e:scudder=scowling
@@ -503,10 +509,10 @@ I woke next morning to hear my man, Paddock, making the deuce of a row at the sm
 n:paddock=Paddock;e:paddock=angry;e:hannay=weary;b=flat
 
 Paddock was a fellow I had done a good turn to out on the Selakwe, and I had inspanned him as my servant as soon as I got to England.<e>The word "inspan" is apparently a South African regionalism, so that's lore-accurate.</e>
-b=light;c=paddock
+b=light;c=paddock;v=,130
 
 He had about as much gift of the gab as a hippopotamus, and was not a great hand at valeting, but I knew I could count on his loyalty.
-v=,130
+
 
 “Stop that row, Paddock,” I said. “There’s a friend of mine, Captain—Captain” (I couldn’t remember the name) “dossing down in there.”
 s=hannay;e:hannay=scowling;b=flat;c=
@@ -536,7 +542,7 @@ When I got back the lift-man had an important face.
 b=flat-lobby;n:liftman=Lift-Man;
 
 “Nawsty business ’ere this morning, Sir.”
-s=liftman;e:hannay=wary;c=hannay,liftman
+s=liftman;e:hannay=wary;c=liftman
 
 “Gent in No. 15 been and shot ’isself. They’ve just took ’im to the mortiary. The police are up there now.”
 
@@ -923,10 +929,10 @@ I opened the front door, and there was my man, singling out my cans from a bunch
 n:milkman=Milkman;b=flat-hall
 
 He jumped a bit at the sight of me.
-e:milkman=surprised;c=milkman,
+e:milkman=surprised;c=milkman
 
 “Come in here a moment,” I said. “I want a word with you.”
-s=hannay;c=milkman,hannay
+s=hannay
 
 And I led him into the dining-room.
 s=;b=flat;c=
@@ -1586,7 +1592,7 @@ There seemed to be two of them, men in aquascutums and tweed caps.
 n:slim=Slim Man;n:fat=Fat Man;v=,130
 
 Ten minutes later the innkeeper slipped into the room, his eyes bright with excitement.
-e:innkeeper=excited;c=innkeeper;b=inn;z:innkeeper=90
+e:innkeeper=excited;c=innkeeper;b=inn;z:innkeeper=90,,2
 
 “There’s two chaps below looking for you,” he whispered. “They’re in the dining-room having whiskies-and-sodas.”
 s=innkeeper
@@ -1910,7 +1916,7 @@ As I scrambled to my feet a hand took me by the arm, and a sympathetic and badly
 e:hannay=surprised
 
 I found myself looking at a tall young man in goggles and a leather ulster, who kept on blessing his soul and whinnying apologies.
-n:harry=?;e:harry=surprised;c=harry,;a:harry=goggles;z:harry=104
+n:harry=?;e:harry=surprised;;a:harry=goggles;z:harry=104
 
 For myself, once I got my wind back, I was rather glad than otherwise.
 e:hannay=smirking
@@ -1919,7 +1925,7 @@ This was one way of getting rid of the car.
 
 
 “My blame, sir,” I answered him.
-s=hannay;e:hannay=weary;c=harry,hannay
+s=hannay;e:hannay=weary
 
 “It’s lucky that I did not add homicide to my follies. That’s the end of my Scotch motor tour, but it might have been the end of my life.”
 e:hannay=unhappy
@@ -2114,10 +2120,10 @@ We had a hot supper—and I wanted it pretty badly—and then drank grog in a bi
 s=;e:hannay=happy;b=smoking-room-2
 
 I thought the time had come for me to put my cards on the table.
-e:hannay=thinking
+e:hannay=thinking;b=light
 
 I saw by this man’s eye that he was the kind you can trust.
-c=harry;b=light
+c=harry;v=,130,60
 
 “Listen, Sir Harry,” I said.
 s=hannay;b=smoking-room-2;c=
@@ -2125,7 +2131,10 @@ s=hannay;b=smoking-room-2;c=
 “I’ve something pretty important to say to you. You’re a good fellow, and I’m going to be frank. Where on earth did you get that poisonous rubbish you talked tonight?”
 
 
-His face fell. “Was it as bad as that?” he asked ruefully.
+His face fell.
+s=
+
+“Was it as bad as that?” he asked ruefully.
 s=harry;e:harry=unhappy
 
 “It did sound rather thin. I got most of it out of the *Progressive Magazine* and pamphlets that agent chap of mine keeps sending me. But you surely don’t think Germany would ever go to war with us?”
@@ -2173,7 +2182,10 @@ s=hannay;e:hannay=smirking
 “Not a profession that weakens the nerves, is it?”
 s=harry;e:harry=smirking
 
-I laughed. “Oh, as to that, my nerves are good enough.”
+I laughed.
+s=
+
+“Oh, as to that, my nerves are good enough.”
 s=hannay
 
 I took down a hunting-knife from a stand on the wall, and did the old Mashona trick of tossing it and catching it in my lips.<e>And then to really prove he was from Rhodesia, he changed into short shorts.</e>
@@ -2191,7 +2203,10 @@ s=harry
 “First, I want you to write a letter to your uncle. I’ve got to get in touch with the government people sometime before the 15th of June.”
 s=hannay;e:hannay=thinking
 
-He pulled his moustache. “That won’t help you. This is Foreign Office business, and my uncle would have nothing to do with it. Besides, you’d never convince him.”
+He pulled his moustache.
+s=
+
+“That won’t help you. This is Foreign Office business, and my uncle would have nothing to do with it. Besides, you’d never convince him.”
 s=harry;e:harry=thinking
 
 “No, I’ll go one better. I’ll write to the Permanent Secretary at the Foreign Office. He’s my godfather, and one of the best going. What do you want?”
@@ -2206,8 +2221,11 @@ The gist of it was that if a man called Twisdon (I thought I had better stick to
 He said Twisdon would prove his bona fides by passing the word “Black Stone” and whistling “Annie Laurie.”
 
 
-“Good,” said Sir Harry. “That’s the proper style. By the way, you’ll find my godfather—his name’s Sir Walter Bullivant—down at his country cottage for Whitsuntide. It’s close to Artinswell on the Kenner. That’s done. Now, what’s the next thing?”
+“Good,” said Sir Harry. “That’s the proper style.”
 s=harry;b=smoking-room-2
+
+“By the way, you’ll find my godfather—his name’s Sir Walter Bullivant—down at his country cottage for Whitsuntide. It’s close to Artinswell on the Kenner. That’s done. Now, what’s the next thing?”
+
 
 “You’re about my height. Lend me the oldest tweed suit you’ve got. Anything will do, so long as the colour is the opposite of the clothes I destroyed this afternoon.”
 s=hannay
@@ -2375,25 +2393,28 @@ Then in a tiny bight of road, beside a heap of stones, I found the roadman.
 n:turnbull=Groundskeeper Willie;e:hannay=surprised;b=glen-road
 
 He had just arrived, and was wearily flinging down his hammer.
-c=turnbull,;z:turnbull=95;v=120,130
+;z:turnbull=95,85,5,90;v=120,130
 
 He looked at me with a fishy eye and yawned.
-e:turnbull=weary;c=turnbull,hannay
+e:turnbull=weary;
 
-“Confoond the day I ever left the herdin’!” he said, as if to the world at large. “There I was my ain maister. Now I’m a slave to the Goavernment, tethered to the roadside, wi’ sair een, and a back like a suckle.”
+“Confoond the day I ever left the herdin’!” he said, as if to the world at large.
 s=turnbull;e:turnbull=unhappy
+
+“There I was my ain maister. Now I’m a slave to the Goavernment, tethered to the roadside, wi’ sair een, and a back like a suckle.”
+
 
 He took up the hammer, struck a stone, dropped the implement with an oath, and put both hands to his ears.
 s=;e:turnbull=angry;c=
 
 “Mercy on me! My heid’s burstin’!” he cried.
-s=turnbull;e:turnbull=weary;c=turnbull,
+s=turnbull;e:turnbull=weary
 
 He was a wild figure, about my own size but much bent, with a week’s beard on his chin, and a pair of big horn spectacles.
 s=
 
 “I canna dae’t,” he cried again. “The Surveyor maun just report me. I’m for my bed.”
-s=turnbull;e:turnbull=unhappy
+s=turnbull;e:turnbull=unhappy;c=turnbull
 
 I asked him what was the trouble, though indeed that was clear enough.
 e:hannay=neutral;s=
@@ -2413,17 +2434,23 @@ s=turnbull;e:turnbull=weary
 “I’ll awa’ back to my bed and say I’m no weel, but I doot that’ll no help me, for they ken my kind o’ no-weel-ness.”
 e:turnbull=unhappy
 
-Then I had an inspiration. “Does the new Surveyor know you?” I asked.
+Then I had an inspiration.
+s=
+
+“Does the new Surveyor know you?” I asked.
 s=hannay;e:hannay=thinking
 
 “No him. He’s just been a week at the job. He rins about in a wee motor-cawr, and wad speir the inside oot o’ a whelk.”
 s=turnbull;e:turnbull=thinking
 
-“Where’s your house?” I asked, and was directed by a wavering finger to the cottage by the stream.
-s=hannay;e:hannay=neutral
+“Where’s your house?” I asked,
+s=hannay;e:hannay=neutral;m=allowbreak
+
+and was directed by a wavering finger to the cottage by the stream.
+s=;m=;c=
 
 “Well, back to your bed,” I said, “and sleep in peace. I’ll take on your job for a bit and see the Surveyor.”
-
+s=hannay
 
 He stared at me blankly; then, as the notion dawned on his fuddled brain, his face broke into the vacant drunkard’s smile.
 s=;e:turnbull=happy;c=
@@ -2737,8 +2764,11 @@ c=;b=glen-road
 Then with some difficulty I turned the car. My plan was to go back the road he had come, for the watchers, having seen it before, would probably let it pass unremarked, and Marmie’s figure was in no way like mine.
 e:hannay=thinking;b=light
 
-“Now, my child,” I said, “sit quite still and be a good boy. I mean you no harm. I’m only borrowing your car for an hour or two. But if you play me any tricks, and above all if you open your mouth, as sure as there’s a God above me I’ll wring your neck. *Savez?*”<e>(<i>Capiche?</i>)</e>
+“Now, my child,” I said, “sit quite still and be a good boy. I mean you no harm. I’m only borrowing your car for an hour or two.”
 s=hannay;e:hannay=smirking
+
+“But if you play me any tricks, and above all if you open your mouth, as sure as there’s a God above me I’ll wring your neck. *Savez?*”<e>(<i>Capiche?</i>)</e>
+
 
 I enjoyed that evening’s ride. We ran eight miles down the valley, through a village or two, and I could not help noticing several strange-looking folk lounging by the roadside.
 e:hannay=happy;b=zoom;s=
@@ -2998,11 +3028,14 @@ s=g3
 I nodded towards the window. It gave a prospect across the moor through a gap in the plantation, and revealed certain figures half a mile off straggling through the heather.
 s=
 
-“Ah, I see,” he said, and took up a pair of field-glasses through which he patiently scrutinized the figures.
-s=g3;e:g3=thinking
+“Ah, I see,” he said,
+s=g3;e:g3=thinking;m=allowbreak
+
+and took up a pair of field-glasses through which he patiently scrutinized the figures.
+s=;m=
 
 “A fugitive from justice, eh? Well, we’ll go into the matter at our leisure. Meantime I object to my privacy being broken in upon by the clumsy rural policeman.”
-e:g3=neutral
+e:g3=neutral;s=g3
 
 “Go into my study, and you will see two doors facing you. Take the one on the left and close it behind you. You will be perfectly safe.”
 
@@ -3053,16 +3086,16 @@ As he spoke his eyelids seemed to tremble and to fall a little over his keen gre
 s=
 
 In a flash the phrase of Scudder’s came back to me, when he had described the man he most dreaded in the world.
-e:hannay=fearful
+e:hannay=fearful;b=flat;f:b:flat=blur(3px)
 
 He had said that he “could hood his eyes like a hawk.”
-
+m=dialogue
 
 Then I saw that I had walked straight into the enemy’s headquarters.
-
+m=
 
 My first impulse was to throttle the old ruffian and make for the open air.
-e:hannay=angry
+e:hannay=angry;b=farm-study
 
 He seemed to anticipate my intention, for he smiled gently, and nodded to the door behind me.
 e:g3=smirking
@@ -3079,8 +3112,11 @@ e:hannay=thinking
 “I don’t know what you mean,” I said roughly. “And who are you calling Richard Hannay? My name’s Ainslie.”
 s=hannay;e:hannay=scowling
 
-“So?” he said, still smiling. “But of course you have others. We won’t quarrel about a name.”
+“So?” he said, still smiling.
 s=g3
+
+“But of course you have others. We won’t quarrel about a name.”
+
 
 I was pulling myself together now, and I reflected that my garb, lacking coat and waistcoat and collar, would at any rate not betray me.
 s=;e:hannay=thinking
@@ -3788,7 +3824,7 @@ One day he produced my belt from a lockfast drawer.
 
 
 “There’s a terrible heap o’ siller in’t,” he said.
-s=turnbull;e:turnbull=surprised;c=turnbull
+s=turnbull;e:turnbull=surprised
 
 “Ye’d better coont it to see it’s a’ there.”
 
@@ -3800,7 +3836,7 @@ I asked him if anybody had been around making inquiries subsequent to my spell a
 s=;e:hannay=wary
 
 “Ay, there was a man in a motor-cawr. He speired whae had ta’en my place that day, and I let on I thocht him daft.”
-s=turnbull;e:turnbull=smirking;c=turnbull
+s=turnbull;e:turnbull=smirking;
 
 “But he keepit on at me, and syne I said he maun be thinkin’ o’ my gude-brither frae the Cleuch that whiles lent me a haun’. He was a wersh-lookin’ sowl, and I couldna understand the half o’ his English tongue.”
 e:turnbull=thinking
@@ -3896,7 +3932,7 @@ I fell to whistling as I looked into the green depths, and the tune which came t
 
 
 A fisherman came up from the waterside, and as he neared me he too began to whistle.
-n:bullivant=Fisherman;e:bullivant=;e:hannay=surprised;c=,bullivant;a:bullivant=fisherman;v=,130
+n:bullivant=Fisherman;e:bullivant=;e:hannay=surprised;a:bullivant=fisherman;v=,130
 
 The tune was infectious, for he followed my suit. He was a huge man in untidy old flannels and a wide-brimmed hat, with a canvas bag slung on his shoulder.
 
@@ -3908,7 +3944,7 @@ He leaned his delicate ten-foot split-cane rod against the bridge, and looked wi
 c=
 
 “Clear, isn’t it?” he said pleasantly.
-s=bullivant;c=hannay,bullivant;e:hannay=
+s=bullivant;e:hannay=
 
 “I back our Kenner any day against the Test. Look at that big fellow. Four pounds if he’s an ounce. But the evening rise is over and you can’t tempt ’em.”
 
@@ -3926,19 +3962,19 @@ s=hannay;e:hannay=smirking
 s=;e:bullivant=;c=
 
 “Twisdon’s the name, isn’t it?” he said over his shoulder, his eyes still fixed on the stream.
-e:bullivant=smirking;c=bullivant;s=bullivant
+e:bullivant=smirking;s=bullivant
 
 “No,” I said. “I mean to say, Yes.”<e>D'oh!</e>
-s=hannay;e:hannay=wary;c=hannay
+s=hannay;e:hannay=wary
 
 I had forgotten all about my alias.
 s=
 
 “It’s a wise conspirator that knows his own name,” he observed, grinning broadly at a moorhen that emerged from the bridge’s shadow.
-s=bullivant;e:bullivant=happy;c=bullivant
+s=bullivant;e:bullivant=happy
 
 I stood up and looked at him, at the square, cleft jaw and broad, lined brow and the firm folds of cheek, and began to think that here at last was an ally worth having.<e>Just throwing Turnbull under the bus? And I thought you were cool, Hannay.</e>
-s=;e:hannay=thinking;c=bullivant
+s=;e:hannay=thinking;
 
 His whimsical blue eyes seemed to go very deep.
 
@@ -3956,7 +3992,7 @@ When he had gone, he picked up his rod.
 
 
 “That’s my house,” he said, pointing to a white gate a hundred yards on.
-s=bullivant;c=bullivant
+s=bullivant
 
 “Wait five minutes and then go round to the back door.”
 
@@ -4010,7 +4046,7 @@ By the time I had finished the looking-glass showed a not unpersonable young man
 e:hannay=;c=hannay;a:hannay=cF;b=light
 
 Sir Walter awaited me in a dusky dining-room where a little round table was lit with silver candles.
-n:bullivant=Sir Walter Bullivant;e:bullivant=neutral;b=cottage2-dining;c=;a:bullivant=;z:bullivant=,45
+n:bullivant=Sir Walter Bullivant;e:bullivant=neutral;b=cottage2-dining;c=;a:bullivant=;z:bullivant=,45,1
 
 The sight of him—so respectable and established and secure, the embodiment of law and government and all the conventions—took me aback and made me feel an interloper.
 e:hannay=wary
@@ -4027,7 +4063,10 @@ s=hannay
 “I’m an innocent man, but I’m wanted by the police. I’ve got to tell you this, and I won’t be surprised if you kick me out.”
 
 
-He smiled. “That’s all right. Don’t let that interfere with your appetite. We can talk about these things after dinner.”
+He smiled.
+s=
+
+“That’s all right. Don’t let that interfere with your appetite. We can talk about these things after dinner.”
 s=bullivant;e:bullivant=happy
 
 I never ate a meal with greater relish, for I had had nothing all day but railway sandwiches.
@@ -4069,8 +4108,11 @@ e:bullivant=neutral;b=flat-smoking-room-murder;f:b:flat-smoking-room-murder=blur
 He heard all about the milkman and my time in Galloway, and my deciphering Scudder’s notes at the inn.
 b=think
 
-“You’ve got them here?” he asked sharply, and drew a long breath when I whipped the little book from my pocket.
-s=bullivant;e:bullivant=serious;b=cottage2-dining
+“You’ve got them here?” he asked sharply,
+s=bullivant;e:bullivant=serious;b=cottage2-dining;m=allowbreak
+
+and drew a long breath when I whipped the little book from my pocket.
+m=;s=
 
 I said nothing of the contents. Then I described my meeting with Sir Harry, and the speeches at the hall.
 s=
@@ -4325,10 +4367,10 @@ The first thing he did was to take me round to Scotland Yard. There we saw a pri
 b=yard
 
 “I’ve brought you the Portland Place murderer,” was Sir Walter’s introduction.
-s=bullivant;e:bullivant=smirking;c=hannay,bullivant,,;v=100,120
+s=bullivant;e:bullivant=smirking;v=100,120
 
 The reply was a wry smile.
-n:macgillivray=?;e:macgillivray=smirking;c=hannay,bullivant,,macgillivray;e:hannay=wary;s=
+n:macgillivray=?;e:macgillivray=smirking;e:hannay=wary;s=
 
 “It would have been a welcome present, Bullivant.”
 s=macgillivray
@@ -4442,7 +4484,7 @@ They were in evening dress, had been dining somewhere, and were going on to a mu
 
 
 One of them was Mr. Marmaduke Jopley.
-e:jopley=;c=jopley;v=100,130
+e:jopley=;;v=100,130
 
 He saw me and stopped short.
 e:jopley=surprised
@@ -4460,7 +4502,7 @@ I wasn’t looking for any trouble, but my ill-temper made me play the fool.
 e:hannay=angry
 
 A policeman came up, and I should have told him the truth, and, if he didn’t believe it, demanded to be taken to Scotland Yard, or for that matter to the nearest police station.
-n:policeman2=Policeman;c=policeman2,jopley,
+n:policeman2=Policeman
 
 But a delay at that moment seemed to me unendurable, and the sight of Marmie’s imbecile face was more than I could bear.
 
@@ -4475,10 +4517,10 @@ I got in one or two good blows, for I think, with fair play, I could have licked
 
 
 Through a black cloud of rage I heard the officer of the law asking what was the matter, and Marmie, between his broken teeth, declaring that I was Hannay the murderer.
-c=policeman2,,;e:policeman2=angry;b=london-street
+e:policeman2=angry;b=london-street
 
 “Oh, damn it all,” I cried, “make the fellow shut up. I advise you to leave me alone, constable.”
-s=hannay;e:hannay=angry;c=policeman2,,hannay
+s=hannay;e:hannay=angry;
 
 “Scotland Yard knows all about me, and you’ll get a proper wigging if you interfere with me.”
 
@@ -4678,8 +4720,11 @@ s=hannay;e:hannay=serious
 “Who—who—” someone stammered.
 s=
 
-“The Black Stone,” I cried, and I sat down in the chair so recently vacated and looked round at five badly scared gentlemen.
-s=hannay;e:hannay=serious
+“The Black Stone,” I cried,
+s=hannay;e:hannay=serious;m=allowbreak
+
+and I sat down in the chair so recently vacated and looked round at five badly scared gentlemen.
+m=;s=
 
 ## IX. The Thirty-Nine Steps
 r=card
@@ -4705,8 +4750,11 @@ n:winstanley=General Winstanley;s=winstanley;e:winstanley=confused;z:winstanley=
 “Do you mean to tell me that that man came here and sat beside me for the best part of half an hour and that I didn’t detect the imposture? Alloa must be out of his mind.”
 
 
-“Don’t you see the cleverness of it?” I said. “You were too interested in other things to have any eyes. You took Lord Alloa for granted. If it had been anybody else you might have looked more closely, but it was natural for him to be here, and that put you all to sleep.”
+“Don’t you see the cleverness of it?” I said. “You were too interested in other things to have any eyes. You took Lord Alloa for granted.”
 s=hannay;e:hannay=excited
+
+“If it had been anybody else you might have looked more closely, but it was natural for him to be here, and that put you all to sleep.”
+
 
 Then the Frenchman spoke, very slowly and in good English.
 n:royer=Frenchman Royer;e:royer=thinking;s=
@@ -4735,8 +4783,11 @@ e:royer=serious;s=
 “It was the smell that gave me warning. I turned my head and found myself looking at a lion three feet off… An old man-eater, that was the terror of the village… What was left of the mare, a mass of blood and bones and hide, was behind him.”
 s=royer
 
-“What happened?” I asked. I was enough of a hunter to know a true yarn when I heard it.
+“What happened?” I asked.
 s=hannay;e:hannay=wary
+
+I was enough of a hunter to know a true yarn when I heard it.
+s=
 
 “I stuffed my fishing-rod into his jaws, and I had a pistol. Also my servants came presently with rifles. But he left his mark on me.”
 s=royer
@@ -4783,7 +4834,10 @@ s=royer;e:royer=neutral
 “Well, I suppose there is nothing for it but to change the plans,” said Sir Walter ruefully.<e>Oh no, not our plans of putting three cruisers right next to each other in the Broad Fourteens. (Get it? An Action of 22 September 1914 reference? Eh?)</e>
 s=bullivant;e:bullivant=unhappy
 
-Whittaker was looking very glum. “Did you tell Lord Alloa what has happened?” he asked.
+Whittaker was looking very glum.
+s=
+
+“Did you tell Lord Alloa what has happened?” he asked.
 s=whittaker;e:whittaker=unhappy
 
 “No? Well, I can’t speak with absolute assurance, but I’m nearly certain we can’t make any serious change unless we alter the geography of England.”
@@ -4792,8 +4846,11 @@ s=whittaker;e:whittaker=unhappy
 “Another thing must be said,” it was Royer who spoke.
 s=royer;e:royer=
 
-“I talked freely when that man was here. I told something of the military plans of my government. I was permitted to say so much. But that information would be worth many millions to our enemies. No, my friends, I see no other way. The man who came here and his confederates must be taken, and taken at once.”
+“I talked freely when that man was here. I told something of the military plans of my government. I was permitted to say so much. But that information would be worth many millions to our enemies.”
 e:royer=serious
+
+“No, my friends, I see no other way. The man who came here and his confederates must be taken, and taken at once.”
+
 
 “Good God,” I cried, “and we have not a rag of a clue.”
 s=hannay;e:hannay=fearful
@@ -4990,7 +5047,10 @@ s=hannay
 “Then there are plenty of Marine Parades, if that’s what you mean. Every seaside resort has them.”
 s=coastguard
 
-I shook my head. “It’s got to be more retired than that,” I said.
+I shook my head.
+s=
+
+“It’s got to be more retired than that,” I said.
 s=hannay;e:hannay=thinking
 
 “Well, gentlemen, I can’t think of anywhere else. Of course, there’s the Ruff—”
@@ -5069,10 +5129,10 @@ He read aloud the number of steps in the different stairs.
 
 
 “Thirty-four, thirty-five, thirty-nine, forty-two, forty-seven,” and “twenty-one” where the cliffs grew lower.
-s=
+s=;m=dialogue
 
 I almost got up and shouted.
-s=;e:hannay=excited
+s=;e:hannay=excited;m=
 
 We hurried back to the town and sent a wire to MacGillivray.
 e:hannay=happy;b=hotel-wide
@@ -5255,13 +5315,13 @@ Then the plump man, mopping his brow with a silk handkerchief, announced that he
 n:fat=The Plump One
 
 I heard his very words—“I’ve got into a proper lather,” he said.
-s=
+s=;m=dialogue
 
 “This will bring down my weight and my handicap, Bob. I’ll take you on tomorrow and give you a stroke a hole.”
 
 
 You couldn’t find anything much more English than that.
-s=
+s=;m=
 
 They all went into the house, and left me feeling a precious idiot.
 e:hannay=unhappy
@@ -5450,7 +5510,7 @@ When I walked into the room the old man at the head of the table had risen and t
 b=lodge-dining-room
 
 He was in evening dress—a short coat and black tie, as was the other, whom I called in my own mind the plump one. The third, the dark fellow, wore a blue serge suit and a soft white collar, and the colours of some club or school.
-a:g3=brit;a:slim=brit;a:fat=brit;c=fat,g3,slim;z:g3=91,48,2;v=110,130
+a:g3=brit;a:slim=brit;a:fat=brit;z:g3=91,48,2;v=110,130
 
 The old man’s manner was perfect.
 
@@ -5471,16 +5531,25 @@ I pulled up a chair and sat down on it.
 s=hannay
 
 The light in the room was dim, but so far as I could see their faces, they played the part of mystification very well.
-s=;e:g3=confused;c=g3
+s=;e:g3=confused
 
 “Maybe, maybe,” said the old man. “I haven’t a very good memory, but I’m afraid you must tell me your errand, sir, for I really don’t know it.”
 s=g3
 
-“Well, then,” I said, and all the time I seemed to myself to be talking pure foolishness—“I have come to tell you that the game’s up. I have a warrant for the arrest of you three gentlemen.”
-s=hannay
+“Well, then,” I said,
+m=allowbreak;s=hannay
 
-“Arrest,” said the old man, and he looked really shocked. “Arrest! Good God, what for?”
+and all the time I seemed to myself to be talking pure foolishness—
+m=nospace;s=
+
+“I have come to tell you that the game’s up. I have a warrant for the arrest of you three gentlemen.”
+s=hannay;m=
+
+“Arrest,” said the old man, and he looked really shocked.
 s=g3;e:g3=surprised
+
+“Arrest! Good God, what for?”
+
 
 “For the murder of Franklin Scudder in London on the 23rd day of last month.”
 s=hannay
@@ -5506,17 +5575,26 @@ The old man was staring at his plate and fumbling with a nut, the very model of 
 Then the plump one spoke up. He stammered a little, like a man picking his words.
 
 
-“Don’t get flustered, uncle,” he said. “It is all a ridiculous mistake; but these things happen sometimes, and we can easily set it right. It won’t be hard to prove our innocence. I can show that I was out of the country on the 23rd of May, and Bob was in a nursing home. You were in London, but you can explain what you were doing.”
+“Don’t get flustered, uncle,” he said. “It is all a ridiculous mistake; but these things happen sometimes, and we can easily set it right. It won’t be hard to prove our innocence.”
 s=fat;e:fat=neutral
 
-“Right, Percy! Of course that’s easy enough. The 23rd! That was the day after Agatha’s wedding. Let me see. What was I doing? I came up in the morning from Woking, and lunched at the club with Charlie Symons. Then—oh yes, I dined with the Fishmongers. I remember, for the punch didn’t agree with me, and I was seedy next morning. Hang it all, there’s the cigar-box I brought back from the dinner.”
+“I can show that I was out of the country on the 23rd of May, and Bob was in a nursing home. You were in London, but you can explain what you were doing.”
+
+
+“Right, Percy! Of course that’s easy enough. The 23rd! That was the day after Agatha’s wedding. Let me see. What was I doing?”
 s=g3;e:g3=thinking
+
+“I came up in the morning from Woking, and lunched at the club with Charlie Symons. Then—oh yes, I dined with the Fishmongers. I remember, for the punch didn’t agree with me, and I was seedy next morning. Hang it all, there’s the cigar-box I brought back from the dinner.”
+
 
 He pointed to an object on the table, and laughed nervously.
 s=;e:g3=happy
 
-“I think, sir,” said the young man, addressing me respectfully, “you will see you are mistaken. We want to assist the law like all Englishmen, and we don’t want Scotland Yard to be making fools of themselves. That’s so, uncle?”
+“I think, sir,” said the young man, addressing me respectfully, “you will see you are mistaken.”
 s=slim;e:slim=neutral
+
+“We want to assist the law like all Englishmen, and we don’t want Scotland Yard to be making fools of themselves. That’s so, uncle?”
+
 
 “Certainly, Bob.”
 s=g3
@@ -5527,8 +5605,14 @@ s=
 “Certainly, we’ll do anything in our power to assist the authorities. But—but this is a bit too much. I can’t get over it.”
 s=g3
 
-“How Nellie will chuckle,” said the plump man. “She always said that you would die of boredom because nothing ever happened to you. And now you’ve got it thick and strong,” and he began to laugh very pleasantly.
+“How Nellie will chuckle,” said the plump man.
 s=fat;e:fat=happy
+
+“She always said that you would die of boredom because nothing ever happened to you.”
+
+
+“And now you’ve got it thick and strong,” and he began to laugh very pleasantly.
+
 
 “By Jove, yes. Just think of it! What a story to tell at the club. Really, Mr. Hannay, I suppose I should be angry, to show my innocence, but it’s too funny! I almost forgive you the fright you gave me! You looked so glum, I thought I might have been walking in my sleep and killing people.”
 
@@ -5597,10 +5681,10 @@ I felt mesmerized by the whole place, by the air of obvious innocence—not inno
 b=think
 
 “Oh, Peter Pienaar,” I groaned inwardly, and for a moment I was very near damning myself for a fool and asking their pardon.
-
+m=dialogue
 
 “Meantime I vote we have a game of bridge,” said the plump one.
-s=fat;e:fat=;b=lodge-dining-room
+s=fat;e:fat=;b=lodge-dining-room;m=
 
 “It will give Mr. Hannay time to think over things, and you know we have been wanting a fourth player. Do you play, sir?”
 e:fat=happy
@@ -5780,7 +5864,7 @@ Someone switched on the light.
 b=lodge-smoking-room;f:b:lodge-smoking-room=
 
 The old man was looking at me with blazing eyes.
-e:g3=angry;c=g3
+e:g3=angry
 
 “He is safe,” he cried. “You cannot follow in time… He is gone… He has triumphed… *Der Schwarzestein ist in der Siegeskrone.*”
 s=g3
@@ -5810,7 +5894,7 @@ Three weeks later, as all the world knows, we went to war. I joined the New Army
 e:hannay=happy;b=mapE
 
 <e>First off, it's hilarious that the book just throws up its hands and immediately ends considering how much dead time this final chapter had. No real conclusion for you, reader!</e>
-
+b=title
 
 <e>And then the implications of "three weeks later, as all the world knows, we went to war" are utterly bizarre. Three weeks from June 15th, 1914 is after Franz Ferdinand's assassination date — so the strong implication is that that <b>does not</b> happen in this timeline. And the date also doesn't correspond to when Britain (or any nation really) declared war in OTL, so this necessarily must be a very different WW1. Not to mention that, with Greece now run by Constantine I's faction, you'd expect them to be either neutral or even potentially just straight-up allied with the Central Powers, instead of cooperating with the Entente as they did in real life (in a complicated way). Which means no Macedonian front and no Gallipoli.</e>
 
