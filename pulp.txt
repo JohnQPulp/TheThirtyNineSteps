@@ -1,10 +1,7 @@
 <div class='center'><span class='big italics'>The Thirty-Nine Steps</span> by His Excellency The Right Honourable John Buchan, 1st Baron Tweedsmuir, GCMG, GCVO, CH, PC, DL, Governor General and Commander-in-Chief of the Dominion of Canada</div><e>I copied over all Buchan's titles from Wikipedia. I don't really know what any of them mean, but they're funny. (Also don't read his Wikipedia article until after the book, since there are spoilers.)</e>
 n:author=;b=title;t=author;h=no-speaker-counter;z:author=90;z:author-abased=50,,4
 
-<e>Some important context to begin: this book was written in late 1914 and published serially in 1915, so while World War I is going on. However, the book gives no introductory context — not even in the <a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">original magazine publication</a> — to explain <b>when</b> the book is meant to take place. As a reader, you're just meant to intuit that it's set sometime <b>before</b> the war (though not too long before), which would be more obvious to the readers back then.</e>
-
-
-## I. The Man Who Died
+## I. The Man Who Died<e>Some important context to begin: this book was written in late 1914 and published serially in 1915, so while World War I is going on. However, the book gives no introductory context — not even in the <a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">original magazine publication</a> — to explain <b>when</b> the book is meant to take place. As a reader, you're just meant to intuit that it's set sometime <b>before</b> the war (though not too long before), which would be more obvious to the readers back then.</e>
 t=;b=card
 
 I returned from the city about three o’clock on that May afternoon pretty well disgusted with life.
@@ -26,16 +23,16 @@ I couldn’t get enough exercise, and the amusements of London seemed as flat as
 s=hannay
 
 It made me bite my lips to think of the plans I had been building up those last years in Bulawayo.
-s=;e:hannay=unhappy;b=mapA
+s=;e:hannay=unhappy
 
 I had got my pile—not one of the big ones, but good enough for me; and I had figured out all kinds of ways of enjoying myself.
 
 
 My father had brought me out from Scotland at the age of six, and I had never been home since; so England was a sort of *Arabian Nights* to me, and I counted on stopping there for the rest of my days.
-b=mapB
+
 
 But from the first I was disappointed with it.
-
+b=london
 
 In about a week I was tired of seeing sights, and in less than a month I had had enough of restaurants and theatres and race-meetings.
 e:hannay=weary;b=london
@@ -116,7 +113,7 @@ I was just fitting my key into the door when I noticed a man at my elbow.
 n:scudder=?;e:hannay=surprised;b=flat-hall;z:scudder=97,56,1
 
 I had not seen him approach, and the sudden appearance made me start.
-c=scudder,;e:scudder=fearful;v=,130
+;e:scudder=fearful;v=,130
 
 He was a slim man, with a short brown beard and small, gimlety blue eyes.
 
@@ -131,10 +128,10 @@ He was steadying his voice with an effort, and his hand was pawing my arm.
 s=
 
 I got my door open and motioned him in.
-c=;b=light
+c=;b=flat
 
 No sooner was he over the threshold than he made a dash for my back room, where I used to smoke and write my letters.
-b=flat
+
 
 Then he bolted back.
 
@@ -824,7 +821,7 @@ I considered that Scotland would be best, for my people were Scotch and I could 
 b=mapS
 
 I had half an idea at first to be a German tourist, for my father had had German partners, and I had been brought up to speak the tongue pretty fluently, not to mention having put in three years prospecting for copper in German Damaraland.
-b=mapA
+
 
 But I calculated that it would be less conspicuous to be a Scot, and less in a line with what the police might know of my past.
 b=mapS
