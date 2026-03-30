@@ -1400,10 +1400,10 @@ Slowly he repeated—
 
 
 “As when a Gryphon through the wilderness<br>With winged step, o’er hill and moory dale<br>Pursues the Arimaspian.”<e>Rather on-the-nose choice of poetry, but when are they are ever not.</e>
-s=innkeeper;e:innkeeper=thinking
+s=innkeeper;e:innkeeper=thinking;m=margin
 
 He jumped round as my step rung on the keystone, and I saw a pleasant sunburnt boyish face.
-s=;e:innkeeper=surprised
+s=;e:innkeeper=surprised;m=
 
 “Good evening to you,” he said gravely. “It’s a fine night for the road.”
 s=innkeeper;e:innkeeper=happy
@@ -4972,17 +4972,17 @@ I don’t know if I can explain myself, but I used to use my brains as far as th
 So I set out all my conclusions on a bit of Admiralty paper. They ran like this:
 e:hannay=thinking;b=think
 
-Fairly Certain<br>1.  Place where there are several sets of stairs; one that matters distinguished by having thirty-nine steps.<br>2.  Full tide at 10:17 p.m. Leaving shore only possible at full tide.<br>3.  Steps not dock steps, and so place probably not harbour.<br>4.  No regular night steamer at 10:17. Means of transport must be tramp (unlikely), yacht, or fishing-boat.
-
+<div class='upper center'>Fairly Certain</div>1.  Place where there are several sets of stairs; one that matters distinguished by having thirty-nine steps.<br>2.  Full tide at 10:17 p.m. Leaving shore only possible at full tide.<br>3.  Steps not dock steps, and so place probably not harbour.<br>4.  No regular night steamer at 10:17. Means of transport must be tramp (unlikely), yacht, or fishing-boat.
+m=margin
 
 There my reasoning stopped. I made another list, which I headed “Guessed,” but I was just as sure of the one as the other.
+m=
 
-
-Guessed<br>1.  Place not harbour but open coast.<br>2.  Boat small—trawler, yacht, or launch.<br>3.  Place somewhere on East Coast between Cromer and Dover.
-
+<div class='upper center'>Guessed</div>1.  Place not harbour but open coast.<br>2.  Boat small—trawler, yacht, or launch.<br>3.  Place somewhere on East Coast between Cromer and Dover.
+m=margin
 
 It struck me as odd that I should be sitting at that desk with a Cabinet minister, a field marshal, two high government officials, and a French general watching me, while from the scribble of a dead man I was trying to drag a secret which meant life or death for us.<e>Is this fanfiction?</e>
-b=map-room
+b=map-room;m=
 
 Sir Walter had joined us, and presently MacGillivray arrived. He had sent out instructions to watch the ports and railway stations for the three men whom I had described to Sir Walter.
 
