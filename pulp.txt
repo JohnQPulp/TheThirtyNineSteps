@@ -1,7 +1,7 @@
 The Thirty-Nine Steps<br>His Excellency The Right Honourable John Buchan, 1st Baron Tweedsmuir, GCMG, GCVO, CH, PC, DL, Governor General and Commander-in-Chief of the Dominion of Canada<e>I copied over all Buchan's titles from Wikipedia. I don't really know what any of them mean, but they're funny. (Also don't read his Wikipedia article until after the book, since there are spoilers.)</e>
 n:author=;b=title;t=author;h=no-speaker-counter;z:author=90;z:author-abased=90,20,15
 
-## I. The Man Who Died<e>Some important context to begin: this book was written in late 1914 and published serially in 1915, so while World War I is going on. However, the book gives no introductory context — not even in the <a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">original magazine publication</a> — to explain <b>when</b> the book is meant to take place. As a reader, you're just meant to intuit that it's set sometime <b>before</b> the war (though not too long before), which would be more obvious to the readers back then.</e>
+## I<br>The Man Who Died<e>Some important context to begin: this book was written in late 1914 and published serially in 1915, so while World War I is going on. However, the book gives no introductory context — not even in the <a href="https://archive.org/details/johnbuchanthirtyninestepspart1/page/n33/mode/2up">original magazine publication</a> — to explain <b>when</b> the book is meant to take place. As a reader, you're just meant to intuit that it's set sometime <b>before</b> the war (though not too long before), which would be more obvious to the readers back then.</e>
 t=;b=card
 
 I returned from the city about three o’clock on that May afternoon pretty well disgusted with life.
@@ -655,7 +655,7 @@ e:hannay=fearful;f:b:flat-smoking-room-murder-mod-dark=
 My guest was lying sprawled on his back. There was a long knife through his heart which skewered him to the floor.<e>Almost like a real visual novel!</e>
 b=flat-smoking-room-murder-mod-pink
 
-## II. The Milkman Sets Out on His Travels
+## II<br>The Milkman Sets Out on His Travels
 r=card
 
 I sat down in an armchair and felt very sick.
@@ -1027,7 +1027,7 @@ s=;e:sailor=unhappy
 I reminded myself that a week ago I had been finding the world dull.
 e:hannay=smirking
 
-## III. The Adventure of the Literary Innkeeper<e>A chapter title that really promises adventure.</e>
+## III<br>The Adventure of the Literary Innkeeper<e>A chapter title that really promises adventure.</e>
 r=card
 
 I had a solemn time travelling north that day.
@@ -1696,7 +1696,7 @@ I started her, jumped into the chauffeur’s seat, and stole gently out on to th
 Almost at once the road dipped so that I lost sight of the inn, but the wind seemed to bring me the sound of angry voices.
 b=zoom
 
-## IV. The Adventure of the Radical Candidate
+## IV<br>The Adventure of the Radical Candidate
 r=card
 
 You may picture me driving that 40 hp car for all she was worth over the crisp moor roads on that shining May morning; glancing back at first over my shoulder, and looking anxiously to the next turning; then driving with a vague eye, just wide enough awake to keep on the highway.<e>I <i>may</i> picture you? I will!</e>
@@ -2257,7 +2257,7 @@ e:hannay=happy;b=glen
 Here, at any rate, I could get early news of my enemies.
 e:hannay=thinking
 
-## V. The Adventure of the Spectacled Roadman
+## V<br>The Adventure of the Spectacled Roadman
 r=card
 
 I sat down on the very crest of the pass and took stock of my position.<e>I'm starting to sense a pattern.</e>
@@ -2797,7 +2797,7 @@ s=;e:hannay=thinking
 Contrary to general belief, I was not a murderer, but I had become an unholy liar, a shameless impostor, and a highwayman with a marked taste for expensive motorcars.<e>"Contrary to general belief".</e>
 e:hannay=smirking
 
-## VI. The Adventure of the Bald Archaeologist<e>A reminder you could be reading <a href="https://372pages.com/ep-151-the-adventures-of-the-teen-archeologists-intro"><i>The Adventures of the Teen Archaeologists</i></a> instead.</e>
+## VI<br>The Adventure of the Bald Archaeologist<e>A reminder you could be reading <a href="https://372pages.com/ep-151-the-adventures-of-the-teen-archeologists-intro"><i>The Adventures of the Teen Archaeologists</i></a> instead.</e>
 r=card;a:hannay=c5
 
 I spent the night on a shelf of the hillside, in the lee of a boulder where the heather grew long and soft.
@@ -3643,7 +3643,7 @@ e:hannay=happy;b=light
 But I did not stop till I had put half a dozen miles between me and that accursed dwelling.
 e:hannay=weary
 
-## VII. The Dry-Fly Fisherman
+## VII<br>The Dry-Fly Fisherman
 r=card
 
 I sat down on a hilltop and took stock of my position.<e>Why do all serials get stuck in these loops? It's <book>The Jungle</book> out there.</e>
@@ -4246,7 +4246,7 @@ s=bullivant
 “Karolides was shot dead this evening at a few minutes after seven.”<e>Okay then, so we're definitely in an alternate timeline now. Put a pin in that.</e>
 e:bullivant=fearful;e:hannay=fearful
 
-## VIII. The Coming of the Black Stone
+## VIII<br>The Coming of the Black Stone
 r=card
 
 I came down to breakfast next morning, after eight hours of blessed dreamless sleep, to find Sir Walter decoding a telegram in the midst of muffins and marmalade.
@@ -4723,7 +4723,7 @@ s=hannay;e:hannay=serious;m=allowbreak
 and I sat down in the chair so recently vacated and looked round at five badly scared gentlemen.
 m=;s=
 
-## IX. The Thirty-Nine Steps
+## IX<br>The Thirty-Nine Steps
 r=card
 
 “Nonsense!” said the official from the Admiralty.
@@ -5095,7 +5095,7 @@ s=royer;e:royer=happy
 By half-past three I was tearing past the moonlit hedgerows of Kent, with MacGillivray’s best man on the seat beside me.
 s=;e:hannay=excited;b=zoom
 
-## X. Various Parties Converging on the Sea
+## X<br>Various Parties Converging on the Sea
 r=card
 
 A pink and blue June morning found me at Bradgate looking from the Griffin Hotel over a smooth sea to the lightship on the Cock sands which seemed the size of a bell-buoy.
